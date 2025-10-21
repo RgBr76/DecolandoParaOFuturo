@@ -7,7 +7,7 @@ import joblib
 from sklearn.preprocessing import LabelEncoder
 
 # Carregando o Dataset de Aviação
-dados = pd.read_csv('aviacao_falhas.csv')
+dados = pd.read_csv('../data/aviacao_falhas.csv')
 
 print("📊 Estatísticas do Dataset:")
 print(f"Total de registros: {len(dados)}")

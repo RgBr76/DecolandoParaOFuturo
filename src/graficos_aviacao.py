@@ -6,10 +6,10 @@ import numpy as np
 
 # Carregando o Dataset de Aviação
 try:
-    dados = pd.read_csv("aviacao_falhas.csv")
-    print("Dados carregados para gráficos")
-except:
-    print("Erro ao carregar dados")
+    dados = pd.read_csv('../data/aviacao_falhas.csv')  # ← CORRIGIDO: caminho relativo
+    print("✅ Dados carregados para gráficos")
+except Exception as e:
+    print(f"❌ Erro ao carregar dados: {e}")
     dados = pd.DataFrame()
 
 # Configuração global para gráficos
@@ -20,7 +20,29 @@ CONFIG_GRAFICO = {
     'responsive': True
 }
 
-#  GRÁFICO 1: Distribuição de Idade das Aeronaves 
+# ========== FUNÇÃO PARA CRIAR GRÁFICO VAZIO ==========
+def criar_grafico_vazio(titulo="Dados não disponíveis"):
+    """Cria um gráfico vazio com mensagem amigável"""
+    fig = go.Figure()
+    fig.update_layout(
+        title=titulo,
+        xaxis={"visible": False},
+        yaxis={"visible": False},
+        annotations=[
+            {
+                "text": "📊 Dados não carregados",
+                "xref": "paper",
+                "yref": "paper",
+                "showarrow": False,
+                "font": {"size": 16}
+            }
+        ],
+        height=400,
+        margin=dict(l=50, r=50, t=50, b=50)
+    )
+    return fig
+
+# ========== GRÁFICO 1: Distribuição de Idade das Aeronaves ==========
 if not dados.empty:
     histograma_idade = px.histogram(
         dados, 
@@ -39,9 +61,9 @@ if not dados.empty:
         font=dict(size=12)
     )
 else:
-    histograma_idade = px.histogram(title="Dados não disponíveis")
+    histograma_idade = criar_grafico_vazio("Distribuição da Idade das Aeronaves")
 
-# GRÁFICO 2: Taxa de Falha por Modelo 
+# ========== GRÁFICO 2: Taxa de Falha por Modelo ==========
 if not dados.empty:
     falha_por_modelo = dados.groupby('modelo_aeronave')['falha_critica'].agg(['mean', 'count']).reset_index()
     falha_por_modelo.columns = ['modelo_aeronave', 'taxa_falha', 'total_aeronaves']
@@ -72,9 +94,9 @@ if not dados.empty:
         customdata=falha_por_modelo['total_aeronaves']
     )
 else:
-    grafico_modelo = px.bar(title="Dados não disponíveis")
+    grafico_modelo = criar_grafico_vazio("Taxa de Falha por Modelo de Aeronave")
 
-#GRÁFICO 3: Taxa de Falha por Tipo de Motor
+# ========== GRÁFICO 3: Taxa de Falha por Tipo de Motor ==========
 if not dados.empty:
     falha_por_motor = dados.groupby('tipo_motor')['falha_critica'].agg(['mean', 'count']).reset_index()
     falha_por_motor.columns = ['tipo_motor', 'taxa_falha', 'total_aeronaves']
@@ -101,9 +123,9 @@ if not dados.empty:
         customdata=falha_por_motor['taxa_falha']
     )
 else:
-    grafico_motor = px.pie(title="Dados não disponíveis")
+    grafico_motor = criar_grafico_vazio("Distribuição por Tipo de Motor")
 
-#GRÁFICO 4: Horas de Voo vs Falhas
+# ========== GRÁFICO 4: Horas de Voo vs Falhas ==========
 if not dados.empty:
     scatter_horas_falha = px.scatter(
         dados,
@@ -136,9 +158,9 @@ if not dados.empty:
         )
     )
 else:
-    scatter_horas_falha = px.scatter(title="Dados não disponíveis")
+    scatter_horas_falha = criar_grafico_vazio("Horas de Voo vs Idade")
 
-#GRÁFICO 5: Manutenção vs Falhas
+# ========== GRÁFICO 5: Manutenção vs Falhas ==========
 if not dados.empty:
     dados['categoria_manutencao'] = pd.cut(
         dados['ultima_manutencao_meses'],
@@ -172,9 +194,9 @@ if not dados.empty:
         textposition='outside'
     )
 else:
-    grafico_manutencao = px.bar(title="Dados não disponíveis")
+    grafico_manutencao = criar_grafico_vazio("Taxa de Falha por Tempo desde Última Manutenção")
 
-# GRÁFICO 6: Tipos de Falha
+# ========== GRÁFICO 6: Tipos de Falha ==========
 if not dados.empty and 'tipo_falha' in dados.columns:
     tipos_falha = dados[dados['falha_critica'] == 1]['tipo_falha'].value_counts().reset_index()
     tipos_falha.columns = ['tipo_falha', 'quantidade']
@@ -197,9 +219,9 @@ if not dados.empty and 'tipo_falha' in dados.columns:
         font=dict(size=12)
     )
 else:
-    grafico_tipos_falha = px.bar(title="Tipos de Falha (Dados não disponíveis)")
+    grafico_tipos_falha = criar_grafico_vazio("Distribuição dos Tipos de Falha")
 
-# GRÁFICO 7: Heatmap de Correlação 
+# ========== GRÁFICO 7: Heatmap de Correlação ==========
 if not dados.empty:
     colunas_numericas = ['idade_aeronave_anos', 'horas_voo_total', 'ultima_manutencao_meses', 
                         'ciclos_pouso_decolagem', 'temperatura_media_operacao', 'falha_critica']
@@ -221,15 +243,15 @@ if not dados.empty:
         font=dict(size=12)
     )
 else:
-    heatmap_correlacao = px.imshow(title="Dados não disponíveis")
+    heatmap_correlacao = criar_grafico_vazio("Matriz de Correlação entre Variáveis")
 
-#LAYOUT DO DASHBOARD 
+# ========== LAYOUT DO DASHBOARD ==========
 layout = html.Div([
     # Cabeçalho
     html.Div([
         html.H1("Dashboard de Análise de Falhas em Aeronaves", 
             style={"textAlign": "center", "marginBottom": "10px", "color": "#2c3e50"}),
-        html.P("Análise exploratória do dataset de falhas em aeronaves - Dados fictícios para demonstração",
+        html.P("Análise exploratória do dataset de falhas em aeronaves",
             style={"textAlign": "center", "color": "#7f8c8d", "marginBottom": "30px"})
     ]),
     
@@ -342,4 +364,4 @@ layout = html.Div([
     ])
 ])
 
-print("Dashboard de gráficos atualizado com layout controlado")
+print("✅ Dashboard de gráficos atualizado e corrigido")
