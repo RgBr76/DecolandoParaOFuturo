@@ -6,7 +6,7 @@ import numpy as np
 
 # Carregando o Dataset de Aviação
 try:
-    dados = pd.read_csv('../data/aviacao_falhas.csv')  # ← CORRIGIDO: caminho relativo
+    dados = pd.read_csv('aviacao_falhas.csv')  # caminho relativo
     print("✅ Dados carregados para gráficos")
 except Exception as e:
     print(f"❌ Erro ao carregar dados: {e}")

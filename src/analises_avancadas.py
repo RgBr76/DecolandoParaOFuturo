@@ -10,7 +10,7 @@ from app import app
 
 # Carregar dados
 try:
-    dados = pd.read_csv('../data/aviacao_falhas.csv')
+    dados = pd.read_csv('aviacao_falhas.csv')
     print("Dados carregados para análises avançadas")
 except:
     print("Erro ao carregar dados")

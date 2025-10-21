@@ -8,10 +8,10 @@ from app import app
 
 # Carregar modelo e metadados
 try:
-    modelo = joblib.load("../models/modelo_aviacao.pkl")
-    label_encoders = joblib.load("../models/label_encoders.pkl")
-    features_modelo = joblib.load("../models/features_modelo.pkl")
-    mapeamento_categorias = joblib.load("../models/mapeamento_categorias.pkl")
+    modelo = joblib.load("modelo_aviacao.pkl")
+    label_encoders = joblib.load("label_encoders.pkl")
+    features_modelo = joblib.load("features_modelo.pkl")
+    mapeamento_categorias = joblib.load("mapeamento_categorias.pkl")
     print("Modelo e metadados carregados com sucesso!")
 except Exception as e:
     print(f"Erro ao carregar modelo: {e}")

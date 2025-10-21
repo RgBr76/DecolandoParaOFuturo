@@ -1,0 +1,2001 @@
+modelo_aeronave,idade_aeronave_anos,horas_voo_total,tipo_motor,companhia_aerea,ultima_manutencao_meses,ciclos_pouso_decolagem,temperatura_media_operacao,falha_critica,tipo_falha
+Airbus A350,15,7210,Turboprop,GOL,7,3864,-12.840676596364556,0.0,Nenhuma
+Airbus A330,12,21884,Turbojato,Azul,22,141,-26.09782173482546,0.0,Nenhuma
+Embraer E190,16,21538,Turbofan,Azul,21,496,-2.9528894413433022,1.0,Comunicações
+Airbus A350,24,41346,Turbojato,Azul,17,158,-1.5566664554231906,0.0,Nenhuma
+Boeing 787,19,22947,Turbofan,Emirates,16,4462,-38.63080142330636,1.0,Sistema de Pouso
+Bombardier CRJ,8,2785,Turboprop,LATAM,19,3289,-30.051168819962278,0.0,Nenhuma
+Embraer E190,21,38491,Turboprop,American,9,4103,-24.281288404310516,1.0,Estrutural
+Embraer E190,17,14021,Turbojato,GOL,14,4587,-30.345078022812636,1.0,Outros
+Airbus A350,23,48157,Turboprop,LATAM,17,1295,-10.970283589184074,0.0,Nenhuma
+Airbus A320,5,7471,Turboprop,British,5,2770,41.99294272744653,0.0,Nenhuma
+Boeing 787,22,29639,Turbojato,American,2,327,3.28391575780163,0.0,Nenhuma
+Airbus A350,16,20409,Turbofan,American,20,3106,13.34226202900495,0.0,Nenhuma
+Boeing 787,6,12031,Turboprop,United,16,4714,-9.707149325542606,1.0,Pressurização
+Boeing 787,8,15221,Turbojato,United,14,2972,-12.503540260332585,0.0,Nenhuma
+Bombardier CRJ,25,19706,Turboprop,Emirates,14,2563,-38.03252438722429,1.0,Elétrico
+Embraer E190,18,38211,Turboprop,GOL,1,888,2.5283607324619055,1.0,Pressurização
+Airbus A330,25,7030,Turboprop,British,3,2851,1.1067655738916358,0.0,Nenhuma
+Bombardier CRJ,12,11616,Turboprop,GOL,7,79,-26.584388274604542,1.0,Sistema de Pouso
+Bombardier CRJ,15,758,Turbojato,GOL,15,1307,24.967540017569817,0.0,Nenhuma
+Boeing 787,27,782,Turbojato,Emirates,19,414,1.8773180764352517,1.0,Estrutural
+Boeing 777,26,14437,Turbojato,Emirates,20,1850,-11.18551253626627,1.0,Sistema Hidráulico
+Embraer E190,9,2398,Turboprop,LATAM,2,954,-27.51274273305121,0.0,Nenhuma
+Airbus A320,13,4635,Turboprop,Delta,19,4843,6.933670292536057,1.0,Instrumentos
+Bombardier CRJ,26,7129,Turboprop,Emirates,9,2228,23.98944721754883,1.0,Estrutural
+Airbus A330,15,44436,Turbojato,GOL,19,2900,-16.030055021777407,1.0,Motor
+Boeing 777,10,20084,Turboprop,United,5,2886,-21.402480115978584,0.0,Nenhuma
+Boeing 777,16,24051,Turbofan,Delta,18,4496,4.3644719454890435,0.0,Nenhuma
+Airbus A320,7,33880,Turboprop,LATAM,16,229,-26.79581928664856,0.0,Nenhuma
+Bombardier CRJ,17,47471,Turbofan,Delta,4,3923,16.66213786051422,0.0,Nenhuma
+Airbus A330,23,17571,Turboprop,Azul,12,4010,11.45420837525959,0.0,Nenhuma
+Embraer E190,26,20574,Turbojato,British,7,1236,-32.59802578472857,0.0,Nenhuma
+Boeing 737,21,25688,Turboprop,Delta,14,4009,-36.89576775258322,1.0,Estrutural
+Airbus A330,22,2807,Turbofan,GOL,23,823,12.724535470029714,0.0,Nenhuma
+Airbus A320,26,40401,Turbofan,LATAM,12,4655,-14.985029210957034,0.0,Nenhuma
+Boeing 777,7,11705,Turboprop,British,3,4510,-32.65211098026113,0.0,Nenhuma
+Embraer E190,14,6406,Turbofan,GOL,5,402,24.551439921301352,1.0,Outros
+Airbus A330,15,3091,Turbofan,British,17,4557,-13.306259743500249,1.0,Pressurização
+Boeing 737,21,15649,Turbojato,United,10,4880,-0.9340382807509968,0.0,Nenhuma
+Boeing 737,7,45418,Turboprop,Azul,10,3078,-19.870901166429615,0.0,Nenhuma
+Boeing 787,9,40451,Turboprop,United,11,167,13.32195166042699,0.0,Nenhuma
+Boeing 787,19,25650,Turboprop,GOL,17,531,-14.373484694879448,0.0,Nenhuma
+Airbus A350,16,32352,Turbofan,GOL,5,4337,42.28178170434842,0.0,Nenhuma
+Airbus A320,8,43370,Turboprop,GOL,13,2687,19.750541632437056,1.0,Motor
+Bombardier CRJ,18,1783,Turboprop,American,10,156,-28.37860650825541,0.0,Nenhuma
+Airbus A330,27,34191,Turbojato,Azul,9,4527,-4.580938627755323,0.0,Nenhuma
+Airbus A330,23,1625,Turbojato,British,17,4928,-7.239206522960316,0.0,Nenhuma
+Bombardier CRJ,29,2029,Turbojato,Emirates,1,293,5.411004411232561,0.0,Nenhuma
+Airbus A350,18,26670,Turbofan,GOL,4,2682,31.564107330736533,0.0,Nenhuma
+Boeing 777,20,8938,Turboprop,GOL,4,4613,9.59087129055515,0.0,Nenhuma
+Boeing 777,7,20595,Turbojato,British,18,915,-34.76768240400006,0.0,Nenhuma
+Airbus A350,3,16654,Turbojato,Emirates,9,3031,15.71033422824268,0.0,Nenhuma
+Boeing 777,18,8504,Turbojato,United,18,1611,-39.297449674602035,0.0,Nenhuma
+Boeing 787,27,10252,Turboprop,United,14,653,26.296639145933412,0.0,Nenhuma
+Airbus A330,10,43860,Turboprop,GOL,15,3112,16.66406615495557,0.0,Nenhuma
+Airbus A350,7,27319,Turboprop,LATAM,6,4068,-13.753219040030192,1.0,Sistema de Pouso
+Airbus A330,17,37132,Turbofan,American,10,2065,-15.142446609891163,0.0,Nenhuma
+Bombardier CRJ,14,27015,Turbofan,United,15,1708,27.853204706435974,0.0,Nenhuma
+Boeing 737,24,24717,Turbojato,LATAM,4,3430,26.58361881359275,0.0,Nenhuma
+Boeing 787,3,23672,Turboprop,American,18,3817,-10.054299877975406,0.0,Nenhuma
+Embraer E190,12,33494,Turbojato,GOL,18,3820,-14.589443113218675,0.0,Nenhuma
+Boeing 787,28,15536,Turboprop,Azul,17,1663,7.585107055037149,0.0,Nenhuma
+Airbus A350,13,12239,Turboprop,Delta,12,1929,-39.28891890134774,0.0,Nenhuma
+Embraer E190,2,32720,Turboprop,Delta,7,4158,-32.97330177114391,0.0,Nenhuma
+Boeing 737,3,49916,Turbofan,GOL,16,2396,-29.27558483735738,1.0,Motor
+Airbus A350,5,10087,Turbofan,United,11,1149,-24.239995484690194,0.0,Nenhuma
+Airbus A320,11,45017,Turboprop,LATAM,14,1124,3.5215407674148693,1.0,Motor
+Airbus A330,8,30629,Turbojato,Azul,3,836,44.340562763195365,0.0,Nenhuma
+Boeing 737,26,1145,Turboprop,British,19,198,15.472139148525045,1.0,Estrutural
+Airbus A330,23,31430,Turboprop,American,18,1804,-34.789602471815996,0.0,Nenhuma
+Boeing 777,23,16799,Turbojato,GOL,10,2219,4.67424679529055,0.0,Nenhuma
+Airbus A320,12,30590,Turboprop,Azul,6,3806,2.2148430531078773,1.0,Outros
+Airbus A320,7,22453,Turbojato,Emirates,13,1229,-27.745735655465793,0.0,Nenhuma
+Boeing 737,15,46943,Turbofan,Azul,10,3359,38.22315134820465,0.0,Nenhuma
+Airbus A320,24,26975,Turbofan,United,18,2473,-2.5349539475936353,1.0,Sistema Hidráulico
+Embraer E190,17,19388,Turbojato,Emirates,20,4227,44.53752695182787,1.0,Sistemas de Navegação
+Airbus A320,4,44232,Turbofan,American,16,4637,-4.293854903566036,0.0,Nenhuma
+Airbus A330,29,16587,Turbofan,Emirates,6,974,11.676404728106789,0.0,Nenhuma
+Airbus A330,22,46805,Turbojato,Azul,13,1653,-31.095184401627595,1.0,Estrutural
+Airbus A350,25,46537,Turbofan,United,4,3102,-1.3906349764161163,1.0,Elétrico
+Airbus A330,13,9846,Turboprop,Emirates,23,4268,-19.70489900966227,1.0,Comunicações
+Airbus A350,18,1087,Turboprop,LATAM,14,4853,31.023007878554978,0.0,Nenhuma
+Airbus A330,1,13263,Turbojato,United,1,2427,26.633164713740896,0.0,Nenhuma
+Embraer E190,16,42445,Turbofan,LATAM,20,3530,30.055299968155467,1.0,Motor
+Bombardier CRJ,13,4579,Turboprop,LATAM,5,3232,21.50680220942587,0.0,Nenhuma
+Airbus A350,10,36616,Turboprop,Emirates,8,2867,30.778074007704348,0.0,Nenhuma
+Boeing 787,12,20715,Turbofan,Emirates,12,3210,-22.929556235131727,1.0,Sistema de Pouso
+Boeing 777,2,26317,Turbofan,British,2,4855,-1.5762789907168582,0.0,Nenhuma
+Boeing 737,23,25265,Turboprop,British,12,4939,18.806984795407296,1.0,Sistema Hidráulico
+Airbus A330,3,30612,Turboprop,Azul,5,761,14.178362324486464,0.0,Nenhuma
+Airbus A320,10,26056,Turbojato,United,22,2636,20.89013104429739,0.0,Nenhuma
+Bombardier CRJ,2,18599,Turbojato,British,5,2698,-20.938037432145304,0.0,Nenhuma
+Airbus A330,27,44053,Turboprop,LATAM,13,1767,-31.633049731175873,1.0,Elétrico
+Airbus A320,23,45596,Turbojato,British,9,4402,37.928559136356,0.0,Nenhuma
+Boeing 777,13,6950,Turboprop,American,10,920,7.6146111232254725,0.0,Nenhuma
+Boeing 777,13,13730,Turboprop,Azul,1,3624,-26.92479641687007,0.0,Nenhuma
+Boeing 777,18,29509,Turbojato,United,3,4954,27.442109460425726,1.0,Sistema de Pouso
+Airbus A320,3,5933,Turbojato,United,18,320,37.769044613489015,1.0,Pressurização
+Airbus A330,27,34366,Turbofan,Delta,12,1593,-25.58710092145573,0.0,Nenhuma
+Boeing 777,7,40364,Turbofan,United,3,599,29.480058697874398,0.0,Nenhuma
+Embraer E190,14,19210,Turbofan,Azul,9,4713,39.32413021212591,0.0,Nenhuma
+Airbus A350,20,11939,Turboprop,American,2,4064,39.76073602516148,1.0,Pressurização
+Airbus A320,29,42355,Turbojato,United,3,4504,37.703299240547594,1.0,Estrutural
+Airbus A320,17,16521,Turboprop,Delta,14,1762,6.445786050608731,1.0,Outros
+Airbus A330,29,6916,Turbojato,Azul,4,3290,-9.722038033421114,1.0,Sistema Hidráulico
+Airbus A320,21,7480,Turboprop,LATAM,19,1412,-39.38181134600921,1.0,Elétrico
+Airbus A320,12,18558,Turbofan,GOL,13,4943,-34.8224607159202,1.0,Sistema de Pouso
+Boeing 777,25,11601,Turbofan,GOL,7,1334,-3.548683699721792,0.0,Nenhuma
+Airbus A330,16,41218,Turbofan,LATAM,12,936,-6.057277556721623,0.0,Nenhuma
+Boeing 777,24,33102,Turboprop,British,3,2308,-24.299317686559927,0.0,Nenhuma
+Airbus A350,12,9622,Turbojato,United,23,4432,-6.3841976173091695,0.0,Nenhuma
+Bombardier CRJ,15,13076,Turbojato,Emirates,23,1835,-25.15474443629371,0.0,Nenhuma
+Airbus A350,25,28016,Turbofan,GOL,9,4888,32.14725648594644,0.0,Nenhuma
+Bombardier CRJ,10,22933,Turbofan,British,2,3593,-14.653435380574098,0.0,Nenhuma
+Boeing 777,25,1589,Turbofan,GOL,22,345,10.877969763456349,0.0,Nenhuma
+Airbus A350,7,37846,Turbofan,LATAM,9,2103,2.7416602699223773,0.0,Nenhuma
+Airbus A330,20,9627,Turbojato,United,12,2647,-35.59002340451066,1.0,Outros
+Boeing 737,5,10987,Turboprop,United,12,730,40.089866156749125,0.0,Nenhuma
+Boeing 777,1,655,Turboprop,British,15,4940,4.8142081512910835,1.0,Pressurização
+Bombardier CRJ,17,2458,Turboprop,LATAM,2,4348,-12.370100311695698,1.0,Outros
+Embraer E190,3,11193,Turboprop,British,18,374,-26.559241581189198,1.0,Sistema de Pouso
+Bombardier CRJ,13,39612,Turbofan,United,13,2341,-11.22523604821896,1.0,Sistema de Pouso
+Embraer E190,14,39047,Turbofan,Emirates,14,4472,-38.256513743011894,1.0,Pressurização
+Airbus A320,24,29295,Turbofan,United,5,1036,-9.097556795394695,0.0,Nenhuma
+Airbus A350,18,21947,Turboprop,Azul,10,3168,5.176303820882914,0.0,Nenhuma
+Embraer E190,4,37098,Turbofan,Emirates,12,810,34.1086308973303,0.0,Nenhuma
+Bombardier CRJ,18,42314,Turbofan,British,10,3743,18.426825504312795,1.0,APU
+Airbus A320,5,25715,Turbojato,Azul,11,1086,-30.51550338367448,0.0,Nenhuma
+Boeing 737,25,10294,Turbojato,LATAM,2,956,-27.44156242277331,0.0,Nenhuma
+Airbus A330,16,33709,Turbofan,American,5,414,-3.6095137354381492,1.0,Pressurização
+Airbus A330,1,22924,Turbojato,GOL,7,3463,-23.364841110703033,0.0,Nenhuma
+Airbus A330,21,47746,Turbojato,Azul,6,1119,-37.63276890546576,1.0,Sistema Hidráulico
+Embraer E190,14,37896,Turbofan,GOL,22,4419,28.426264810035974,1.0,Comunicações
+Boeing 737,15,6870,Turbofan,Delta,23,2305,-38.3405814906705,0.0,Nenhuma
+Embraer E190,9,10028,Turbofan,LATAM,3,3736,30.608616441831188,0.0,Nenhuma
+Airbus A350,15,28776,Turbofan,American,13,4269,-27.75116314219789,0.0,Nenhuma
+Embraer E190,17,44833,Turboprop,Delta,3,3131,42.84766491860488,0.0,Nenhuma
+Boeing 737,25,8679,Turboprop,Delta,21,3308,11.32928250522616,0.0,Nenhuma
+Boeing 737,24,49281,Turbofan,United,6,2157,22.47355258854111,1.0,Estrutural
+Airbus A350,4,17343,Turbojato,Delta,11,2983,-30.608891622714488,0.0,Nenhuma
+Boeing 737,12,24452,Turbofan,LATAM,17,2879,33.27884624337581,0.0,Nenhuma
+Bombardier CRJ,27,33660,Turbofan,Azul,10,491,31.33134914408076,0.0,Nenhuma
+Boeing 737,26,45398,Turbojato,LATAM,12,1609,15.504382181046005,0.0,Nenhuma
+Airbus A330,5,30016,Turboprop,Azul,17,1791,2.693363490607929,1.0,Sistema de Pouso
+Bombardier CRJ,29,10949,Turbofan,Delta,4,675,21.326579716192164,1.0,Elétrico
+Bombardier CRJ,5,21625,Turbofan,Delta,2,3913,-39.49610169636536,0.0,Nenhuma
+Airbus A350,11,7918,Turboprop,Emirates,11,1740,10.357464208869054,0.0,Nenhuma
+Boeing 787,28,23246,Turboprop,American,7,2831,32.02952146898511,0.0,Nenhuma
+Boeing 787,6,2954,Turbojato,Azul,2,140,-9.66350959014584,0.0,Nenhuma
+Boeing 737,7,18261,Turboprop,Delta,18,3056,-30.79540469895207,1.0,Sistema de Pouso
+Bombardier CRJ,24,15723,Turboprop,United,21,4352,-4.2254337718274755,1.0,Estrutural
+Boeing 787,14,7201,Turboprop,Emirates,4,1138,21.80387816997309,0.0,Nenhuma
+Boeing 787,24,3097,Turbojato,GOL,8,4661,-30.879397118492836,1.0,Estrutural
+Boeing 737,11,641,Turboprop,Emirates,20,1230,-22.48587238190435,0.0,Nenhuma
+Boeing 787,13,3159,Turboprop,American,14,1951,-27.458093019560508,0.0,Nenhuma
+Embraer E190,2,21480,Turbojato,LATAM,12,4540,27.74055922389411,0.0,Nenhuma
+Airbus A320,25,9531,Turboprop,American,22,236,-34.65412709153862,1.0,Sistema Hidráulico
+Airbus A350,7,15537,Turboprop,GOL,21,1647,18.3598526797268,0.0,Nenhuma
+Airbus A320,20,47238,Turbojato,Emirates,18,3458,-8.851161735978735,1.0,Motor
+Boeing 737,4,38929,Turbofan,Azul,11,3797,24.242255645250694,1.0,Pressurização
+Airbus A330,27,6642,Turbojato,LATAM,8,2720,41.9725905966432,1.0,Estrutural
+Airbus A350,8,12609,Turboprop,LATAM,2,4875,-30.263649535149007,0.0,Nenhuma
+Boeing 737,20,22510,Turboprop,Azul,15,289,-13.27727150926603,1.0,Outros
+Bombardier CRJ,29,9287,Turboprop,British,9,2630,28.86066135610284,0.0,Nenhuma
+Airbus A330,22,43364,Turbojato,British,19,4286,-17.37653718565,0.0,Nenhuma
+Airbus A320,21,8972,Turboprop,American,20,188,-21.714749251086523,1.0,Elétrico
+Boeing 737,19,23883,Turboprop,Delta,8,2556,30.1571281188626,0.0,Nenhuma
+Bombardier CRJ,13,4749,Turbojato,British,19,4215,43.90200094050748,1.0,Sistemas de Navegação
+Airbus A350,14,48217,Turbofan,American,5,4530,7.334850162577091,1.0,Motor
+Airbus A350,10,35018,Turbofan,British,11,4775,-16.365856391666163,0.0,Nenhuma
+Boeing 777,11,18851,Turboprop,GOL,15,2295,-6.1218932639954105,0.0,Nenhuma
+Bombardier CRJ,2,4588,Turbojato,United,8,4350,-25.538922172393235,0.0,Nenhuma
+Embraer E190,25,15782,Turboprop,Delta,19,1799,24.76041870571396,0.0,Nenhuma
+Boeing 787,26,19830,Turbojato,American,23,617,25.745291514935275,0.0,Nenhuma
+Airbus A330,9,42909,Turbojato,United,8,4950,34.38528435251203,1.0,Motor
+Bombardier CRJ,17,22278,Turbofan,United,19,931,-37.73878209429207,0.0,Nenhuma
+Boeing 777,26,24764,Turbofan,Emirates,18,689,7.768414038242234,0.0,Nenhuma
+Boeing 787,3,5575,Turbojato,British,10,4011,-21.788288080829325,0.0,Nenhuma
+Boeing 787,24,10912,Turboprop,Emirates,7,4470,-11.024943683149644,1.0,Sistema Hidráulico
+Boeing 737,6,48954,Turbofan,Azul,9,4587,26.72122729935313,1.0,Motor
+Boeing 787,5,28865,Turboprop,GOL,1,4949,-23.677139549272827,1.0,Sistema de Pouso
+Embraer E190,5,7730,Turbofan,GOL,19,2385,14.259048799392623,0.0,Nenhuma
+Airbus A350,22,48700,Turbofan,GOL,5,4371,15.63812625400584,0.0,Nenhuma
+Boeing 777,15,11502,Turboprop,Delta,19,3035,41.09798276669555,1.0,Instrumentos
+Boeing 787,23,14447,Turbofan,LATAM,1,609,25.88867892495965,0.0,Nenhuma
+Boeing 737,17,14186,Turbofan,Delta,15,763,28.308987508063936,1.0,Pressurização
+Embraer E190,9,29804,Turboprop,American,16,4643,5.186063666520944,0.0,Nenhuma
+Airbus A320,3,13574,Turbofan,United,23,4038,-24.123631391198494,0.0,Nenhuma
+Airbus A350,20,4993,Turbofan,United,7,306,-3.82711391394011,0.0,Nenhuma
+Airbus A350,26,34728,Turbofan,Emirates,12,626,6.706613748504729,0.0,Nenhuma
+Boeing 777,17,14640,Turboprop,LATAM,8,87,17.665636395665544,0.0,Nenhuma
+Airbus A350,29,32155,Turbojato,American,5,2122,11.655274505713813,1.0,Elétrico
+Boeing 787,27,43972,Turboprop,LATAM,10,4555,-6.511884542034302,1.0,Sistema Hidráulico
+Boeing 737,10,49937,Turbojato,United,21,510,-17.44838590535348,1.0,Motor
+Airbus A350,3,49916,Turbofan,British,5,1490,-25.700378327686938,0.0,Nenhuma
+Airbus A350,18,7316,Turbojato,Delta,17,4528,18.97685783314264,0.0,Nenhuma
+Airbus A320,18,12139,Turboprop,GOL,5,1882,14.858887316561223,0.0,Nenhuma
+Airbus A320,17,47692,Turboprop,United,22,4714,18.426659589413568,1.0,Sistema de Combustível
+Airbus A330,24,47233,Turbofan,Azul,15,3449,-8.335166511762438,1.0,Sistema Hidráulico
+Embraer E190,3,29992,Turbojato,GOL,13,482,-17.69533508148667,0.0,Nenhuma
+Boeing 787,3,11740,Turbofan,United,1,4201,24.576312937878654,0.0,Nenhuma
+Airbus A350,6,33198,Turbofan,Delta,11,1801,25.760028579703402,0.0,Nenhuma
+Bombardier CRJ,13,27457,Turboprop,LATAM,23,2097,-1.2726082128185467,1.0,Instrumentos
+Airbus A350,24,33308,Turbojato,British,1,2890,12.011847205222551,0.0,Nenhuma
+Boeing 737,29,6327,Turbojato,British,11,306,-8.250828540301995,0.0,Nenhuma
+Airbus A330,15,33262,Turbojato,GOL,18,721,19.66551201018357,0.0,Nenhuma
+Embraer E190,25,8759,Turbojato,Delta,18,539,31.036335715069058,1.0,Elétrico
+Bombardier CRJ,9,15349,Turbofan,British,21,3764,18.499828573530202,1.0,Sistemas de Navegação
+Airbus A330,4,16732,Turbofan,British,16,2146,3.5695232820066067,0.0,Nenhuma
+Boeing 777,14,41072,Turboprop,American,13,1732,-1.0140734431485257,1.0,APU
+Embraer E190,5,24673,Turbofan,Azul,7,4461,14.597170332938262,0.0,Nenhuma
+Airbus A350,2,5874,Turbofan,GOL,1,2510,17.783925786113073,0.0,Nenhuma
+Airbus A350,11,21674,Turboprop,LATAM,16,4579,7.492002699585818,1.0,Outros
+Embraer E190,9,24067,Turboprop,British,1,3962,13.120093384128573,0.0,Nenhuma
+Airbus A350,24,35792,Turboprop,American,17,2025,-31.78996198796476,0.0,Nenhuma
+Boeing 787,3,9777,Turbofan,Delta,6,3266,40.900068872097776,1.0,Pressurização
+Embraer E190,27,32100,Turbofan,British,2,1439,27.215710417222894,1.0,Estrutural
+Airbus A330,28,10385,Turboprop,Emirates,17,4565,-8.216131074923375,1.0,Sistema Hidráulico
+Embraer E190,29,1278,Turboprop,Azul,6,3906,7.839071931058548,1.0,Estrutural
+Bombardier CRJ,9,29665,Turboprop,LATAM,14,1634,-35.97741493840419,0.0,Nenhuma
+Airbus A350,3,1992,Turbofan,Delta,18,4989,-36.49563581007987,0.0,Nenhuma
+Boeing 787,25,30962,Turbofan,Delta,6,3013,-18.68214151548317,0.0,Nenhuma
+Boeing 787,2,14115,Turbojato,GOL,10,4579,18.624639600992978,0.0,Nenhuma
+Boeing 777,12,45400,Turbofan,British,18,1026,32.432558563000995,0.0,Nenhuma
+Airbus A330,10,43446,Turbofan,GOL,9,3414,7.530799798287113,0.0,Nenhuma
+Airbus A320,9,8351,Turbofan,LATAM,8,95,5.231282864499953,0.0,Nenhuma
+Airbus A320,15,16788,Turboprop,Emirates,10,1243,-5.803689627725397,0.0,Nenhuma
+Embraer E190,8,7656,Turbofan,British,17,3392,-26.2641737435682,1.0,Outros
+Boeing 777,25,2544,Turboprop,United,23,4562,-29.939901387240063,1.0,Sistema Hidráulico
+Boeing 737,5,7868,Turbojato,British,6,4993,24.65777970378211,0.0,Nenhuma
+Embraer E190,11,20400,Turbojato,Emirates,14,296,38.83780186020893,0.0,Nenhuma
+Boeing 777,27,31100,Turboprop,United,22,3269,-1.045926607166784,1.0,Sistema Hidráulico
+Airbus A330,2,46903,Turboprop,Delta,22,4375,16.052880990829244,1.0,Motor
+Airbus A330,24,26134,Turboprop,GOL,6,841,37.72890032488,0.0,Nenhuma
+Airbus A330,28,9668,Turbofan,Azul,7,686,-32.34034120059771,0.0,Nenhuma
+Airbus A330,15,21461,Turbojato,British,12,3825,25.49092351511753,0.0,Nenhuma
+Airbus A330,6,44596,Turboprop,Azul,3,2471,12.429435171923885,0.0,Nenhuma
+Boeing 777,8,46587,Turbofan,British,14,4883,10.884160200538211,0.0,Nenhuma
+Boeing 777,27,24352,Turbojato,Delta,22,1138,-15.134063579066567,1.0,Sistema Hidráulico
+Boeing 787,5,33610,Turbofan,GOL,19,4233,18.130935156102538,1.0,Sistemas de Navegação
+Bombardier CRJ,16,32674,Turbojato,LATAM,23,3209,27.55780915976601,0.0,Nenhuma
+Airbus A320,26,34715,Turbofan,LATAM,16,762,-30.407055979785742,1.0,Sistema Hidráulico
+Airbus A350,18,27455,Turbojato,LATAM,7,4746,5.349321633383624,0.0,Nenhuma
+Airbus A330,6,7081,Turbojato,British,8,3694,-31.392459616070177,0.0,Nenhuma
+Boeing 737,5,45119,Turbofan,British,18,3940,34.16879164029979,0.0,Nenhuma
+Airbus A350,28,6817,Turboprop,Azul,13,2636,3.1491214257895166,0.0,Nenhuma
+Boeing 777,16,43356,Turbojato,GOL,21,4359,28.677083587164375,1.0,APU
+Boeing 737,13,46214,Turboprop,Emirates,9,2158,-8.712720798371787,0.0,Nenhuma
+Boeing 737,28,27149,Turbofan,British,10,4843,-29.36835072061234,1.0,Elétrico
+Boeing 737,5,23632,Turboprop,GOL,21,3664,-36.472559127214524,0.0,Nenhuma
+Boeing 787,13,17289,Turboprop,Azul,23,1292,-16.07168223434808,1.0,Sistemas de Navegação
+Boeing 777,17,15067,Turboprop,British,9,2109,-19.240135469053325,0.0,Nenhuma
+Boeing 737,18,15368,Turboprop,LATAM,15,3536,7.629917791696755,1.0,Outros
+Airbus A330,8,24870,Turboprop,LATAM,20,4382,-38.152198764584874,0.0,Nenhuma
+Embraer E190,13,43033,Turbojato,Delta,2,3860,4.248496265429736,0.0,Nenhuma
+Boeing 737,29,30983,Turbojato,United,13,3950,-6.699401928979732,0.0,Nenhuma
+Boeing 787,19,12966,Turbojato,American,2,2655,9.055392942727586,1.0,Outros
+Airbus A350,26,29303,Turbofan,Emirates,19,4792,19.705489892780996,1.0,Sistema Hidráulico
+Boeing 777,3,18730,Turboprop,United,2,3084,13.897815331786319,0.0,Nenhuma
+Bombardier CRJ,24,18362,Turbojato,British,3,4618,43.69477139673613,1.0,Estrutural
+Boeing 787,8,43855,Turbofan,GOL,6,4257,-28.24744577046596,1.0,Motor
+Boeing 737,2,31759,Turbojato,British,3,4101,-3.4723542409688264,0.0,Nenhuma
+Boeing 777,8,34039,Turbojato,GOL,10,3413,-3.8893873853185497,1.0,Outros
+Embraer E190,27,22409,Turboprop,GOL,6,4071,-4.550477685251742,0.0,Nenhuma
+Boeing 737,13,31295,Turbofan,United,23,1895,16.422863323626807,1.0,Instrumentos
+Boeing 787,13,49568,Turboprop,American,16,432,1.6353851464714069,0.0,Nenhuma
+Airbus A320,1,9270,Turboprop,Delta,17,4162,3.981767584101867,1.0,Outros
+Airbus A330,6,11593,Turbojato,United,19,4638,-3.2497406675250033,0.0,Nenhuma
+Bombardier CRJ,24,47071,Turboprop,American,3,3860,44.29445418657781,1.0,Elétrico
+Airbus A350,19,693,Turbofan,LATAM,18,1946,38.842714649618586,0.0,Nenhuma
+Boeing 787,16,35275,Turboprop,LATAM,7,1559,-13.843443904028469,0.0,Nenhuma
+Boeing 777,8,18069,Turboprop,GOL,9,4262,-30.51451639483329,0.0,Nenhuma
+Bombardier CRJ,28,11690,Turboprop,Azul,20,1628,31.380001543281253,0.0,Nenhuma
+Bombardier CRJ,1,43252,Turbojato,British,12,929,44.75947137118658,1.0,Motor
+Bombardier CRJ,27,32827,Turbofan,British,5,2212,-15.12824400663013,1.0,Sistema Hidráulico
+Boeing 737,27,42570,Turbojato,GOL,3,1622,-9.588281303449868,1.0,Elétrico
+Airbus A330,16,20889,Turbojato,Azul,11,1698,40.03882042624225,0.0,Nenhuma
+Boeing 737,9,40697,Turbojato,Emirates,4,4789,20.446009030262637,0.0,Nenhuma
+Boeing 777,13,2761,Turbojato,American,5,1409,-14.870741798730926,0.0,Nenhuma
+Boeing 737,11,28869,Turbojato,Emirates,1,4481,9.38895175913278,0.0,Nenhuma
+Airbus A320,13,27012,Turbofan,Emirates,18,3019,40.25951424596177,0.0,Nenhuma
+Airbus A330,25,7216,Turboprop,LATAM,12,4010,29.004114090391184,0.0,Nenhuma
+Airbus A330,21,21759,Turbojato,Emirates,13,3861,23.055780666936073,1.0,Estrutural
+Boeing 777,10,29433,Turbojato,British,9,4292,22.644686496796908,0.0,Nenhuma
+Airbus A350,4,42189,Turbofan,United,2,4267,-24.868272435157024,0.0,Nenhuma
+Airbus A320,27,4878,Turbofan,Azul,5,130,30.0979053343746,1.0,Sistema Hidráulico
+Boeing 787,6,41083,Turboprop,American,13,2782,-16.529916242306058,1.0,Motor
+Boeing 737,28,47046,Turbofan,LATAM,16,2759,39.08116592163,1.0,Sistema Hidráulico
+Embraer E190,7,20335,Turboprop,Emirates,16,2472,-9.005600763828447,0.0,Nenhuma
+Boeing 737,5,29533,Turbojato,United,3,3691,32.9011337485918,0.0,Nenhuma
+Bombardier CRJ,11,24500,Turbojato,Azul,22,4649,-17.37015296598688,1.0,Instrumentos
+Boeing 737,13,45996,Turboprop,GOL,4,717,3.7347896094904414,1.0,Motor
+Boeing 787,26,10832,Turbofan,GOL,11,2546,-30.914749883429852,0.0,Nenhuma
+Boeing 737,25,43104,Turboprop,GOL,23,3549,16.110106754674796,1.0,Sistema Hidráulico
+Airbus A320,19,3300,Turbofan,British,14,3548,31.066738389181253,1.0,Outros
+Airbus A320,23,30038,Turbojato,American,3,1494,21.06801891070537,0.0,Nenhuma
+Airbus A330,10,30619,Turbofan,GOL,16,1395,4.476973599785872,0.0,Nenhuma
+Boeing 777,10,8833,Turboprop,British,22,1239,-36.165150318875945,0.0,Nenhuma
+Airbus A350,11,5910,Turboprop,Delta,15,508,39.34248560952297,0.0,Nenhuma
+Embraer E190,21,18339,Turbojato,British,10,1262,19.966611629183944,0.0,Nenhuma
+Bombardier CRJ,7,31019,Turbofan,LATAM,9,4609,23.3984602610533,0.0,Nenhuma
+Boeing 737,18,6308,Turbofan,British,11,961,27.54784891841861,1.0,Outros
+Boeing 737,4,7296,Turbofan,American,16,1075,23.55819120384691,0.0,Nenhuma
+Boeing 787,2,21680,Turbojato,United,10,2461,-2.505126051641639,0.0,Nenhuma
+Boeing 777,14,43556,Turbofan,Emirates,17,121,22.357855489475483,0.0,Nenhuma
+Airbus A320,13,18209,Turboprop,British,19,2735,13.12727696387796,0.0,Nenhuma
+Embraer E190,29,18043,Turbofan,GOL,2,1243,32.59138836184685,0.0,Nenhuma
+Airbus A330,12,37918,Turbojato,LATAM,23,1898,28.20908430367649,0.0,Nenhuma
+Airbus A320,7,29575,Turbofan,Azul,2,2434,-36.48317749028291,0.0,Nenhuma
+Bombardier CRJ,2,38255,Turbofan,GOL,6,2072,-7.794597321728553,0.0,Nenhuma
+Boeing 777,13,48468,Turboprop,LATAM,19,3791,-37.04912706436896,0.0,Nenhuma
+Bombardier CRJ,14,37965,Turbofan,Delta,8,4798,-31.323631394881676,0.0,Nenhuma
+Airbus A350,27,31002,Turboprop,Emirates,3,1348,11.119911370306966,0.0,Nenhuma
+Airbus A330,17,17224,Turboprop,Azul,14,4152,34.27485479879154,1.0,Outros
+Airbus A350,9,4328,Turbojato,Delta,16,954,-29.814895509712287,0.0,Nenhuma
+Boeing 787,17,17587,Turboprop,United,1,3076,-1.6574105653193172,0.0,Nenhuma
+Bombardier CRJ,8,13105,Turboprop,LATAM,21,2078,37.42470690854772,0.0,Nenhuma
+Boeing 787,2,31837,Turbojato,Delta,3,4761,29.215583612084956,1.0,Sistema de Pouso
+Boeing 737,28,5982,Turboprop,Emirates,22,2670,4.171771199604045,0.0,Nenhuma
+Airbus A350,24,27505,Turbojato,Emirates,18,2696,25.58357234295063,1.0,Estrutural
+Boeing 777,13,23260,Turbofan,United,9,4915,4.428970793785645,0.0,Nenhuma
+Bombardier CRJ,3,5963,Turbojato,Emirates,6,2339,-26.562151330957853,0.0,Nenhuma
+Embraer E190,16,47128,Turboprop,LATAM,23,3922,-29.397430376157274,1.0,Motor
+Airbus A330,6,5412,Turbojato,LATAM,21,1535,-23.98870027429907,0.0,Nenhuma
+Airbus A320,19,5148,Turboprop,Emirates,1,3201,-10.171621927917244,0.0,Nenhuma
+Boeing 777,7,34123,Turbofan,Delta,21,1490,39.09498775229159,1.0,Comunicações
+Boeing 777,10,36134,Turbojato,LATAM,10,815,27.97266516055612,1.0,Outros
+Boeing 787,9,45102,Turbofan,GOL,6,4529,-3.211867295763014,0.0,Nenhuma
+Airbus A350,2,49562,Turboprop,Emirates,23,2488,1.911520331943791,1.0,Motor
+Bombardier CRJ,28,49834,Turboprop,LATAM,12,4142,-17.423196098354737,0.0,Nenhuma
+Bombardier CRJ,28,3612,Turbofan,American,4,4833,19.870001300131065,1.0,Sistema Hidráulico
+Boeing 737,15,22554,Turbojato,United,13,1199,28.235082074273237,0.0,Nenhuma
+Boeing 737,5,4992,Turbojato,Emirates,17,3615,-19.693100868255993,0.0,Nenhuma
+Airbus A330,29,22707,Turboprop,LATAM,8,4192,-36.445161978150445,1.0,Sistema Hidráulico
+Boeing 787,22,15614,Turbofan,American,20,2022,13.030560168852482,1.0,Estrutural
+Boeing 777,4,34785,Turbofan,LATAM,3,2716,7.813530126501917,0.0,Nenhuma
+Bombardier CRJ,20,16518,Turbojato,LATAM,12,513,-5.818851822545504,0.0,Nenhuma
+Embraer E190,4,21886,Turbojato,Delta,7,4268,14.730985050722865,0.0,Nenhuma
+Boeing 787,18,18240,Turbojato,GOL,12,2231,6.802130328737206,0.0,Nenhuma
+Airbus A330,4,44699,Turbofan,Emirates,2,1692,-18.700565989493615,0.0,Nenhuma
+Airbus A330,27,8710,Turbojato,United,14,3938,-6.1930370720685985,0.0,Nenhuma
+Boeing 787,17,44863,Turbojato,Emirates,22,890,-3.610346571484456,1.0,APU
+Airbus A330,12,46139,Turboprop,GOL,23,2704,34.82107953042291,0.0,Nenhuma
+Boeing 787,22,13243,Turbojato,Azul,5,4168,41.67685310096155,1.0,Sistema Hidráulico
+Airbus A320,17,42592,Turbojato,Delta,9,615,35.905115803702245,0.0,Nenhuma
+Boeing 787,10,44799,Turbofan,Delta,21,1014,21.130132044418268,0.0,Nenhuma
+Airbus A350,22,7088,Turbofan,GOL,11,2332,9.724382356494857,0.0,Nenhuma
+Boeing 787,1,3811,Turboprop,British,5,1045,18.587239014606176,0.0,Nenhuma
+Airbus A330,22,22932,Turbojato,Delta,3,1237,39.82428376227857,0.0,Nenhuma
+Bombardier CRJ,26,34255,Turboprop,Emirates,17,4971,-18.7501075059743,1.0,Sistema Hidráulico
+Airbus A350,24,3821,Turbofan,GOL,2,4361,5.48524315223942,0.0,Nenhuma
+Airbus A330,27,16312,Turboprop,Delta,1,3304,18.616681615034672,1.0,Sistema Hidráulico
+Boeing 737,18,37883,Turbofan,LATAM,7,706,17.735995112563344,0.0,Nenhuma
+Boeing 737,18,48780,Turboprop,GOL,14,3032,-18.556288435968902,1.0,Motor
+Bombardier CRJ,14,13646,Turboprop,GOL,5,1163,9.872179828128907,0.0,Nenhuma
+Bombardier CRJ,15,14154,Turbojato,Emirates,19,4456,27.65261710571329,0.0,Nenhuma
+Airbus A350,29,36320,Turboprop,American,11,606,0.3817133042707255,0.0,Nenhuma
+Airbus A320,12,1226,Turbojato,Delta,23,3069,27.43033651939247,1.0,Comunicações
+Bombardier CRJ,4,4260,Turbojato,Delta,2,2354,-9.409979190862845,0.0,Nenhuma
+Boeing 737,27,22690,Turbojato,GOL,8,2630,39.7946108089195,0.0,Nenhuma
+Boeing 787,3,2375,Turbojato,LATAM,9,101,5.383917442423588,0.0,Nenhuma
+Airbus A330,20,23877,Turboprop,LATAM,3,1411,10.655575817372217,0.0,Nenhuma
+Boeing 737,29,47237,Turbofan,United,2,1244,-37.33426665160999,1.0,Sistema Hidráulico
+Boeing 737,12,4533,Turbofan,LATAM,7,4069,-25.527123344069487,0.0,Nenhuma
+Airbus A320,7,38711,Turbofan,Delta,5,3188,13.799379840038803,0.0,Nenhuma
+Airbus A350,29,17873,Turboprop,British,21,1698,-4.3110183985069455,1.0,Sistema Hidráulico
+Airbus A350,11,4244,Turbojato,American,5,721,3.1939221889448532,0.0,Nenhuma
+Boeing 777,1,25495,Turbofan,GOL,20,827,-34.64743025763546,1.0,Comunicações
+Airbus A320,6,17477,Turboprop,Azul,13,4977,30.90149526488267,0.0,Nenhuma
+Boeing 787,15,32902,Turbojato,American,21,2329,26.68297619517847,0.0,Nenhuma
+Airbus A350,15,35042,Turbofan,Emirates,20,3072,-24.24491206364279,0.0,Nenhuma
+Airbus A330,19,11151,Turbojato,Emirates,6,1910,13.91799536687725,0.0,Nenhuma
+Bombardier CRJ,11,34203,Turbofan,British,20,3189,29.55679299061309,1.0,Sistemas de Navegação
+Airbus A320,26,13895,Turbofan,Azul,18,1124,14.472601595325997,1.0,Estrutural
+Bombardier CRJ,23,30308,Turbofan,American,2,1766,-13.61616189985319,0.0,Nenhuma
+Boeing 737,26,37076,Turbojato,LATAM,6,1333,15.769447790644207,1.0,Sistema Hidráulico
+Airbus A330,2,17215,Turboprop,Delta,9,4736,-22.110751446926958,0.0,Nenhuma
+Airbus A330,14,44909,Turbojato,British,3,2036,-12.948325231249228,1.0,APU
+Boeing 737,2,24806,Turbofan,Azul,1,2683,-19.594079485889814,0.0,Nenhuma
+Airbus A320,29,19586,Turbojato,British,1,1051,7.338633703167552,0.0,Nenhuma
+Boeing 737,4,14876,Turboprop,American,19,1096,-30.80073502492837,0.0,Nenhuma
+Bombardier CRJ,17,6389,Turbojato,Delta,5,2226,39.331382329608786,1.0,Outros
+Boeing 777,3,38322,Turboprop,British,13,2388,-11.65144993865632,0.0,Nenhuma
+Airbus A330,13,37136,Turboprop,Azul,19,1905,-21.387539196006887,1.0,Instrumentos
+Embraer E190,9,21084,Turbojato,GOL,12,550,2.2067341561556546,0.0,Nenhuma
+Embraer E190,7,49853,Turbofan,American,16,2283,-16.455185431349136,0.0,Nenhuma
+Bombardier CRJ,15,35110,Turboprop,GOL,19,4624,5.4668473425247655,1.0,Comunicações
+Boeing 787,23,10558,Turbojato,LATAM,3,2589,-10.376722268522734,0.0,Nenhuma
+Airbus A350,29,9601,Turboprop,GOL,12,4658,-28.77432108463153,1.0,Sistema Hidráulico
+Boeing 737,29,12997,Turbofan,GOL,5,3764,-17.39890442768273,1.0,Sistema Hidráulico
+Boeing 737,11,5158,Turbojato,United,2,2382,-2.7326131782703555,0.0,Nenhuma
+Boeing 787,20,11881,Turbojato,American,22,650,-37.42507574923182,1.0,Instrumentos
+Boeing 787,2,40812,Turbojato,LATAM,7,4334,25.50461479625477,1.0,Motor
+Bombardier CRJ,15,40986,Turbofan,GOL,13,1038,12.85508799018534,0.0,Nenhuma
+Bombardier CRJ,14,47119,Turboprop,Emirates,15,1931,11.115566618660111,0.0,Nenhuma
+Boeing 787,20,17654,Turbojato,Delta,22,4533,6.414244210035108,1.0,Instrumentos
+Airbus A330,22,20039,Turboprop,Azul,3,1804,10.176619647630822,1.0,Estrutural
+Bombardier CRJ,11,12277,Turboprop,GOL,21,2514,39.44541598011375,0.0,Nenhuma
+Boeing 777,27,34896,Turbofan,LATAM,20,2273,-39.271617081087044,0.0,Nenhuma
+Bombardier CRJ,3,30873,Turbojato,GOL,5,4532,-35.93702467909131,1.0,Pressurização
+Boeing 737,17,33654,Turboprop,Azul,8,1544,-23.723060155881804,0.0,Nenhuma
+Bombardier CRJ,12,6531,Turbojato,LATAM,22,902,-25.779382700582243,0.0,Nenhuma
+Airbus A330,24,28497,Turbojato,American,1,501,-24.598470945119473,0.0,Nenhuma
+Boeing 787,28,6939,Turbofan,LATAM,8,2374,17.115230297135263,0.0,Nenhuma
+Boeing 737,29,23285,Turbojato,American,18,1808,-0.9439194107359441,1.0,Elétrico
+Bombardier CRJ,21,13892,Turbojato,LATAM,20,4358,44.30120465844891,0.0,Nenhuma
+Airbus A330,15,29169,Turboprop,Emirates,16,3403,-20.71469724174969,0.0,Nenhuma
+Boeing 777,16,29439,Turbofan,British,18,4186,-13.579441412662955,0.0,Nenhuma
+Bombardier CRJ,5,2782,Turbojato,Azul,20,4745,43.66046092814017,1.0,Instrumentos
+Airbus A330,27,35124,Turboprop,Azul,12,3388,30.699441968190996,1.0,Estrutural
+Boeing 777,20,48938,Turbofan,LATAM,13,2638,-0.0670662423247137,1.0,Sistema de Combustível
+Boeing 787,6,24864,Turbofan,British,13,1832,7.1407352714091274,1.0,Sistema de Pouso
+Bombardier CRJ,19,2498,Turboprop,GOL,10,3570,31.670123255491447,0.0,Nenhuma
+Boeing 777,25,32205,Turboprop,Azul,7,1829,0.8833209139378866,0.0,Nenhuma
+Boeing 737,5,38744,Turboprop,Emirates,14,3182,-22.487983495522833,1.0,Sistema de Pouso
+Boeing 787,3,9928,Turboprop,American,16,3623,30.417785777122774,0.0,Nenhuma
+Boeing 737,27,37937,Turboprop,American,15,3268,5.710661758429687,0.0,Nenhuma
+Embraer E190,1,12836,Turbojato,Delta,12,3807,-26.99137924107519,0.0,Nenhuma
+Airbus A320,26,9842,Turbojato,United,9,4066,2.974795650673798,1.0,Elétrico
+Bombardier CRJ,28,40332,Turbofan,British,8,2887,-4.8777126492670035,0.0,Nenhuma
+Boeing 777,6,7946,Turbojato,United,18,2431,34.53161520994942,0.0,Nenhuma
+Airbus A320,15,38892,Turbojato,United,23,4289,-29.28528833434021,0.0,Nenhuma
+Airbus A320,2,7961,Turbojato,American,18,3986,34.39283337808217,0.0,Nenhuma
+Boeing 777,29,35087,Turboprop,Emirates,13,4478,3.537936428874197,1.0,Estrutural
+Boeing 787,3,11016,Turbofan,Emirates,18,1469,-5.62902345160245,0.0,Nenhuma
+Bombardier CRJ,17,14249,Turbofan,Delta,15,4200,-26.23278932575007,1.0,Pressurização
+Embraer E190,25,18014,Turbofan,United,4,1380,19.569526824287742,1.0,Sistema Hidráulico
+Boeing 737,24,35926,Turbofan,United,17,2967,38.77857027435344,1.0,Estrutural
+Airbus A330,12,36768,Turbojato,LATAM,5,1496,-8.092924918557816,0.0,Nenhuma
+Boeing 737,18,25450,Turbojato,LATAM,22,1490,-19.465274942979157,0.0,Nenhuma
+Airbus A330,15,35388,Turboprop,LATAM,16,3794,7.163687944928348,0.0,Nenhuma
+Boeing 737,12,37288,Turbofan,GOL,9,2894,27.675805616878975,0.0,Nenhuma
+Boeing 777,16,10713,Turbojato,United,10,4225,-39.67974596320469,1.0,Sistema de Pouso
+Embraer E190,27,36527,Turbojato,Emirates,18,914,13.667082093611484,1.0,Estrutural
+Bombardier CRJ,8,28511,Turboprop,Emirates,17,521,10.703860059383622,0.0,Nenhuma
+Airbus A330,28,43349,Turboprop,GOL,18,1552,-12.957064206646397,1.0,Estrutural
+Bombardier CRJ,14,35091,Turboprop,Emirates,7,4734,-1.6290446935775194,0.0,Nenhuma
+Bombardier CRJ,25,18358,Turbojato,Delta,4,1460,-19.008125946245222,0.0,Nenhuma
+Bombardier CRJ,17,19126,Turbojato,British,5,3820,27.14028772590663,1.0,Pressurização
+Airbus A350,29,13967,Turboprop,American,23,1955,13.935469336119155,0.0,Nenhuma
+Boeing 787,21,40258,Turbofan,United,16,4709,5.280487873313746,1.0,Elétrico
+Boeing 737,8,3634,Turboprop,Emirates,3,4051,-6.6352731344846845,0.0,Nenhuma
+Bombardier CRJ,15,17243,Turboprop,American,18,3554,-15.232327188237768,1.0,Outros
+Boeing 737,27,15934,Turboprop,Emirates,23,3533,29.932601313691677,0.0,Nenhuma
+Bombardier CRJ,14,48275,Turboprop,British,21,4612,-1.6303480131466372,1.0,APU
+Airbus A330,18,10733,Turbojato,LATAM,14,648,2.6230306865421795,0.0,Nenhuma
+Boeing 787,20,49646,Turbofan,United,15,1041,4.270442095963041,0.0,Nenhuma
+Boeing 787,7,1641,Turboprop,Azul,17,1982,-1.888810488316004,0.0,Nenhuma
+Boeing 777,3,18519,Turbofan,GOL,1,2834,-18.23248376973398,0.0,Nenhuma
+Airbus A350,29,20884,Turbofan,GOL,21,3091,-29.77106257934058,1.0,Elétrico
+Boeing 777,12,43403,Turbofan,United,17,116,-31.62433229074204,0.0,Nenhuma
+Boeing 777,21,46234,Turboprop,British,23,3448,24.384314483958534,1.0,Elétrico
+Boeing 777,24,36629,Turbojato,LATAM,11,2800,-21.000135104371534,0.0,Nenhuma
+Boeing 777,28,23467,Turboprop,GOL,17,519,-35.267810728912075,0.0,Nenhuma
+Boeing 777,26,41103,Turbofan,LATAM,14,1774,27.788979569150314,1.0,Sistema Hidráulico
+Embraer E190,3,11672,Turbofan,Delta,20,4035,-26.90475950684492,1.0,Instrumentos
+Boeing 787,20,16890,Turbojato,American,19,1681,13.13741779733509,0.0,Nenhuma
+Boeing 777,14,3767,Turboprop,British,21,824,-11.215321926931626,1.0,Comunicações
+Bombardier CRJ,15,39832,Turbofan,Azul,7,3062,-29.249178181238698,1.0,Outros
+Boeing 787,25,26667,Turbojato,American,13,2553,-4.769116763379408,0.0,Nenhuma
+Boeing 787,14,21812,Turbofan,American,18,1536,-38.74124680372687,0.0,Nenhuma
+Airbus A320,7,28340,Turbojato,Delta,23,4069,31.488823513567624,0.0,Nenhuma
+Embraer E190,17,19490,Turbojato,GOL,14,4277,3.6473267140578614,1.0,Sistema de Pouso
+Boeing 777,12,44679,Turboprop,Azul,1,979,-28.171399072823245,0.0,Nenhuma
+Boeing 737,20,6406,Turbofan,GOL,7,3062,-19.8566729369363,0.0,Nenhuma
+Airbus A330,4,49296,Turboprop,United,8,1555,-1.9221086682252349,1.0,APU
+Airbus A350,9,40879,Turbofan,American,18,4779,-23.946102460678365,0.0,Nenhuma
+Bombardier CRJ,6,17797,Turboprop,United,9,2994,-17.169071272407702,0.0,Nenhuma
+Boeing 737,16,2511,Turbofan,LATAM,1,2869,5.422772959997367,1.0,Pressurização
+Embraer E190,25,44514,Turboprop,American,22,1234,30.771766108262767,1.0,Elétrico
+Airbus A330,28,47058,Turbojato,GOL,17,338,-5.843626716356731,0.0,Nenhuma
+Embraer E190,22,12238,Turbofan,American,19,1861,20.942898252051606,1.0,Elétrico
+Bombardier CRJ,22,29297,Turbofan,LATAM,6,577,34.51815814415511,0.0,Nenhuma
+Boeing 787,21,47998,Turbojato,Delta,3,966,-21.61442007482623,0.0,Nenhuma
+Airbus A330,21,11620,Turboprop,United,5,1758,28.6113174841836,1.0,Estrutural
+Boeing 787,2,9267,Turbofan,Emirates,2,3624,24.37918685813733,0.0,Nenhuma
+Bombardier CRJ,24,23352,Turbofan,United,20,3369,-9.660329674408526,0.0,Nenhuma
+Boeing 737,8,14203,Turboprop,GOL,4,1456,44.10919655757371,0.0,Nenhuma
+Bombardier CRJ,11,1429,Turbojato,American,10,1291,-17.681348427943654,0.0,Nenhuma
+Boeing 737,13,12451,Turboprop,GOL,10,3183,-18.34172238730588,0.0,Nenhuma
+Airbus A330,17,26539,Turboprop,Delta,21,848,25.642028995521812,0.0,Nenhuma
+Airbus A330,8,49113,Turboprop,American,11,1573,-3.054127965657841,0.0,Nenhuma
+Boeing 777,21,30004,Turbofan,Emirates,16,4157,-11.882425443611325,1.0,Estrutural
+Embraer E190,18,17938,Turbojato,American,17,4978,-24.81366154617625,0.0,Nenhuma
+Boeing 777,18,49015,Turbojato,Emirates,16,2938,25.053256629436248,0.0,Nenhuma
+Embraer E190,14,6244,Turboprop,GOL,7,2740,26.837353521566556,1.0,Outros
+Boeing 777,15,18784,Turbofan,GOL,16,4141,8.157940274561938,0.0,Nenhuma
+Boeing 787,6,42917,Turboprop,LATAM,3,1291,41.37165712126669,0.0,Nenhuma
+Airbus A330,11,40248,Turbofan,British,16,740,-12.956122014074388,1.0,Motor
+Boeing 737,13,7569,Turbofan,British,8,577,-21.332381134256337,0.0,Nenhuma
+Embraer E190,25,42859,Turbofan,Delta,12,1545,17.584675359429262,1.0,Estrutural
+Bombardier CRJ,1,20299,Turbofan,British,3,3875,24.464734467974907,0.0,Nenhuma
+Embraer E190,28,33710,Turbojato,LATAM,17,2943,-20.8829925030951,1.0,Sistema Hidráulico
+Boeing 737,6,28726,Turbofan,United,21,942,-33.48808503780538,0.0,Nenhuma
+Boeing 777,9,5152,Turbofan,Emirates,18,436,28.89390135984162,0.0,Nenhuma
+Embraer E190,8,24823,Turboprop,American,11,1299,43.00266775991106,0.0,Nenhuma
+Airbus A350,11,42638,Turboprop,GOL,4,2578,14.79714431614417,1.0,Sistema de Combustível
+Boeing 787,22,8097,Turbojato,American,16,4553,-16.381313487769,0.0,Nenhuma
+Airbus A330,19,47593,Turboprop,American,17,3578,44.71717172698733,1.0,Motor
+Boeing 737,24,37726,Turbofan,Azul,9,947,35.92766408270158,1.0,Estrutural
+Airbus A330,9,7091,Turboprop,United,6,760,3.63735493382498,0.0,Nenhuma
+Airbus A350,17,49614,Turbojato,Azul,20,3745,30.152309211555874,1.0,Sistema de Combustível
+Embraer E190,12,26333,Turboprop,British,2,2736,29.34474447735218,1.0,Sistema de Pouso
+Embraer E190,25,12326,Turboprop,American,9,4562,39.45791242224746,0.0,Nenhuma
+Bombardier CRJ,14,26917,Turbojato,Emirates,21,465,31.4785267207441,1.0,Sistemas de Navegação
+Airbus A350,15,19193,Turbojato,GOL,6,1521,14.71273505635898,0.0,Nenhuma
+Boeing 737,16,14638,Turbofan,Emirates,3,4230,11.79081611130313,0.0,Nenhuma
+Bombardier CRJ,22,2669,Turboprop,American,20,4312,-0.27463049181300647,1.0,Elétrico
+Boeing 787,22,19056,Turbofan,United,6,2481,13.251279397514374,1.0,Estrutural
+Bombardier CRJ,28,22552,Turboprop,Emirates,7,2565,27.593409855082527,0.0,Nenhuma
+Airbus A320,20,6813,Turboprop,Azul,1,1145,42.36819823571703,1.0,Pressurização
+Boeing 737,1,8815,Turbofan,GOL,23,859,-0.28057455451979507,0.0,Nenhuma
+Airbus A320,10,8536,Turboprop,American,1,3094,8.760522254044353,0.0,Nenhuma
+Airbus A350,8,32278,Turboprop,Delta,5,1042,-2.191532920003553,1.0,Outros
+Boeing 777,18,28234,Turboprop,United,6,1331,16.82153278358934,0.0,Nenhuma
+Airbus A320,28,23673,Turbojato,United,13,4420,13.543242845207061,1.0,Elétrico
+Boeing 787,1,30903,Turbofan,Delta,2,1823,-38.48412783354202,0.0,Nenhuma
+Bombardier CRJ,2,1285,Turbojato,Emirates,15,3611,5.998732523555965,0.0,Nenhuma
+Boeing 777,1,6639,Turbofan,American,15,3866,-32.47861386558381,0.0,Nenhuma
+Bombardier CRJ,1,6844,Turbofan,United,13,1806,-37.75739246952924,0.0,Nenhuma
+Airbus A320,9,19300,Turboprop,GOL,14,2423,27.251758777199356,0.0,Nenhuma
+Bombardier CRJ,13,25872,Turbofan,American,22,2626,-18.014761716459454,0.0,Nenhuma
+Airbus A350,1,21038,Turbojato,American,7,941,-11.044318430579562,0.0,Nenhuma
+Boeing 777,13,15473,Turbojato,Azul,14,4234,-34.55281005365437,1.0,Sistema de Pouso
+Airbus A350,20,6119,Turbojato,United,10,757,-24.742477857980198,0.0,Nenhuma
+Airbus A320,26,35204,Turbofan,United,17,2447,25.07640955191235,0.0,Nenhuma
+Airbus A350,22,37075,Turbojato,Delta,14,4532,1.9501205697727784,0.0,Nenhuma
+Boeing 787,7,40419,Turbofan,Azul,8,2184,34.85681931676261,0.0,Nenhuma
+Airbus A320,2,42761,Turbojato,Emirates,4,2404,-6.234418825319011,0.0,Nenhuma
+Airbus A320,6,45623,Turbojato,British,16,4585,-17.160437460887202,1.0,Motor
+Airbus A320,7,28216,Turbofan,Emirates,13,1026,-10.454015771014667,0.0,Nenhuma
+Boeing 737,26,3736,Turbojato,Emirates,22,784,20.585602448936875,1.0,Estrutural
+Bombardier CRJ,14,16348,Turboprop,Azul,20,2518,7.175482148431314,0.0,Nenhuma
+Boeing 737,26,2852,Turbofan,United,18,2590,36.856252641956374,1.0,Elétrico
+Boeing 737,18,2432,Turbofan,American,14,682,11.184345398055079,0.0,Nenhuma
+Boeing 787,15,11413,Turbofan,Azul,18,4318,1.9065477209277688,1.0,Sistema de Pouso
+Boeing 777,2,9056,Turboprop,Delta,5,4149,26.788981530372297,0.0,Nenhuma
+Bombardier CRJ,10,21800,Turbofan,Azul,9,2951,40.54037731234284,0.0,Nenhuma
+Airbus A350,23,5998,Turbojato,Delta,3,1713,-9.753097544177503,0.0,Nenhuma
+Embraer E190,12,11082,Turbojato,Emirates,8,2065,-18.760522135934398,0.0,Nenhuma
+Airbus A320,17,47133,Turbojato,British,20,3231,12.37847868500183,0.0,Nenhuma
+Airbus A350,8,10069,Turbofan,Azul,22,4113,2.4041897980798836,0.0,Nenhuma
+Airbus A320,11,5357,Turbojato,Delta,10,2680,44.08077386350659,0.0,Nenhuma
+Boeing 787,29,840,Turbofan,Azul,22,3922,-0.6992483474426692,0.0,Nenhuma
+Airbus A320,3,44449,Turbojato,British,19,1104,-33.6818181343706,0.0,Nenhuma
+Boeing 737,27,17266,Turboprop,Emirates,21,430,43.07637016609905,1.0,Estrutural
+Bombardier CRJ,6,26632,Turboprop,Azul,3,3132,31.7048903754509,0.0,Nenhuma
+Embraer E190,9,8991,Turboprop,GOL,11,2441,-24.848737763573116,0.0,Nenhuma
+Airbus A330,6,638,Turboprop,Delta,11,1642,36.891446514593895,0.0,Nenhuma
+Airbus A320,9,858,Turbofan,British,17,4311,-11.04332023015171,1.0,Sistema de Pouso
+Airbus A350,7,10214,Turbojato,Delta,16,2797,-7.94548131457222,0.0,Nenhuma
+Boeing 737,9,20340,Turboprop,Delta,7,2439,37.043276000783536,0.0,Nenhuma
+Airbus A330,18,34895,Turbofan,LATAM,4,3603,5.0598230280018015,0.0,Nenhuma
+Embraer E190,12,31154,Turboprop,British,23,3077,-28.290151001125828,0.0,Nenhuma
+Airbus A330,8,26379,Turboprop,Azul,19,1257,-8.630226455946659,0.0,Nenhuma
+Boeing 737,8,16496,Turbofan,Delta,12,3903,21.378282932769864,0.0,Nenhuma
+Bombardier CRJ,18,38272,Turbofan,United,15,594,-25.19434401421858,1.0,Sistema de Pouso
+Bombardier CRJ,28,27262,Turbojato,LATAM,11,3131,10.169651779540494,1.0,Elétrico
+Boeing 777,20,13783,Turbojato,GOL,5,3713,19.09830130027543,0.0,Nenhuma
+Bombardier CRJ,15,39920,Turboprop,Delta,5,2289,-10.772446078880755,0.0,Nenhuma
+Boeing 777,27,20054,Turboprop,Emirates,15,2417,18.979858540207395,0.0,Nenhuma
+Airbus A330,7,20719,Turbojato,Delta,18,3823,35.157624905492085,1.0,Sistema de Pouso
+Boeing 787,11,35419,Turbojato,LATAM,11,2677,0.1299232598254747,0.0,Nenhuma
+Airbus A350,20,9929,Turbofan,Azul,12,3981,-7.452707104718222,0.0,Nenhuma
+Airbus A350,16,47340,Turbojato,United,2,2524,-18.651535884545716,1.0,Motor
+Airbus A330,4,45195,Turbojato,Emirates,20,3180,11.357465788380857,0.0,Nenhuma
+Airbus A320,6,40173,Turboprop,GOL,15,3557,34.78742408329086,0.0,Nenhuma
+Airbus A320,26,19718,Turbojato,Emirates,20,146,-12.403792289258504,1.0,Sistema Hidráulico
+Bombardier CRJ,22,12952,Turboprop,Delta,4,3908,-6.319980414329201,1.0,Sistema Hidráulico
+Airbus A350,26,49480,Turbojato,Azul,22,2758,-5.436831008251367,1.0,Estrutural
+Airbus A350,3,19451,Turbofan,British,18,3386,7.669049051088955,0.0,Nenhuma
+Boeing 777,9,1807,Turbojato,United,6,506,-20.585238266767718,0.0,Nenhuma
+Boeing 787,28,15352,Turbojato,British,23,4418,29.88794820115487,0.0,Nenhuma
+Boeing 737,10,25732,Turbojato,United,19,3037,-14.873806412141189,1.0,Comunicações
+Airbus A320,14,35928,Turboprop,GOL,11,4138,19.95582872621796,0.0,Nenhuma
+Airbus A350,11,43671,Turbofan,American,2,3934,3.6233380512619178,0.0,Nenhuma
+Boeing 777,18,26985,Turbojato,United,8,1081,9.801296284984332,0.0,Nenhuma
+Embraer E190,22,10738,Turboprop,American,11,257,-24.733257199679255,0.0,Nenhuma
+Boeing 777,12,39475,Turbofan,British,5,1987,22.476971845144497,0.0,Nenhuma
+Airbus A320,23,1640,Turboprop,United,18,1196,-23.967255881376357,0.0,Nenhuma
+Airbus A320,12,25342,Turboprop,GOL,23,4349,-30.354740801667674,1.0,Sistemas de Navegação
+Boeing 777,13,26921,Turbofan,LATAM,18,2614,6.467757490546887,0.0,Nenhuma
+Boeing 737,25,2208,Turbojato,GOL,14,492,20.29025663800155,1.0,Estrutural
+Airbus A330,13,4130,Turboprop,GOL,22,4834,-35.74695390304568,1.0,Instrumentos
+Airbus A320,19,20095,Turboprop,LATAM,10,882,-34.101398230053924,1.0,Outros
+Boeing 777,26,10985,Turbojato,LATAM,3,1511,28.227728830003116,0.0,Nenhuma
+Airbus A350,19,28808,Turbojato,Azul,9,3566,28.76777945812323,1.0,Pressurização
+Boeing 777,23,45289,Turbofan,United,3,1209,-19.149099049978098,0.0,Nenhuma
+Boeing 787,14,26586,Turbofan,British,11,436,12.294397238017297,1.0,Sistema de Pouso
+Airbus A330,4,17359,Turbofan,Azul,12,2091,-2.3296936127039416,0.0,Nenhuma
+Embraer E190,13,8184,Turbojato,LATAM,12,2603,13.779163519298606,0.0,Nenhuma
+Boeing 737,8,26052,Turboprop,American,3,1768,33.34473914843413,0.0,Nenhuma
+Bombardier CRJ,29,1707,Turboprop,British,21,4825,-33.212203910508194,0.0,Nenhuma
+Embraer E190,23,46599,Turbofan,American,7,4100,26.12867620901862,1.0,Estrutural
+Airbus A330,21,2460,Turbojato,GOL,14,3459,1.9074738842883434,1.0,Estrutural
+Airbus A330,23,1057,Turboprop,Delta,11,739,7.950790219769701,0.0,Nenhuma
+Airbus A330,19,30189,Turbofan,GOL,7,1219,15.584165601455226,1.0,Sistema de Pouso
+Embraer E190,12,49151,Turboprop,GOL,21,1002,38.42296767597412,1.0,APU
+Airbus A350,18,14393,Turboprop,Delta,10,4929,-35.178803948102285,1.0,Sistema de Pouso
+Airbus A330,6,32772,Turbojato,United,11,4640,-37.49451006942195,0.0,Nenhuma
+Boeing 777,18,1382,Turbojato,LATAM,15,3546,-24.847748573454254,1.0,Outros
+Embraer E190,19,38029,Turboprop,American,19,3967,43.848056712272594,1.0,Instrumentos
+Bombardier CRJ,22,39135,Turbofan,GOL,16,4892,20.781491227110934,1.0,Estrutural
+Airbus A330,5,30035,Turbojato,Delta,22,2534,12.24449511963266,0.0,Nenhuma
+Boeing 777,24,13369,Turboprop,Azul,21,1904,-36.00168045974643,1.0,Elétrico
+Airbus A350,9,7666,Turbojato,GOL,20,3489,34.72436903090201,0.0,Nenhuma
+Boeing 787,27,13482,Turbojato,American,12,3281,29.084332530258564,0.0,Nenhuma
+Airbus A350,3,41197,Turbojato,LATAM,18,2647,16.50800372870222,1.0,APU
+Bombardier CRJ,28,38615,Turboprop,GOL,23,4033,-11.17388068380027,0.0,Nenhuma
+Airbus A330,10,7769,Turbofan,GOL,13,2241,-34.00707877669813,1.0,Outros
+Bombardier CRJ,19,28564,Turbofan,United,5,2685,9.303271471578412,0.0,Nenhuma
+Embraer E190,3,14027,Turbofan,Emirates,4,706,21.174038574171185,0.0,Nenhuma
+Airbus A320,29,2954,Turbojato,Delta,14,3862,-31.989570209433968,1.0,Sistema Hidráulico
+Airbus A330,29,21378,Turboprop,Azul,8,3390,13.870251082872151,0.0,Nenhuma
+Airbus A320,22,13491,Turbojato,Azul,9,3961,-15.658884229591521,0.0,Nenhuma
+Boeing 777,15,3308,Turbofan,British,19,1846,24.960758803684,0.0,Nenhuma
+Boeing 787,1,39910,Turbofan,LATAM,3,4413,5.867347301156151,1.0,Sistema de Pouso
+Boeing 737,7,37093,Turboprop,British,5,1812,-29.03187303611288,0.0,Nenhuma
+Bombardier CRJ,12,36804,Turbojato,American,21,4522,4.7541530573250625,1.0,Instrumentos
+Airbus A350,17,30886,Turbofan,LATAM,18,3335,-6.362366613828918,0.0,Nenhuma
+Boeing 787,21,48577,Turboprop,GOL,1,1635,-24.669742696059586,0.0,Nenhuma
+Airbus A330,26,4302,Turbojato,Emirates,8,3613,31.52883654528047,0.0,Nenhuma
+Airbus A320,29,29253,Turbojato,GOL,19,2490,-39.06258187757342,1.0,Estrutural
+Airbus A350,24,21583,Turbofan,Azul,17,4634,-13.469096465360995,1.0,Sistema Hidráulico
+Airbus A320,20,18854,Turbofan,American,17,4867,-38.929421755598725,0.0,Nenhuma
+Embraer E190,5,22690,Turbojato,Delta,11,3150,-31.83940954697702,0.0,Nenhuma
+Airbus A320,4,6642,Turbojato,American,2,3294,-14.74682137028811,0.0,Nenhuma
+Embraer E190,28,28898,Turbofan,GOL,6,1090,-35.386949241903245,1.0,Sistema Hidráulico
+Boeing 777,12,42362,Turbojato,Delta,22,3177,10.713595250356995,0.0,Nenhuma
+Airbus A350,20,33632,Turbofan,American,14,2323,-32.61665282117446,1.0,Pressurização
+Airbus A350,28,20003,Turbojato,Emirates,3,3679,19.64565889561809,0.0,Nenhuma
+Boeing 737,24,48956,Turbofan,Emirates,12,2164,-35.525420426691305,0.0,Nenhuma
+Airbus A330,18,35131,Turboprop,American,4,1727,-34.958743941906775,0.0,Nenhuma
+Embraer E190,17,16999,Turbofan,Delta,12,3144,-14.04729858217236,0.0,Nenhuma
+Boeing 737,19,40352,Turbofan,GOL,13,1048,36.208579622388584,1.0,Motor
+Airbus A320,9,8516,Turboprop,American,2,2334,14.518426141481903,0.0,Nenhuma
+Airbus A320,4,2884,Turbojato,Delta,2,1639,25.461159813958147,0.0,Nenhuma
+Boeing 737,26,15572,Turboprop,United,15,1211,-27.968070694445984,0.0,Nenhuma
+Airbus A350,21,37203,Turbofan,Emirates,23,2570,30.90066182601589,1.0,Sistema Hidráulico
+Airbus A320,2,46395,Turbojato,United,17,3905,-39.307568903490015,1.0,APU
+Bombardier CRJ,4,14982,Turboprop,GOL,7,4698,-21.89012518769448,0.0,Nenhuma
+Boeing 777,2,41010,Turbojato,Delta,14,744,12.367847297749442,1.0,Motor
+Boeing 777,15,49433,Turbojato,United,12,4462,-8.104055269505722,1.0,APU
+Bombardier CRJ,2,22326,Turboprop,Delta,17,4913,43.656438296077894,1.0,Pressurização
+Boeing 737,4,2990,Turbojato,American,14,3848,-37.42116402044295,0.0,Nenhuma
+Bombardier CRJ,6,46592,Turboprop,GOL,6,3733,44.880844274606176,1.0,Motor
+Embraer E190,7,26018,Turbofan,United,19,2021,13.008365793211865,0.0,Nenhuma
+Embraer E190,10,24545,Turbojato,British,6,1553,7.490094540668203,0.0,Nenhuma
+Boeing 737,19,27410,Turbofan,American,18,3299,-34.94144238206218,0.0,Nenhuma
+Bombardier CRJ,19,25066,Turbofan,Emirates,5,4268,-16.767045483399293,0.0,Nenhuma
+Embraer E190,26,34405,Turbojato,British,6,3292,38.59632850478563,1.0,Sistema Hidráulico
+Airbus A350,22,27603,Turboprop,British,2,1918,-9.889089728914236,1.0,Sistema Hidráulico
+Bombardier CRJ,29,36688,Turbojato,LATAM,8,1721,16.240522039716332,0.0,Nenhuma
+Airbus A350,12,6345,Turbofan,LATAM,15,1132,44.95718978559134,1.0,Outros
+Embraer E190,3,21662,Turbofan,GOL,15,1778,-17.639074324149,0.0,Nenhuma
+Boeing 777,13,37174,Turboprop,United,11,3901,8.96687471623197,0.0,Nenhuma
+Embraer E190,18,19837,Turbojato,United,22,2192,19.197212379688118,1.0,Comunicações
+Airbus A350,8,22813,Turbofan,United,22,1198,-26.00668404193971,0.0,Nenhuma
+Boeing 787,21,27443,Turbofan,Delta,1,303,-27.36283208582452,0.0,Nenhuma
+Airbus A330,15,12913,Turbofan,American,18,4152,-1.213827509055271,1.0,Sistema de Pouso
+Airbus A320,1,776,Turboprop,United,12,3592,-7.205935650460404,0.0,Nenhuma
+Bombardier CRJ,3,18111,Turbofan,American,12,2825,20.708312132871676,0.0,Nenhuma
+Boeing 787,26,39605,Turbofan,GOL,11,4687,-34.09175442687017,0.0,Nenhuma
+Embraer E190,8,12444,Turbojato,British,8,3383,42.634163017958684,0.0,Nenhuma
+Boeing 777,4,16406,Turbojato,United,7,4234,-38.78645655670425,0.0,Nenhuma
+Boeing 737,16,21036,Turbofan,GOL,23,3329,11.111930068572853,0.0,Nenhuma
+Embraer E190,23,28310,Turbofan,United,21,4358,7.823770648728008,1.0,Sistema Hidráulico
+Boeing 777,10,12806,Turbojato,LATAM,2,2931,-28.54916287607331,0.0,Nenhuma
+Airbus A330,12,11003,Turboprop,Azul,11,315,-27.172141469349967,0.0,Nenhuma
+Embraer E190,14,19725,Turboprop,GOL,22,2390,27.377586462543277,0.0,Nenhuma
+Airbus A350,14,37476,Turboprop,United,10,3198,35.44280896507806,1.0,Sistema de Pouso
+Boeing 737,2,12090,Turboprop,Emirates,3,3409,-15.943557899879586,1.0,Outros
+Boeing 777,23,11386,Turboprop,Azul,20,1054,-2.773063063181681,0.0,Nenhuma
+Boeing 777,5,13366,Turboprop,GOL,10,2144,-9.825421511739947,0.0,Nenhuma
+Boeing 777,5,1588,Turboprop,Emirates,18,4767,-33.83350389613459,1.0,Outros
+Airbus A330,6,3863,Turboprop,Emirates,14,3321,17.2223609113438,0.0,Nenhuma
+Embraer E190,13,33292,Turbojato,Delta,18,4572,30.14139945848366,1.0,Outros
+Airbus A330,9,10264,Turboprop,Emirates,8,259,-14.0852546217474,0.0,Nenhuma
+Bombardier CRJ,22,21120,Turboprop,United,10,937,44.16494245861105,1.0,Sistema Hidráulico
+Airbus A320,28,43227,Turboprop,Delta,22,203,-33.55261763099983,1.0,Sistema Hidráulico
+Airbus A320,29,13435,Turbofan,LATAM,13,3643,16.252210674234277,0.0,Nenhuma
+Bombardier CRJ,15,8568,Turbojato,United,21,464,-1.900618765282438,0.0,Nenhuma
+Embraer E190,14,7795,Turbojato,British,8,3474,-2.03883840593425,0.0,Nenhuma
+Airbus A350,24,41660,Turbojato,Emirates,4,1334,-1.1001226371490773,0.0,Nenhuma
+Airbus A330,7,11890,Turboprop,LATAM,4,3198,-18.012049226878585,0.0,Nenhuma
+Boeing 737,25,41716,Turboprop,Azul,5,818,20.822840323239753,1.0,Sistema Hidráulico
+Boeing 777,20,20631,Turbofan,GOL,1,1032,21.334004717227288,1.0,Outros
+Boeing 777,2,29718,Turbojato,Emirates,17,3252,-15.996245641004702,1.0,Sistema de Pouso
+Embraer E190,7,10933,Turboprop,American,2,4724,31.001049172968266,0.0,Nenhuma
+Airbus A350,6,15538,Turbojato,LATAM,8,3576,-13.068179789721949,0.0,Nenhuma
+Airbus A320,17,28682,Turbofan,American,7,2837,21.63291553885609,0.0,Nenhuma
+Airbus A320,27,12028,Turbofan,Emirates,15,2260,-29.715019761474352,1.0,Elétrico
+Boeing 777,25,21781,Turbofan,American,5,1088,-25.66036036168162,0.0,Nenhuma
+Embraer E190,25,49011,Turbojato,Emirates,2,3982,-13.157370216798654,1.0,Sistema Hidráulico
+Airbus A330,28,9105,Turboprop,GOL,7,591,10.479270251768227,1.0,Estrutural
+Airbus A320,2,35282,Turboprop,Azul,8,408,14.868476265689438,1.0,Outros
+Airbus A330,3,1881,Turbofan,GOL,7,899,-6.30972538276464,0.0,Nenhuma
+Airbus A350,5,1598,Turboprop,United,7,4572,-33.383671985606306,1.0,Sistema de Pouso
+Airbus A320,5,20310,Turbofan,LATAM,14,2594,-8.241054572118436,0.0,Nenhuma
+Airbus A320,1,24822,Turbojato,American,21,4631,18.54523885652788,0.0,Nenhuma
+Boeing 787,8,42369,Turbofan,GOL,18,1881,17.034614196076852,0.0,Nenhuma
+Airbus A320,12,33455,Turbojato,Emirates,6,1522,-26.383304877537366,0.0,Nenhuma
+Bombardier CRJ,24,45216,Turbofan,GOL,4,1486,-39.33836252713779,0.0,Nenhuma
+Boeing 737,4,10707,Turboprop,GOL,10,379,24.003437470169928,0.0,Nenhuma
+Bombardier CRJ,13,22293,Turboprop,LATAM,18,4404,-30.958705857254284,1.0,Outros
+Embraer E190,23,2592,Turbofan,Azul,12,4288,-33.00032276303573,1.0,Sistema Hidráulico
+Embraer E190,15,28720,Turboprop,British,16,4058,-39.77039656909611,1.0,Pressurização
+Airbus A330,11,19014,Turboprop,GOL,7,4772,-3.228887293661188,0.0,Nenhuma
+Bombardier CRJ,10,38510,Turboprop,LATAM,6,1438,2.777431576569228,0.0,Nenhuma
+Bombardier CRJ,3,9049,Turbojato,American,5,4235,14.201443922630204,0.0,Nenhuma
+Bombardier CRJ,22,22531,Turboprop,Emirates,3,769,-14.834573539430203,0.0,Nenhuma
+Airbus A350,14,5685,Turbojato,United,12,3285,20.386100892876293,0.0,Nenhuma
+Airbus A320,16,15771,Turbofan,British,15,4626,-25.606792120409967,0.0,Nenhuma
+Boeing 737,10,6276,Turboprop,Delta,10,2181,30.719154514379525,0.0,Nenhuma
+Airbus A330,29,12949,Turboprop,British,20,1150,8.607107955687873,0.0,Nenhuma
+Bombardier CRJ,10,24797,Turboprop,Emirates,19,722,9.630634986624116,1.0,Sistemas de Navegação
+Bombardier CRJ,12,41091,Turbofan,British,16,566,-22.16908982877581,0.0,Nenhuma
+Boeing 787,9,16217,Turbojato,Emirates,11,2582,-33.700756309466996,0.0,Nenhuma
+Airbus A330,1,40623,Turbojato,LATAM,8,3720,-0.4983917381429279,1.0,Sistema de Combustível
+Bombardier CRJ,5,39733,Turboprop,Delta,3,831,12.327015913400508,0.0,Nenhuma
+Airbus A330,20,46005,Turbofan,GOL,23,3573,-31.921051013756724,1.0,Motor
+Airbus A320,8,46592,Turbofan,GOL,7,3608,40.795430334894164,1.0,Motor
+Boeing 787,11,10850,Turbofan,British,23,2436,43.33522061978857,0.0,Nenhuma
+Airbus A330,12,31122,Turbofan,LATAM,7,4832,6.363819108361817,0.0,Nenhuma
+Boeing 737,1,35823,Turbofan,Delta,14,1639,40.75587819823953,0.0,Nenhuma
+Boeing 737,25,3451,Turbojato,GOL,2,1551,-24.74715480562749,1.0,Estrutural
+Embraer E190,22,18122,Turbojato,American,10,3844,-37.83924175974038,1.0,Sistema Hidráulico
+Boeing 787,20,5227,Turbojato,Azul,19,4368,-36.650189500316856,1.0,Instrumentos
+Boeing 787,28,38954,Turboprop,Azul,9,3130,9.93856075127622,0.0,Nenhuma
+Embraer E190,25,36969,Turbofan,GOL,16,1126,-34.76043990787,0.0,Nenhuma
+Airbus A330,11,36048,Turboprop,Delta,19,1150,41.4763765800474,0.0,Nenhuma
+Boeing 787,5,24282,Turbofan,United,18,552,-27.935677085451122,0.0,Nenhuma
+Boeing 737,15,28954,Turbojato,GOL,9,1389,-14.098561485496816,0.0,Nenhuma
+Boeing 737,5,2868,Turboprop,United,16,3935,29.914013169859615,1.0,Sistema de Pouso
+Bombardier CRJ,12,16092,Turbojato,United,13,673,-21.40707253615209,1.0,Sistema de Pouso
+Airbus A320,5,22673,Turbofan,Emirates,10,1936,-19.3476810313615,0.0,Nenhuma
+Boeing 787,17,33704,Turbofan,Emirates,20,3400,14.596261242236551,1.0,Comunicações
+Airbus A330,17,36096,Turbofan,Delta,14,1100,-16.532682478412703,0.0,Nenhuma
+Embraer E190,24,34824,Turbojato,United,12,3822,-21.516951109345477,0.0,Nenhuma
+Embraer E190,12,46632,Turbofan,American,19,3966,-18.394894284019113,1.0,Sistema de Combustível
+Airbus A330,24,24364,Turbojato,Delta,7,4068,1.7050374439617784,1.0,Estrutural
+Airbus A350,28,48329,Turboprop,GOL,23,1379,42.11848918217598,1.0,Elétrico
+Boeing 777,15,31250,Turbofan,British,15,4164,30.7402250327044,1.0,Pressurização
+Airbus A320,15,11076,Turbofan,American,16,3417,-15.808127512384942,1.0,Sistema de Pouso
+Embraer E190,6,17066,Turbofan,LATAM,8,4001,-9.113277277661691,0.0,Nenhuma
+Boeing 787,12,7690,Turboprop,Azul,10,2547,-0.5164587071534186,0.0,Nenhuma
+Airbus A320,27,23571,Turbofan,GOL,4,1623,43.209019996444184,0.0,Nenhuma
+Boeing 787,29,38833,Turbojato,GOL,19,2684,-25.346810191464165,1.0,Estrutural
+Airbus A350,20,15869,Turbojato,GOL,19,2818,-9.613936203189958,0.0,Nenhuma
+Boeing 737,18,24535,Turbofan,American,21,1261,22.00121798853077,0.0,Nenhuma
+Airbus A320,14,2089,Turbofan,LATAM,15,825,41.93521741286018,1.0,Sistema de Pouso
+Bombardier CRJ,2,25735,Turboprop,British,14,1210,-26.7676069150398,0.0,Nenhuma
+Embraer E190,9,659,Turboprop,Delta,1,2433,-20.67270389348061,0.0,Nenhuma
+Airbus A320,5,12645,Turboprop,Emirates,16,2704,-20.81595267681343,0.0,Nenhuma
+Airbus A320,20,15873,Turbofan,LATAM,10,3590,-38.22077749317375,0.0,Nenhuma
+Airbus A320,26,32421,Turboprop,American,19,4747,11.34982812338071,1.0,Elétrico
+Boeing 777,29,39823,Turboprop,GOL,22,4685,17.009761302400975,0.0,Nenhuma
+Airbus A320,1,16737,Turbojato,Azul,3,1145,11.214700660646535,0.0,Nenhuma
+Boeing 787,23,42471,Turboprop,GOL,5,73,-33.93754589991078,1.0,Elétrico
+Boeing 737,3,8744,Turbojato,Delta,9,4769,-34.11543931162131,0.0,Nenhuma
+Airbus A350,6,15243,Turbojato,United,18,3606,-22.11714286799946,0.0,Nenhuma
+Airbus A330,5,32066,Turboprop,Azul,11,1129,-15.324966165592258,0.0,Nenhuma
+Airbus A320,21,46601,Turbojato,GOL,16,4368,26.85621075235403,0.0,Nenhuma
+Embraer E190,27,46609,Turbofan,British,2,228,-26.451827411341704,1.0,Sistema Hidráulico
+Airbus A320,5,19191,Turbofan,Azul,12,2897,-36.25216160620977,0.0,Nenhuma
+Embraer E190,1,34496,Turboprop,United,22,2010,-6.511061844390312,0.0,Nenhuma
+Boeing 787,17,6090,Turbofan,Emirates,6,1523,-4.60666553793677,0.0,Nenhuma
+Embraer E190,19,6085,Turbojato,LATAM,11,4938,-1.6728762539388882,0.0,Nenhuma
+Bombardier CRJ,14,9727,Turbofan,American,8,1262,30.286801242292327,0.0,Nenhuma
+Airbus A330,12,28778,Turboprop,Emirates,12,859,-31.669539735969956,0.0,Nenhuma
+Boeing 737,10,39314,Turboprop,GOL,2,469,19.83507700586678,0.0,Nenhuma
+Embraer E190,20,12737,Turbojato,Delta,9,3709,-11.274626461150284,1.0,Outros
+Embraer E190,21,16149,Turboprop,LATAM,15,3866,-13.651688402985055,1.0,Sistema Hidráulico
+Boeing 737,18,38213,Turbofan,Emirates,2,1328,39.2661657173083,0.0,Nenhuma
+Airbus A330,24,8427,Turboprop,GOL,1,2573,-18.880175424576926,0.0,Nenhuma
+Airbus A320,27,45909,Turbojato,LATAM,10,1490,14.615206003846133,1.0,Estrutural
+Embraer E190,11,49266,Turboprop,Emirates,2,1390,-16.614140623032174,1.0,Sistema de Combustível
+Boeing 737,2,46654,Turbofan,Delta,12,2271,3.107230024432738,0.0,Nenhuma
+Bombardier CRJ,25,7516,Turbojato,GOL,23,2442,26.834895870683624,1.0,Estrutural
+Bombardier CRJ,18,14527,Turbofan,United,8,1411,34.94641449888215,1.0,Outros
+Boeing 787,29,49188,Turbojato,United,5,641,31.28926542507928,1.0,Estrutural
+Boeing 737,25,24642,Turboprop,Delta,22,576,9.485362572294385,0.0,Nenhuma
+Boeing 787,7,47020,Turbojato,Azul,1,2553,-18.850613196251118,1.0,Sistema de Combustível
+Bombardier CRJ,24,24045,Turbojato,Delta,15,1342,16.204837577258587,1.0,Elétrico
+Airbus A330,15,32397,Turboprop,Azul,6,1704,20.341928891266683,1.0,Pressurização
+Airbus A320,11,3667,Turbofan,GOL,12,4956,-39.09118084035238,0.0,Nenhuma
+Boeing 737,18,45257,Turboprop,Emirates,8,237,-2.667106570790658,0.0,Nenhuma
+Airbus A350,23,27417,Turbojato,Azul,13,2808,31.67727363984997,1.0,Elétrico
+Bombardier CRJ,12,23236,Turboprop,GOL,19,578,1.6149456806590266,0.0,Nenhuma
+Bombardier CRJ,6,28490,Turbojato,GOL,1,483,-13.533087416117702,0.0,Nenhuma
+Airbus A350,20,14587,Turboprop,British,11,3562,34.10281053709633,0.0,Nenhuma
+Boeing 777,23,22940,Turboprop,American,20,1854,-26.750140709966516,1.0,Elétrico
+Bombardier CRJ,13,35705,Turbofan,GOL,1,352,-22.45215524462297,0.0,Nenhuma
+Embraer E190,20,15775,Turbojato,Azul,8,4232,18.426651189571338,0.0,Nenhuma
+Airbus A330,16,5776,Turbofan,American,5,487,-10.042944970241127,0.0,Nenhuma
+Boeing 737,18,42127,Turbojato,American,17,2638,20.60643103737121,0.0,Nenhuma
+Airbus A350,10,41086,Turboprop,GOL,8,882,-26.595192192943188,0.0,Nenhuma
+Embraer E190,28,37996,Turbojato,Delta,10,846,-18.557127383928098,0.0,Nenhuma
+Airbus A350,23,19508,Turbofan,Delta,2,609,-26.684972839091152,0.0,Nenhuma
+Boeing 737,8,6238,Turbofan,United,9,3638,40.997376652898325,0.0,Nenhuma
+Boeing 787,18,32902,Turbofan,American,23,811,-5.540663327671453,0.0,Nenhuma
+Boeing 737,21,6293,Turbojato,GOL,3,3624,-11.33630765763079,1.0,Sistema Hidráulico
+Boeing 777,1,37791,Turbofan,British,18,3835,-38.792816725485,0.0,Nenhuma
+Boeing 737,23,6071,Turbofan,Delta,7,2564,-26.95950575007457,0.0,Nenhuma
+Boeing 737,8,31831,Turbofan,British,15,734,-4.203452219387543,0.0,Nenhuma
+Boeing 777,29,16709,Turboprop,GOL,21,4283,-34.177262631389006,0.0,Nenhuma
+Airbus A330,6,48514,Turboprop,GOL,22,627,3.412843008028439,0.0,Nenhuma
+Bombardier CRJ,5,25894,Turbojato,Emirates,20,4855,-1.3236877305219394,0.0,Nenhuma
+Boeing 737,15,43648,Turbojato,American,18,277,25.209291929269924,0.0,Nenhuma
+Boeing 777,22,26182,Turbofan,Emirates,3,2378,16.08322961902691,0.0,Nenhuma
+Embraer E190,15,2724,Turboprop,British,23,2781,-2.0944790477512285,0.0,Nenhuma
+Boeing 787,2,41657,Turbofan,Emirates,14,877,-20.903840491068927,1.0,APU
+Boeing 787,1,49195,Turbofan,United,2,480,21.783403111513536,1.0,Motor
+Boeing 737,23,44952,Turboprop,American,14,1113,20.168278793607357,1.0,Elétrico
+Airbus A330,23,43908,Turboprop,LATAM,22,1759,-26.96982635619207,1.0,Sistema Hidráulico
+Airbus A330,26,32941,Turboprop,Emirates,11,1284,37.75390567115923,0.0,Nenhuma
+Embraer E190,11,41930,Turbojato,British,16,351,-34.52556513872133,1.0,Sistema de Combustível
+Boeing 737,10,39629,Turbojato,Delta,8,1470,-35.321794744119124,1.0,Pressurização
+Boeing 787,18,35216,Turbofan,Delta,7,4678,-24.075214498693704,0.0,Nenhuma
+Airbus A330,18,45359,Turbojato,Delta,11,818,37.30416783414556,0.0,Nenhuma
+Boeing 737,17,27086,Turboprop,Azul,3,1454,4.19984054313835,0.0,Nenhuma
+Airbus A350,26,45260,Turboprop,GOL,17,493,26.97497825719651,1.0,Estrutural
+Airbus A330,8,23978,Turbojato,American,14,3154,-20.63332901349745,0.0,Nenhuma
+Boeing 777,15,6818,Turbofan,Delta,6,4405,1.6688678455679735,0.0,Nenhuma
+Airbus A350,8,29194,Turbofan,LATAM,8,3355,-9.54539559197001,0.0,Nenhuma
+Bombardier CRJ,17,20680,Turbojato,Delta,22,1588,30.36543160062638,1.0,Sistemas de Navegação
+Airbus A330,12,12680,Turbofan,United,5,3980,-38.07862265446574,0.0,Nenhuma
+Boeing 787,27,33502,Turbofan,GOL,8,1381,-19.273367952881046,1.0,Sistema Hidráulico
+Airbus A320,8,15872,Turbofan,British,2,119,-27.031190934297804,0.0,Nenhuma
+Airbus A350,25,30296,Turboprop,GOL,15,3485,33.0310682913334,1.0,Sistema Hidráulico
+Bombardier CRJ,14,24927,Turboprop,Emirates,12,530,-0.25877277602991455,1.0,Sistema de Pouso
+Embraer E190,4,33790,Turbojato,British,17,4144,-5.641296269076626,1.0,Pressurização
+Embraer E190,1,28599,Turboprop,British,1,3546,-1.7939652214082145,1.0,Pressurização
+Boeing 787,1,45986,Turbofan,Emirates,15,2843,42.61358680969849,0.0,Nenhuma
+Airbus A330,19,10321,Turboprop,American,14,2942,32.27272851855355,0.0,Nenhuma
+Boeing 737,16,6332,Turbojato,Emirates,20,1248,20.041345607276142,0.0,Nenhuma
+Airbus A330,14,13320,Turboprop,Azul,22,2422,-15.309288466023357,0.0,Nenhuma
+Boeing 787,21,16711,Turbofan,British,16,1942,-25.96029504093194,0.0,Nenhuma
+Embraer E190,16,40390,Turbofan,British,9,1933,38.32185846707854,1.0,Sistema de Combustível
+Airbus A330,5,6342,Turbojato,Emirates,1,847,-4.038580562298954,0.0,Nenhuma
+Embraer E190,9,1816,Turboprop,American,17,67,-16.305757045166523,0.0,Nenhuma
+Airbus A350,26,46468,Turboprop,Delta,13,93,0.0282702454990158,1.0,Estrutural
+Bombardier CRJ,28,18008,Turboprop,United,21,204,38.017030939729935,1.0,Estrutural
+Boeing 737,2,22505,Turbofan,LATAM,21,3498,-7.099278361740076,1.0,Sistemas de Navegação
+Airbus A350,18,15706,Turbojato,American,5,4888,7.824484766088453,0.0,Nenhuma
+Embraer E190,6,19471,Turboprop,Azul,10,4130,28.25213559422818,0.0,Nenhuma
+Embraer E190,9,26099,Turbofan,American,6,1475,-3.6937348608867495,0.0,Nenhuma
+Airbus A320,1,22556,Turbofan,GOL,19,4370,-20.148946836258695,0.0,Nenhuma
+Airbus A320,9,1878,Turbofan,Delta,13,4362,44.534688612557844,0.0,Nenhuma
+Airbus A350,25,2019,Turboprop,Delta,1,3689,41.30852288343357,0.0,Nenhuma
+Boeing 777,16,22661,Turboprop,British,20,4176,31.69572937566869,1.0,Sistemas de Navegação
+Airbus A350,13,41203,Turboprop,Delta,15,1942,18.511779747803416,1.0,Sistema de Combustível
+Airbus A320,9,39361,Turboprop,Delta,14,947,-14.936421614075758,1.0,Sistema de Pouso
+Embraer E190,21,5855,Turboprop,Emirates,8,3474,37.64009974394273,1.0,Estrutural
+Boeing 787,13,9583,Turboprop,Delta,10,4590,-16.577683039695557,0.0,Nenhuma
+Airbus A350,9,38842,Turboprop,Delta,9,1308,28.06880704753077,0.0,Nenhuma
+Embraer E190,11,20956,Turboprop,LATAM,17,2065,38.05194427501104,1.0,Pressurização
+Boeing 787,4,13824,Turboprop,Azul,9,4883,11.255326436542475,0.0,Nenhuma
+Boeing 787,2,2757,Turbofan,British,3,1752,28.259778520750203,0.0,Nenhuma
+Airbus A320,29,27864,Turboprop,Emirates,11,923,27.29408343214847,0.0,Nenhuma
+Airbus A350,6,25472,Turbojato,Delta,12,615,-23.581591154716712,0.0,Nenhuma
+Airbus A330,14,46679,Turbofan,British,10,2068,16.77358025566719,0.0,Nenhuma
+Boeing 737,4,27154,Turboprop,Azul,17,1935,-32.0552253631223,0.0,Nenhuma
+Airbus A320,6,15733,Turbojato,Emirates,17,2173,3.1672621666859158,0.0,Nenhuma
+Airbus A320,19,16387,Turboprop,United,11,4692,-26.20997840805091,1.0,Outros
+Airbus A330,6,29820,Turbojato,Delta,22,2364,-4.6102926023033035,0.0,Nenhuma
+Boeing 737,2,21308,Turbojato,British,4,4462,30.8034763493672,0.0,Nenhuma
+Embraer E190,18,30654,Turbojato,American,7,3933,43.90926636856737,0.0,Nenhuma
+Boeing 777,13,35273,Turbojato,Emirates,21,3242,-12.973414308932494,1.0,Sistemas de Navegação
+Airbus A350,9,28247,Turbofan,Emirates,14,1909,5.216234396570009,0.0,Nenhuma
+Boeing 777,23,11360,Turbofan,British,7,74,3.4603320714915284,1.0,Sistema Hidráulico
+Embraer E190,19,43338,Turbojato,Delta,8,3553,41.124128335640606,0.0,Nenhuma
+Bombardier CRJ,13,42656,Turboprop,GOL,1,4305,0.6796172567857468,0.0,Nenhuma
+Airbus A320,11,18656,Turbojato,LATAM,22,1187,19.424027458974315,0.0,Nenhuma
+Boeing 737,1,20860,Turbofan,American,4,1239,38.352084814224725,0.0,Nenhuma
+Airbus A320,24,18635,Turboprop,American,12,4848,-8.262822439368595,0.0,Nenhuma
+Boeing 787,22,25851,Turbofan,GOL,3,4146,36.680390250857954,1.0,Sistema Hidráulico
+Airbus A320,7,30999,Turbofan,Delta,13,3207,37.98377886073615,1.0,Pressurização
+Airbus A320,25,47877,Turboprop,Emirates,20,2417,39.106312837206104,1.0,Sistema Hidráulico
+Embraer E190,21,24054,Turbojato,Emirates,6,4527,-17.012074234928754,1.0,Sistema Hidráulico
+Embraer E190,15,49631,Turbojato,LATAM,11,1791,-5.969774487053527,0.0,Nenhuma
+Embraer E190,1,20104,Turbojato,American,23,3738,33.98365219918466,0.0,Nenhuma
+Boeing 777,12,17423,Turbojato,LATAM,4,3796,-9.471244936164407,0.0,Nenhuma
+Boeing 787,26,48091,Turboprop,American,20,947,11.02150779934793,1.0,Estrutural
+Bombardier CRJ,7,9047,Turboprop,Delta,16,4073,-29.965366882895584,1.0,Pressurização
+Bombardier CRJ,15,44783,Turboprop,United,7,766,-35.21662601054454,1.0,APU
+Embraer E190,21,33502,Turbofan,American,22,4017,-4.980510893165331,1.0,Estrutural
+Boeing 737,19,15062,Turboprop,United,11,4071,9.207905270380984,1.0,Pressurização
+Boeing 777,28,7980,Turbojato,American,1,3265,-6.620575364489987,0.0,Nenhuma
+Airbus A330,29,27172,Turbofan,Emirates,7,440,9.107540463671569,1.0,Sistema Hidráulico
+Boeing 737,25,4713,Turbojato,Azul,12,3934,3.782171974601731,1.0,Sistema Hidráulico
+Airbus A350,1,10793,Turbojato,Delta,7,1749,18.28511448931645,0.0,Nenhuma
+Airbus A350,17,34941,Turboprop,GOL,23,3087,15.210256640558136,1.0,Instrumentos
+Boeing 737,17,2600,Turboprop,United,7,282,-3.939115227440695,1.0,Pressurização
+Embraer E190,3,45117,Turbojato,GOL,10,1976,-3.875404564311623,1.0,Motor
+Airbus A330,12,28672,Turbojato,Delta,16,3181,-28.03384109896028,0.0,Nenhuma
+Airbus A330,6,20632,Turbofan,British,8,3356,3.625278628199027,0.0,Nenhuma
+Boeing 777,26,18699,Turboprop,GOL,9,2774,9.910225891534225,1.0,Estrutural
+Airbus A330,11,37109,Turbofan,Delta,9,4851,0.5015987750752302,1.0,Pressurização
+Airbus A350,3,43465,Turbofan,Emirates,2,283,-12.314876517605086,1.0,Motor
+Boeing 787,8,8516,Turbofan,GOL,13,1441,21.34012626139755,0.0,Nenhuma
+Embraer E190,14,40279,Turbojato,United,13,2942,-33.653760205155955,0.0,Nenhuma
+Airbus A330,14,37761,Turbofan,Azul,23,1305,37.727431429094025,1.0,Comunicações
+Boeing 777,10,32381,Turbofan,GOL,23,2588,-38.24530763860757,0.0,Nenhuma
+Airbus A350,2,17558,Turbojato,United,4,3740,41.79976134225362,0.0,Nenhuma
+Boeing 787,14,24972,Turboprop,American,12,939,-0.6997739205536959,0.0,Nenhuma
+Airbus A320,9,41846,Turboprop,Delta,17,4737,-4.923054759698999,1.0,Motor
+Airbus A320,3,35426,Turbofan,LATAM,2,795,-18.20225851562901,0.0,Nenhuma
+Boeing 787,21,35332,Turbojato,British,13,1769,-39.14395353925593,1.0,Estrutural
+Airbus A350,26,36521,Turboprop,Emirates,18,477,-16.64282752414702,0.0,Nenhuma
+Boeing 777,8,24587,Turbofan,LATAM,15,781,-30.701006335871615,0.0,Nenhuma
+Boeing 787,16,13328,Turbofan,Emirates,8,849,16.084771628938547,0.0,Nenhuma
+Embraer E190,2,31628,Turbojato,Delta,15,4347,-12.87862735273827,0.0,Nenhuma
+Embraer E190,6,1901,Turbofan,Emirates,1,885,25.210242914311237,0.0,Nenhuma
+Airbus A320,28,20143,Turboprop,Azul,20,184,-22.41212407558006,0.0,Nenhuma
+Airbus A330,21,15693,Turbojato,GOL,10,2588,36.51996288172931,1.0,Estrutural
+Boeing 777,29,27353,Turboprop,Azul,12,3768,4.4534287839957685,0.0,Nenhuma
+Airbus A320,26,45364,Turboprop,LATAM,5,90,-30.26697330013658,0.0,Nenhuma
+Airbus A330,25,20807,Turboprop,British,9,3417,-5.92815496945429,0.0,Nenhuma
+Airbus A330,12,37482,Turbofan,United,23,2465,-22.42535545407026,0.0,Nenhuma
+Bombardier CRJ,5,20111,Turbofan,British,8,2090,-23.026738775704768,0.0,Nenhuma
+Embraer E190,2,44291,Turboprop,Delta,16,4389,3.041427700437758,0.0,Nenhuma
+Airbus A350,16,12450,Turboprop,Delta,14,2999,17.11082132909167,1.0,Outros
+Boeing 737,5,11204,Turbojato,Azul,13,4311,37.4875474677914,0.0,Nenhuma
+Airbus A350,15,43611,Turbojato,United,23,3516,2.6837709149105393,1.0,APU
+Boeing 737,12,12367,Turbofan,Azul,21,3138,42.09629587995806,1.0,Instrumentos
+Boeing 787,4,3245,Turbofan,GOL,13,4873,40.03896242623634,1.0,Sistema de Pouso
+Embraer E190,15,4366,Turbojato,American,5,1165,33.53031504867063,0.0,Nenhuma
+Airbus A330,11,32745,Turboprop,United,16,4628,2.498067521805581,0.0,Nenhuma
+Boeing 777,16,45224,Turbofan,American,11,2640,-28.0231647865214,0.0,Nenhuma
+Boeing 737,23,6318,Turboprop,British,22,3623,-21.47812006569228,0.0,Nenhuma
+Airbus A350,6,49361,Turbojato,GOL,5,3028,15.051950230517924,1.0,Sistema de Combustível
+Airbus A330,14,30616,Turbofan,Emirates,13,2497,-4.150826675843334,1.0,Pressurização
+Boeing 737,18,15993,Turbofan,Emirates,11,1280,-27.521861300910306,1.0,Outros
+Boeing 737,12,28538,Turbojato,American,19,2716,0.7144843593413839,0.0,Nenhuma
+Bombardier CRJ,27,20947,Turbofan,LATAM,3,4975,-38.5184036323261,1.0,Elétrico
+Boeing 737,11,30931,Turbojato,British,15,4904,22.381106526465423,1.0,Sistema de Pouso
+Boeing 777,13,18408,Turbofan,American,7,4308,-33.74558996837628,0.0,Nenhuma
+Embraer E190,21,29836,Turbojato,GOL,7,2644,13.474657692530116,0.0,Nenhuma
+Boeing 777,23,41492,Turbofan,American,6,3480,27.40587614817595,1.0,Sistema Hidráulico
+Airbus A320,11,4525,Turboprop,Delta,3,2967,-28.72527067141293,0.0,Nenhuma
+Airbus A330,23,20593,Turboprop,Azul,13,3002,4.084288706611062,1.0,Estrutural
+Embraer E190,16,6655,Turboprop,LATAM,7,2045,26.22073872055492,0.0,Nenhuma
+Bombardier CRJ,15,47107,Turbofan,Delta,5,3941,-17.846156345654883,0.0,Nenhuma
+Embraer E190,21,33987,Turbofan,Delta,23,356,-26.152089594862375,1.0,Elétrico
+Embraer E190,28,48158,Turboprop,GOL,18,1412,-11.370375567766168,1.0,Elétrico
+Airbus A350,15,21463,Turboprop,Azul,22,2152,7.149430009581842,1.0,Sistemas de Navegação
+Embraer E190,25,21436,Turbojato,Azul,8,3080,8.89876556265375,0.0,Nenhuma
+Bombardier CRJ,4,4926,Turbojato,United,17,382,-28.875511656096606,1.0,Outros
+Boeing 777,11,23803,Turbojato,British,20,2802,-1.1066479477124105,1.0,Comunicações
+Embraer E190,19,45780,Turboprop,LATAM,1,292,-17.196013379143533,1.0,Motor
+Boeing 787,15,28106,Turboprop,British,14,1934,31.57205853552081,0.0,Nenhuma
+Airbus A330,4,48332,Turboprop,GOL,17,1482,-13.346113774557384,0.0,Nenhuma
+Embraer E190,21,28651,Turbojato,LATAM,10,2600,31.28988458537806,0.0,Nenhuma
+Airbus A330,13,14267,Turbofan,United,12,352,-3.5720079288476683,0.0,Nenhuma
+Boeing 787,22,11808,Turboprop,American,16,4380,21.759790095248526,1.0,Elétrico
+Boeing 787,19,44745,Turbofan,Delta,14,3159,3.355119426252216,1.0,Sistema de Combustível
+Airbus A330,2,46171,Turbofan,LATAM,16,2236,12.866823051132997,1.0,APU
+Boeing 737,14,25270,Turbofan,British,8,4340,-6.394696576782437,1.0,Pressurização
+Airbus A320,29,29072,Turbojato,Delta,23,1600,25.297575263636716,1.0,Sistema Hidráulico
+Airbus A350,4,41948,Turbofan,GOL,10,1842,-3.8589023962390456,1.0,APU
+Boeing 737,16,2704,Turboprop,British,17,696,-1.1157600402051386,1.0,Pressurização
+Boeing 737,21,27733,Turbojato,American,18,4706,4.002686799631363,0.0,Nenhuma
+Boeing 777,20,22229,Turboprop,GOL,20,762,30.705050062808596,1.0,Comunicações
+Airbus A350,14,31631,Turboprop,Emirates,16,4558,16.047208931124516,0.0,Nenhuma
+Airbus A350,27,34370,Turbojato,American,17,587,-10.32136714191127,1.0,Elétrico
+Boeing 737,29,38511,Turboprop,American,16,284,16.977168888431137,1.0,Sistema Hidráulico
+Embraer E190,15,39882,Turboprop,Delta,19,2446,14.606258705729068,0.0,Nenhuma
+Boeing 777,28,49567,Turbojato,GOL,8,1554,39.136638449774864,1.0,Estrutural
+Boeing 777,3,41975,Turboprop,GOL,6,1424,31.520397062154743,1.0,Sistema de Combustível
+Boeing 787,8,47181,Turbofan,LATAM,6,4561,15.032988518856094,0.0,Nenhuma
+Bombardier CRJ,16,22107,Turboprop,British,21,1959,-10.971895591856295,1.0,Sistemas de Navegação
+Airbus A350,10,25468,Turbofan,Emirates,9,965,26.263998153207908,0.0,Nenhuma
+Boeing 737,4,33898,Turboprop,GOL,4,4008,8.892704910338082,1.0,Pressurização
+Boeing 787,18,12408,Turbojato,LATAM,12,130,43.74794898857664,0.0,Nenhuma
+Airbus A330,2,26923,Turbojato,Emirates,12,2133,-18.961979071566656,0.0,Nenhuma
+Airbus A320,17,44115,Turboprop,Azul,23,2738,-33.22925352087461,1.0,Sistema de Combustível
+Bombardier CRJ,13,9671,Turbojato,Azul,17,1740,-34.05919598952445,0.0,Nenhuma
+Bombardier CRJ,4,13221,Turboprop,Emirates,15,806,14.40258300989283,0.0,Nenhuma
+Bombardier CRJ,26,49929,Turbojato,Azul,9,2720,39.83711945747953,1.0,Sistema Hidráulico
+Boeing 777,25,17116,Turbofan,United,7,3801,-39.83578728522206,1.0,Sistema Hidráulico
+Airbus A330,11,43012,Turboprop,GOL,10,3602,21.69053899141108,0.0,Nenhuma
+Bombardier CRJ,7,38958,Turbofan,United,16,517,15.85054051530036,0.0,Nenhuma
+Airbus A330,12,46669,Turbofan,British,12,1544,22.245856338654598,1.0,Sistema de Combustível
+Embraer E190,10,8159,Turboprop,GOL,7,1069,-9.790540425201478,0.0,Nenhuma
+Bombardier CRJ,7,43869,Turbofan,LATAM,18,951,29.74219779591769,0.0,Nenhuma
+Airbus A320,13,12204,Turboprop,United,15,722,-36.199910829396735,0.0,Nenhuma
+Airbus A330,7,33293,Turbofan,United,6,488,24.211643552872346,0.0,Nenhuma
+Airbus A330,24,48652,Turboprop,British,12,4272,-17.298884985327543,1.0,Estrutural
+Airbus A320,17,46973,Turboprop,United,11,2126,0.531210862936085,0.0,Nenhuma
+Bombardier CRJ,10,31726,Turbojato,American,20,494,29.92408308236375,0.0,Nenhuma
+Airbus A320,29,24352,Turboprop,LATAM,3,1015,-16.934482008753353,0.0,Nenhuma
+Airbus A330,10,32582,Turboprop,Azul,2,3840,-24.257361510269053,0.0,Nenhuma
+Airbus A320,24,23294,Turbofan,LATAM,6,513,17.91162075457016,1.0,Elétrico
+Airbus A330,4,41920,Turboprop,American,22,2248,5.338565778078383,1.0,Motor
+Airbus A330,20,13879,Turbojato,British,5,2337,3.724328843425681,0.0,Nenhuma
+Embraer E190,4,7506,Turbofan,British,18,3815,-18.17459117927738,0.0,Nenhuma
+Boeing 737,22,9182,Turbofan,GOL,16,3226,-37.03517400529765,1.0,Sistema Hidráulico
+Airbus A330,7,34340,Turbojato,LATAM,8,4058,-5.127123241804064,0.0,Nenhuma
+Bombardier CRJ,22,32930,Turbofan,Emirates,20,3554,-30.942444160239724,1.0,Elétrico
+Boeing 787,1,23591,Turbofan,Emirates,22,962,37.00907780518219,1.0,Instrumentos
+Boeing 777,12,33483,Turbofan,British,11,546,-36.493722504902905,1.0,Outros
+Airbus A350,24,24489,Turbofan,United,10,1513,-3.3096773943275792,0.0,Nenhuma
+Boeing 737,13,10415,Turbojato,British,12,4303,-35.55912538542963,0.0,Nenhuma
+Boeing 737,10,43052,Turbojato,British,21,4317,-31.878770661994864,0.0,Nenhuma
+Boeing 737,15,19490,Turbofan,British,6,543,16.003666688371872,0.0,Nenhuma
+Embraer E190,27,25234,Turbofan,British,20,1476,15.004457182798035,0.0,Nenhuma
+Airbus A330,13,15324,Turbojato,Emirates,5,1742,-37.19056343524762,1.0,Pressurização
+Embraer E190,23,36581,Turbojato,Emirates,23,1843,-39.903824614726034,1.0,Estrutural
+Airbus A330,22,11533,Turbojato,Azul,9,2773,-33.30046343436336,0.0,Nenhuma
+Bombardier CRJ,22,43236,Turbofan,Azul,16,708,24.854906305515087,1.0,Estrutural
+Embraer E190,21,16741,Turbofan,GOL,22,4811,9.689000183878107,0.0,Nenhuma
+Embraer E190,22,6439,Turboprop,British,14,4512,-36.759949158978216,1.0,Estrutural
+Boeing 777,28,47964,Turbojato,Emirates,22,599,1.4882463491903195,0.0,Nenhuma
+Boeing 787,9,48062,Turbofan,LATAM,8,692,20.522495349628365,0.0,Nenhuma
+Embraer E190,26,35563,Turbojato,American,20,4400,33.86086854106853,1.0,Sistema Hidráulico
+Boeing 777,9,34964,Turbofan,GOL,19,257,39.3931017060159,0.0,Nenhuma
+Airbus A320,15,11685,Turbojato,Emirates,14,2547,-12.167552148904335,0.0,Nenhuma
+Boeing 787,10,27545,Turbofan,LATAM,7,4240,-28.454243584872415,0.0,Nenhuma
+Bombardier CRJ,24,45269,Turboprop,British,5,1933,-19.861296737826965,1.0,Elétrico
+Embraer E190,26,47618,Turboprop,Delta,18,2936,25.974576823419014,1.0,Elétrico
+Airbus A350,25,19667,Turbojato,British,2,527,42.57615827859641,1.0,Sistema Hidráulico
+Boeing 737,29,36912,Turbofan,Azul,11,811,-0.3565425243676543,0.0,Nenhuma
+Airbus A320,10,22125,Turbofan,American,22,239,-14.04497684843787,1.0,Sistemas de Navegação
+Airbus A320,8,39688,Turbojato,Emirates,8,805,-3.5188005333970693,0.0,Nenhuma
+Bombardier CRJ,24,27576,Turbofan,Emirates,1,1496,-14.090882705163743,0.0,Nenhuma
+Boeing 777,16,45105,Turbojato,United,22,4981,-18.198560527391887,1.0,APU
+Airbus A320,17,19529,Turbofan,American,12,1713,10.468813954610262,0.0,Nenhuma
+Boeing 787,26,23473,Turbojato,United,2,1885,-38.662441668248725,0.0,Nenhuma
+Embraer E190,27,39621,Turbofan,American,18,4278,-17.938058863476005,1.0,Sistema Hidráulico
+Embraer E190,5,31933,Turbojato,Azul,7,4200,16.217476616824065,1.0,Sistema de Pouso
+Airbus A350,4,43809,Turbofan,United,17,4110,-37.274670813921574,0.0,Nenhuma
+Bombardier CRJ,18,2432,Turboprop,LATAM,22,4655,-32.927845596740525,1.0,Instrumentos
+Boeing 737,24,44754,Turbofan,United,23,4815,-15.061327693208291,1.0,Elétrico
+Boeing 777,19,2257,Turbojato,GOL,14,3662,34.613407881763706,0.0,Nenhuma
+Boeing 737,4,31222,Turboprop,LATAM,7,1739,25.015323614050175,0.0,Nenhuma
+Airbus A320,28,38353,Turbofan,GOL,22,1366,-38.1166864996193,1.0,Elétrico
+Bombardier CRJ,7,38905,Turboprop,British,3,4879,2.6455894185218085,0.0,Nenhuma
+Airbus A350,10,1616,Turbofan,American,6,3236,-16.651563011069577,0.0,Nenhuma
+Boeing 737,25,44027,Turboprop,LATAM,20,4070,15.134881020275351,1.0,Sistema Hidráulico
+Boeing 787,18,12191,Turbojato,American,2,4404,21.332080020444202,0.0,Nenhuma
+Embraer E190,19,992,Turbofan,British,17,1195,33.343319055989014,0.0,Nenhuma
+Airbus A320,4,28382,Turbofan,Delta,12,4444,0.41038015384120996,0.0,Nenhuma
+Airbus A350,10,9311,Turbojato,Emirates,12,610,44.528257526374674,0.0,Nenhuma
+Boeing 737,1,28308,Turboprop,American,17,1962,43.2988191194043,0.0,Nenhuma
+Boeing 777,23,24772,Turbojato,British,10,1914,34.984171580037824,1.0,Elétrico
+Boeing 787,18,28899,Turbojato,American,3,346,8.863907088436022,1.0,Outros
+Boeing 787,5,6974,Turboprop,British,20,2459,-6.16945281217572,0.0,Nenhuma
+Boeing 737,15,27456,Turbojato,GOL,18,2686,-9.027163638118278,0.0,Nenhuma
+Embraer E190,17,47653,Turbofan,British,13,1511,-38.96939624254169,1.0,Sistema de Combustível
+Boeing 737,3,43006,Turbofan,United,12,4342,-18.820167734398847,0.0,Nenhuma
+Airbus A320,12,14479,Turbofan,Delta,17,2318,21.098699970678986,0.0,Nenhuma
+Boeing 737,2,45023,Turbojato,American,4,1044,11.308728490910653,1.0,Motor
+Boeing 787,1,43065,Turbofan,British,23,57,37.895886079240356,1.0,Sistema de Combustível
+Airbus A350,23,28828,Turbofan,British,10,2641,-35.74810731209258,1.0,Estrutural
+Boeing 737,21,47875,Turbofan,American,11,2565,-26.8014887299269,0.0,Nenhuma
+Embraer E190,17,13367,Turbofan,Emirates,6,4465,27.085722094931057,0.0,Nenhuma
+Bombardier CRJ,22,26351,Turbofan,Delta,6,1467,-9.526851348396626,0.0,Nenhuma
+Airbus A350,16,31779,Turbofan,Delta,9,2366,-29.94064663398038,0.0,Nenhuma
+Boeing 777,5,31027,Turbojato,British,15,3982,44.698292933507574,1.0,Pressurização
+Airbus A330,15,8366,Turbofan,LATAM,2,1337,26.916275726895847,0.0,Nenhuma
+Boeing 737,3,15949,Turbofan,GOL,4,2894,-5.257011875559584,0.0,Nenhuma
+Embraer E190,28,11185,Turboprop,Delta,5,1168,29.98453554042193,1.0,Sistema Hidráulico
+Airbus A350,7,24044,Turbojato,Delta,17,602,17.851328960128036,0.0,Nenhuma
+Embraer E190,11,5951,Turbojato,Azul,8,710,27.14785456343583,0.0,Nenhuma
+Boeing 777,10,22142,Turbojato,United,8,765,29.292542093080243,0.0,Nenhuma
+Boeing 787,9,41816,Turbojato,Delta,22,3635,-32.79806192032298,1.0,Sistema de Combustível
+Embraer E190,14,40454,Turbofan,GOL,12,3811,12.952695453488133,1.0,Motor
+Airbus A350,13,39370,Turbofan,United,21,2579,-39.42322799696966,1.0,Sistemas de Navegação
+Embraer E190,29,31530,Turboprop,United,8,4020,-36.306219064400494,0.0,Nenhuma
+Embraer E190,25,31373,Turboprop,American,19,3457,36.83830076974647,1.0,Estrutural
+Embraer E190,25,1119,Turbojato,American,3,1508,4.842916315328466,0.0,Nenhuma
+Airbus A320,2,34150,Turboprop,American,18,3317,22.551668798824615,0.0,Nenhuma
+Airbus A320,3,25872,Turboprop,American,21,904,31.272584187667405,1.0,Comunicações
+Boeing 787,7,4142,Turbojato,Azul,19,4810,40.714875242989734,1.0,Comunicações
+Boeing 737,21,28501,Turbojato,Delta,19,3587,33.89499207343765,0.0,Nenhuma
+Embraer E190,18,34564,Turboprop,American,15,1947,1.0814731392699812,0.0,Nenhuma
+Boeing 777,3,29790,Turbofan,British,6,322,-11.442523872656523,0.0,Nenhuma
+Boeing 737,10,14622,Turboprop,LATAM,16,4137,-26.868074922486755,0.0,Nenhuma
+Boeing 777,22,25320,Turboprop,American,8,1322,-5.972673988581207,0.0,Nenhuma
+Boeing 737,29,3395,Turbofan,Delta,16,4424,-8.84804577130111,0.0,Nenhuma
+Boeing 787,7,5866,Turbofan,American,18,4069,7.563861566249237,0.0,Nenhuma
+Embraer E190,9,9211,Turbojato,Azul,20,865,16.568299744363138,1.0,Comunicações
+Embraer E190,17,20096,Turbojato,GOL,16,4421,43.15766549782903,1.0,Pressurização
+Airbus A330,11,19293,Turboprop,GOL,11,972,21.91282581856226,0.0,Nenhuma
+Boeing 777,7,8699,Turbofan,Delta,7,4787,14.718625257648483,1.0,Outros
+Boeing 737,24,11217,Turbojato,British,17,4650,-11.517143087190881,1.0,Sistema Hidráulico
+Boeing 737,28,36691,Turboprop,GOL,17,4917,-37.067170497642294,1.0,Sistema Hidráulico
+Bombardier CRJ,14,10711,Turbofan,Emirates,12,1314,-15.509364047351198,0.0,Nenhuma
+Bombardier CRJ,19,46050,Turboprop,GOL,13,3774,25.318071539067503,1.0,Motor
+Airbus A320,4,23860,Turbojato,LATAM,10,2837,-22.551885031676854,0.0,Nenhuma
+Airbus A330,26,22042,Turbojato,Delta,7,2772,20.535996462299728,1.0,Estrutural
+Airbus A350,6,31812,Turbofan,British,14,4273,9.281286618400344,1.0,Pressurização
+Bombardier CRJ,10,45742,Turboprop,Delta,23,2600,-25.392166071210486,0.0,Nenhuma
+Airbus A350,7,36935,Turbofan,GOL,1,2999,-17.761891465194456,0.0,Nenhuma
+Airbus A320,13,28747,Turbojato,GOL,17,1723,2.1858062963505063,1.0,Outros
+Airbus A320,14,22857,Turbojato,GOL,4,4637,-4.438150065832964,1.0,Sistema de Pouso
+Airbus A320,4,41545,Turboprop,United,21,3142,26.17792704147456,0.0,Nenhuma
+Boeing 777,8,28191,Turboprop,Azul,5,2888,22.424394616175995,0.0,Nenhuma
+Boeing 777,5,12924,Turboprop,American,20,1716,8.83883279520645,0.0,Nenhuma
+Boeing 787,1,19352,Turbofan,Emirates,23,4561,29.893350475198645,1.0,Instrumentos
+Boeing 787,4,23101,Turboprop,Azul,7,2245,7.826910958166231,0.0,Nenhuma
+Airbus A320,3,18520,Turboprop,Delta,10,1434,41.97308681586712,1.0,Outros
+Airbus A330,9,8655,Turbojato,Emirates,17,4453,-21.53595157215808,0.0,Nenhuma
+Boeing 737,8,4083,Turbojato,LATAM,7,4004,20.701219456182983,0.0,Nenhuma
+Boeing 777,1,16015,Turboprop,American,1,2949,-8.554748775370221,0.0,Nenhuma
+Airbus A330,27,37277,Turboprop,LATAM,7,110,-16.28787347428352,1.0,Sistema Hidráulico
+Embraer E190,6,20210,Turbojato,British,11,3997,-24.667064542744406,0.0,Nenhuma
+Boeing 777,9,43678,Turboprop,United,9,2340,6.962795482231229,1.0,APU
+Boeing 777,7,25032,Turbofan,Delta,12,522,-21.685098216317044,0.0,Nenhuma
+Boeing 787,4,19101,Turbofan,United,3,1008,-22.970177626885498,0.0,Nenhuma
+Boeing 737,13,5467,Turbofan,Delta,4,582,44.19521193212452,0.0,Nenhuma
+Boeing 737,17,19253,Turboprop,LATAM,4,543,28.148530431889668,0.0,Nenhuma
+Bombardier CRJ,28,20522,Turbojato,LATAM,13,131,23.603529721621904,0.0,Nenhuma
+Airbus A350,2,43963,Turboprop,LATAM,23,3020,27.495153200034167,0.0,Nenhuma
+Airbus A350,28,9635,Turboprop,Delta,19,61,42.358444266093116,1.0,Elétrico
+Airbus A350,5,6222,Turbojato,GOL,10,4594,8.728518544022293,0.0,Nenhuma
+Airbus A350,12,27913,Turbojato,LATAM,5,811,-21.279270420756852,0.0,Nenhuma
+Embraer E190,27,27736,Turbojato,United,7,3235,33.28781946402532,0.0,Nenhuma
+Embraer E190,21,16014,Turbofan,British,16,75,23.132112003597662,1.0,Sistema Hidráulico
+Boeing 777,8,44396,Turboprop,American,1,1856,-4.783793451595287,0.0,Nenhuma
+Airbus A320,6,37712,Turbojato,Delta,12,4207,0.25340737884494047,0.0,Nenhuma
+Boeing 787,8,40886,Turboprop,Emirates,2,4374,-5.043546129296132,1.0,Motor
+Boeing 787,18,20831,Turbofan,United,7,4752,39.045083619465345,1.0,Outros
+Airbus A350,3,18560,Turbofan,Azul,11,3709,-10.799813022644997,1.0,Outros
+Boeing 777,22,1696,Turbojato,British,13,1575,41.89616368577467,1.0,Sistema Hidráulico
+Bombardier CRJ,12,12797,Turbojato,Azul,2,810,37.37310055658574,0.0,Nenhuma
+Airbus A330,29,3287,Turboprop,American,7,644,13.594297091094738,1.0,Sistema Hidráulico
+Airbus A320,26,24316,Turbojato,GOL,15,1105,9.284850713506344,1.0,Sistema Hidráulico
+Boeing 777,3,41195,Turboprop,LATAM,11,1904,-8.542411194052477,0.0,Nenhuma
+Airbus A320,22,20202,Turbojato,Delta,2,3133,-38.44123693409476,1.0,Elétrico
+Airbus A320,6,25742,Turboprop,United,7,3966,-29.15202916979097,0.0,Nenhuma
+Airbus A320,2,2676,Turboprop,Emirates,4,3725,24.109662484711635,0.0,Nenhuma
+Boeing 777,23,20627,Turboprop,LATAM,11,2098,0.08091075999404751,0.0,Nenhuma
+Airbus A350,12,42060,Turboprop,United,2,1508,-27.26375859402271,0.0,Nenhuma
+Boeing 787,2,27728,Turbofan,Delta,16,1269,-17.563327398790967,0.0,Nenhuma
+Boeing 787,6,20708,Turboprop,Azul,7,4278,40.56613648699498,1.0,Pressurização
+Airbus A350,17,28982,Turbojato,LATAM,13,4231,-8.79370899862747,1.0,Sistema de Pouso
+Airbus A320,3,9671,Turbofan,American,5,1549,37.15296534362804,0.0,Nenhuma
+Airbus A330,2,35719,Turbofan,GOL,17,1880,-14.10595425504598,0.0,Nenhuma
+Boeing 737,23,33896,Turboprop,American,21,3445,6.173708021208675,1.0,Sistema Hidráulico
+Boeing 777,20,43089,Turbofan,GOL,12,1253,-38.259447914213176,0.0,Nenhuma
+Boeing 737,8,41046,Turboprop,British,19,4320,4.35938438175404,1.0,Motor
+Bombardier CRJ,22,4196,Turbojato,United,7,2860,14.14007090190357,1.0,Sistema Hidráulico
+Airbus A350,12,20558,Turboprop,LATAM,6,3142,-20.084066556339877,0.0,Nenhuma
+Airbus A330,26,20813,Turbofan,LATAM,8,3094,9.209659977455345,0.0,Nenhuma
+Boeing 777,4,19649,Turbojato,British,13,4723,15.00926062433377,0.0,Nenhuma
+Airbus A350,5,46240,Turboprop,GOL,5,3564,18.385316662449306,1.0,Sistema de Combustível
+Airbus A320,13,41575,Turbojato,Azul,2,1848,25.994282371878768,1.0,Sistema de Combustível
+Boeing 787,29,5456,Turbojato,Delta,9,2625,-13.536164350999599,1.0,Sistema Hidráulico
+Boeing 737,15,10695,Turbofan,American,11,194,8.26104129670965,0.0,Nenhuma
+Embraer E190,25,17576,Turbojato,British,6,4907,43.43421752999053,0.0,Nenhuma
+Embraer E190,23,1605,Turbofan,Emirates,7,3976,36.34225450653835,0.0,Nenhuma
+Airbus A330,16,15917,Turbojato,Emirates,7,1427,40.97656138836115,1.0,Sistema de Pouso
+Airbus A320,10,25229,Turboprop,United,19,3196,-7.178406125071433,0.0,Nenhuma
+Bombardier CRJ,25,47456,Turbojato,British,6,1875,26.888889001216242,1.0,Sistema Hidráulico
+Boeing 737,23,30599,Turboprop,American,11,843,12.691325899629561,0.0,Nenhuma
+Airbus A320,16,33098,Turboprop,American,11,1651,-32.96751793970951,1.0,Pressurização
+Boeing 737,12,30461,Turbojato,United,7,4464,30.03833307835056,1.0,Outros
+Airbus A330,17,13102,Turboprop,United,2,1160,17.553608490375993,1.0,Pressurização
+Airbus A330,16,9756,Turbojato,LATAM,19,4103,-23.092024441202323,1.0,Instrumentos
+Bombardier CRJ,12,21084,Turbojato,American,4,4843,-33.222222618495785,0.0,Nenhuma
+Embraer E190,8,47480,Turboprop,Delta,6,3987,31.146881105108108,0.0,Nenhuma
+Airbus A320,20,35181,Turboprop,Emirates,17,4013,-33.29334449324791,1.0,Sistema de Pouso
+Boeing 777,3,26292,Turbofan,Delta,5,4992,-32.23492144385288,0.0,Nenhuma
+Embraer E190,16,22404,Turboprop,GOL,7,832,-3.6702955281332024,1.0,Sistema de Pouso
+Airbus A320,13,43861,Turbofan,British,9,1166,-28.542184584344447,1.0,APU
+Embraer E190,23,35040,Turboprop,United,1,1800,37.66191578263114,0.0,Nenhuma
+Boeing 777,28,27036,Turbojato,LATAM,1,2626,-0.025865417624878262,1.0,Estrutural
+Boeing 787,19,19664,Turboprop,Delta,19,4077,8.377833355638579,0.0,Nenhuma
+Boeing 787,8,13496,Turbojato,Azul,6,3386,38.889017605637434,1.0,Sistema de Pouso
+Bombardier CRJ,22,3371,Turbojato,Emirates,18,4437,5.072374179259633,0.0,Nenhuma
+Boeing 787,5,46502,Turbojato,LATAM,10,1537,-9.944752593627921,0.0,Nenhuma
+Boeing 787,20,23126,Turbofan,LATAM,11,3925,27.7581839943457,0.0,Nenhuma
+Airbus A350,8,11021,Turboprop,Delta,1,3681,-2.3577332146070873,0.0,Nenhuma
+Boeing 737,24,43910,Turbojato,Azul,1,4242,-12.930098823804041,1.0,Sistema Hidráulico
+Airbus A350,12,1632,Turbojato,GOL,13,4008,21.474503981470434,1.0,Pressurização
+Airbus A350,1,33967,Turbofan,Delta,5,3447,28.136482512108657,0.0,Nenhuma
+Bombardier CRJ,25,15034,Turboprop,Azul,20,123,27.295874244663068,1.0,Sistema Hidráulico
+Airbus A350,21,24354,Turboprop,LATAM,1,1409,43.10232520094014,1.0,Sistema Hidráulico
+Boeing 787,20,43498,Turbofan,Emirates,20,1141,26.866690654371823,1.0,Motor
+Boeing 777,6,39565,Turbofan,Azul,3,4903,25.44434205563833,0.0,Nenhuma
+Bombardier CRJ,22,46107,Turboprop,LATAM,18,1991,32.88624656757872,1.0,Estrutural
+Bombardier CRJ,18,8312,Turbofan,British,9,3198,-39.98425839988736,1.0,Sistema de Pouso
+Airbus A330,8,5057,Turboprop,Delta,14,4353,-9.193330049039492,0.0,Nenhuma
+Bombardier CRJ,7,2679,Turboprop,United,17,1294,22.69626316292588,0.0,Nenhuma
+Airbus A330,1,44298,Turbojato,Delta,23,1335,10.976115944373575,1.0,Motor
+Bombardier CRJ,21,9565,Turbojato,British,14,4555,-24.906379776312498,1.0,Estrutural
+Boeing 737,16,8775,Turboprop,American,4,3086,-14.182687427473645,0.0,Nenhuma
+Boeing 787,12,48357,Turboprop,American,5,820,-11.372628058020922,0.0,Nenhuma
+Bombardier CRJ,6,36448,Turboprop,American,21,1893,8.265389449646861,1.0,Instrumentos
+Boeing 787,20,21200,Turboprop,Delta,17,123,30.68585519749149,1.0,Sistema de Pouso
+Boeing 787,2,39964,Turboprop,GOL,22,1710,39.26180128110279,0.0,Nenhuma
+Embraer E190,29,42851,Turboprop,Delta,2,4399,23.757855092559318,0.0,Nenhuma
+Bombardier CRJ,14,28294,Turbofan,Emirates,23,869,31.65078316502884,0.0,Nenhuma
+Airbus A320,4,29283,Turboprop,British,22,3868,-0.04184353162113297,0.0,Nenhuma
+Embraer E190,1,17498,Turbofan,Emirates,5,381,-6.869097832105574,0.0,Nenhuma
+Airbus A320,23,14369,Turbofan,British,4,1471,-6.619774767741561,1.0,Sistema Hidráulico
+Boeing 787,18,45025,Turboprop,United,4,3705,12.36327490889635,0.0,Nenhuma
+Boeing 787,13,28652,Turboprop,Azul,6,4981,-29.43988002775623,0.0,Nenhuma
+Embraer E190,2,21454,Turbofan,Delta,20,1741,9.257005537172205,0.0,Nenhuma
+Embraer E190,9,32055,Turbofan,Delta,21,4600,16.536293115616672,0.0,Nenhuma
+Airbus A320,21,17154,Turboprop,LATAM,13,4458,-2.692757082469697,1.0,Estrutural
+Airbus A330,2,45526,Turboprop,British,22,277,41.01921002554923,1.0,Motor
+Airbus A320,27,35736,Turbofan,LATAM,5,2931,11.698128152263898,0.0,Nenhuma
+Embraer E190,25,47476,Turbofan,LATAM,23,2915,-21.30004485988686,1.0,Elétrico
+Boeing 777,9,15542,Turbofan,Delta,23,2625,0.7333818818488851,0.0,Nenhuma
+Embraer E190,1,26466,Turbojato,GOL,7,4572,17.409377156499986,1.0,Outros
+Boeing 777,11,48907,Turbofan,Azul,20,514,-12.491524410659284,0.0,Nenhuma
+Boeing 737,3,44814,Turbojato,Azul,1,327,-33.23046346543303,0.0,Nenhuma
+Embraer E190,20,45595,Turboprop,Emirates,14,4164,9.592028950425224,1.0,APU
+Boeing 737,23,14770,Turboprop,British,4,115,40.568964332672806,1.0,Sistema Hidráulico
+Airbus A330,26,31408,Turbofan,United,17,4312,1.2311187728697703,1.0,Elétrico
+Airbus A320,4,16023,Turboprop,British,21,452,37.01927185499822,1.0,Sistemas de Navegação
+Boeing 777,18,47568,Turboprop,GOL,14,4033,30.977005011593988,0.0,Nenhuma
+Airbus A320,23,20491,Turboprop,GOL,16,4554,-27.469913391111415,1.0,Sistema Hidráulico
+Boeing 737,6,11275,Turboprop,Azul,14,3528,20.19444335602352,0.0,Nenhuma
+Boeing 777,3,12765,Turbojato,American,16,3494,-2.985430368881829,0.0,Nenhuma
+Airbus A320,22,19959,Turbojato,LATAM,20,4742,-18.729062352650363,1.0,Sistema Hidráulico
+Embraer E190,11,17173,Turbofan,LATAM,8,4469,18.389760231669754,0.0,Nenhuma
+Boeing 787,15,27556,Turbofan,Azul,3,3089,23.126161085795815,1.0,Pressurização
+Boeing 737,22,7114,Turbofan,British,19,1487,-24.7088129075387,0.0,Nenhuma
+Airbus A320,28,36520,Turboprop,GOL,1,478,37.727797974777715,1.0,Estrutural
+Boeing 737,5,7915,Turboprop,British,2,2732,23.847515735872477,0.0,Nenhuma
+Airbus A350,20,23655,Turbojato,United,15,2827,39.336917427067334,1.0,Sistema de Pouso
+Boeing 737,10,49930,Turbojato,American,22,3428,-13.048776405086265,1.0,Sistema de Combustível
+Boeing 777,12,44384,Turbofan,Azul,10,442,39.84347633815388,0.0,Nenhuma
+Airbus A350,15,17464,Turbojato,LATAM,18,4591,-8.675999083737626,0.0,Nenhuma
+Bombardier CRJ,17,38226,Turbojato,Delta,22,391,-35.4125702786717,1.0,Comunicações
+Boeing 777,10,37544,Turbojato,British,14,182,24.852398040266976,0.0,Nenhuma
+Boeing 787,6,38044,Turbojato,GOL,17,314,19.79819224750897,0.0,Nenhuma
+Airbus A350,18,32752,Turbojato,Delta,13,4238,10.82243434238326,1.0,Sistema de Pouso
+Bombardier CRJ,13,4332,Turbofan,United,1,1735,1.6409682726547885,0.0,Nenhuma
+Embraer E190,3,25775,Turbofan,Azul,5,1484,-37.26595202257633,0.0,Nenhuma
+Boeing 737,24,15401,Turbojato,British,13,1710,13.090766379213115,1.0,Elétrico
+Airbus A320,10,38713,Turbofan,LATAM,14,3867,-4.569057706062544,1.0,Pressurização
+Airbus A330,14,34648,Turboprop,British,3,2404,7.617799232980325,0.0,Nenhuma
+Boeing 737,6,43133,Turbojato,American,15,315,-3.507685932750917,0.0,Nenhuma
+Bombardier CRJ,3,23418,Turboprop,Emirates,19,4791,42.11477128504191,1.0,Sistemas de Navegação
+Boeing 737,16,47194,Turbofan,Delta,17,1186,11.349256597822006,1.0,APU
+Boeing 787,7,20040,Turbofan,American,3,4599,23.685088101209715,0.0,Nenhuma
+Embraer E190,20,12080,Turboprop,United,16,4976,39.589490535042074,1.0,Outros
+Airbus A330,14,38902,Turbofan,LATAM,14,1440,10.28594244792287,1.0,Outros
+Airbus A350,9,39078,Turbojato,Delta,12,1162,-38.97468598509594,1.0,Outros
+Airbus A350,15,25417,Turboprop,United,12,2284,-37.0852073436039,0.0,Nenhuma
+Airbus A350,21,22818,Turbojato,American,11,2916,19.698766898658256,0.0,Nenhuma
+Bombardier CRJ,3,10679,Turboprop,American,17,3118,-16.277763427140904,1.0,Outros
+Boeing 777,2,12751,Turbofan,Emirates,8,2229,9.247276824575643,0.0,Nenhuma
+Boeing 777,27,46399,Turboprop,Delta,17,684,-22.80643960729314,1.0,Estrutural
+Airbus A320,2,19993,Turboprop,LATAM,21,3681,-17.0288456197543,0.0,Nenhuma
+Airbus A330,3,20966,Turbojato,American,23,1449,2.894489755586399,0.0,Nenhuma
+Airbus A350,18,30706,Turbofan,Azul,20,4836,42.92340438526698,1.0,Instrumentos
+Boeing 777,14,45975,Turbojato,Emirates,11,2789,12.382991582781287,0.0,Nenhuma
+Bombardier CRJ,20,20124,Turbofan,United,2,3220,39.57258888360697,1.0,Outros
+Airbus A320,18,27064,Turbojato,Delta,10,1915,41.547287622890536,0.0,Nenhuma
+Embraer E190,10,22912,Turboprop,GOL,10,2005,-22.310650304256868,0.0,Nenhuma
+Airbus A320,25,28490,Turbojato,GOL,11,4727,-13.548543790139721,0.0,Nenhuma
+Boeing 777,2,36017,Turbofan,LATAM,6,2268,25.44934390358985,0.0,Nenhuma
+Boeing 787,25,13656,Turbofan,Azul,4,1439,33.67494019476423,1.0,Elétrico
+Bombardier CRJ,29,23564,Turboprop,American,12,4929,4.134273256109857,1.0,Elétrico
+Boeing 787,22,26211,Turbofan,GOL,11,3180,44.42421571884668,0.0,Nenhuma
+Airbus A350,1,30606,Turbojato,LATAM,23,4326,-39.01636310580203,0.0,Nenhuma
+Boeing 787,4,17089,Turboprop,United,23,4164,-14.534624275256672,1.0,Instrumentos
+Airbus A350,14,24236,Turbofan,Emirates,13,1299,12.968749068289284,1.0,Sistema de Pouso
+Airbus A350,1,21475,Turbofan,Azul,5,3216,-0.11035757031395832,1.0,Sistema de Pouso
+Boeing 777,14,36718,Turbojato,Azul,6,1295,-30.088747853551936,0.0,Nenhuma
+Boeing 787,16,7714,Turbojato,British,1,103,-8.738097734152095,1.0,Pressurização
+Airbus A350,22,31081,Turboprop,LATAM,6,2960,-37.83699281992168,1.0,Estrutural
+Airbus A330,14,20695,Turbofan,LATAM,18,2446,14.633413916398752,1.0,Sistema de Pouso
+Embraer E190,29,45082,Turbojato,British,22,492,35.8831161546902,1.0,Elétrico
+Airbus A320,20,27627,Turboprop,Emirates,9,4725,35.214300521594,1.0,Outros
+Airbus A320,3,5641,Turbofan,American,15,3661,19.461280270071455,0.0,Nenhuma
+Boeing 777,3,29384,Turbofan,LATAM,8,4427,-0.4095333826761589,0.0,Nenhuma
+Boeing 787,9,25385,Turboprop,British,19,2457,3.522687588776627,1.0,Comunicações
+Boeing 787,6,3208,Turboprop,American,16,872,-28.361899960368653,0.0,Nenhuma
+Airbus A350,25,18875,Turbojato,Emirates,6,3752,-11.013547084867742,0.0,Nenhuma
+Bombardier CRJ,13,15588,Turbofan,American,6,2989,-24.04311358264674,1.0,Outros
+Boeing 737,21,45102,Turbofan,Delta,22,4786,29.802017284746142,0.0,Nenhuma
+Airbus A350,2,45546,Turbofan,Azul,3,1081,37.754081613726584,0.0,Nenhuma
+Embraer E190,8,10514,Turboprop,United,10,2066,5.638477220709952,0.0,Nenhuma
+Airbus A330,21,3773,Turbojato,Azul,1,612,21.859943443600244,0.0,Nenhuma
+Airbus A320,2,47635,Turbofan,Azul,14,2588,-29.675494472894165,0.0,Nenhuma
+Airbus A350,4,37806,Turboprop,Delta,4,390,11.72544467856526,0.0,Nenhuma
+Boeing 737,25,31381,Turbofan,American,12,4617,19.73723681711691,1.0,Elétrico
+Boeing 737,15,31986,Turbojato,American,6,3825,-1.5147089915309309,0.0,Nenhuma
+Airbus A350,4,13041,Turbofan,LATAM,11,2346,-19.321787819990618,0.0,Nenhuma
+Boeing 777,13,9212,Turbojato,Delta,12,284,34.576834246018265,0.0,Nenhuma
+Airbus A320,28,9668,Turbojato,LATAM,10,1166,23.147241196066403,1.0,Elétrico
+Boeing 777,12,4051,Turbofan,Delta,18,1958,36.487868957181576,1.0,Outros
+Airbus A330,28,12797,Turbofan,LATAM,7,1467,29.564225037314998,0.0,Nenhuma
+Boeing 737,13,44233,Turbojato,GOL,7,4969,44.18182651420332,1.0,Motor
+Boeing 737,14,27628,Turboprop,British,11,1341,-23.66531767677184,0.0,Nenhuma
+Embraer E190,20,3332,Turbojato,Azul,4,3538,-32.626439736662206,0.0,Nenhuma
+Airbus A330,18,28983,Turbofan,Azul,20,4777,-11.354762736333026,0.0,Nenhuma
+Boeing 737,29,22563,Turbofan,Emirates,1,3704,-29.034645123022994,0.0,Nenhuma
+Airbus A330,28,23463,Turboprop,United,13,578,4.466059597029073,0.0,Nenhuma
+Airbus A320,6,13922,Turbojato,British,18,3374,13.807456959658111,0.0,Nenhuma
+Boeing 787,29,33420,Turbojato,American,9,2030,9.154532289739315,1.0,Elétrico
+Boeing 737,11,11656,Turbojato,United,9,2989,-17.96458849182704,1.0,Pressurização
+Embraer E190,2,11608,Turbofan,GOL,23,1379,37.25004263234773,0.0,Nenhuma
+Airbus A320,28,32345,Turbojato,Emirates,9,1283,-38.200349082492835,1.0,Elétrico
+Airbus A350,23,3300,Turboprop,United,10,1803,-10.418864930103098,1.0,Sistema Hidráulico
+Airbus A330,19,38578,Turbofan,Emirates,2,2850,21.114360408835182,0.0,Nenhuma
+Airbus A350,19,43212,Turbofan,Azul,6,2983,25.188958739678554,0.0,Nenhuma
+Boeing 777,5,3110,Turbojato,American,15,2809,-4.62992372329191,0.0,Nenhuma
+Airbus A320,19,12567,Turboprop,GOL,3,2825,-38.5626658732088,1.0,Outros
+Airbus A350,2,34372,Turbofan,Azul,11,3537,12.533712725517674,0.0,Nenhuma
+Bombardier CRJ,10,11228,Turbofan,British,6,3900,-34.636952099426665,0.0,Nenhuma
+Bombardier CRJ,25,30066,Turbojato,LATAM,3,2577,-30.83225902695127,0.0,Nenhuma
+Boeing 737,2,30283,Turbojato,Delta,11,940,15.27131116992615,0.0,Nenhuma
+Airbus A330,11,21083,Turboprop,GOL,15,2115,-13.438492277857339,0.0,Nenhuma
+Boeing 787,18,20738,Turbojato,American,13,1238,-10.417437019798506,0.0,Nenhuma
+Airbus A320,29,7763,Turboprop,Emirates,20,4347,1.3786015435756909,1.0,Estrutural
+Boeing 737,24,2414,Turbofan,United,10,790,43.179163563046785,0.0,Nenhuma
+Embraer E190,15,24249,Turboprop,British,6,1419,42.062588762790384,1.0,Outros
+Boeing 777,9,19956,Turboprop,United,15,1439,-4.617815054393617,0.0,Nenhuma
+Airbus A330,23,26082,Turboprop,GOL,18,2050,-17.432566536446014,0.0,Nenhuma
+Airbus A320,19,906,Turbofan,British,18,1521,-14.27966702355016,1.0,Sistema de Pouso
+Bombardier CRJ,9,14189,Turbojato,American,7,1586,-17.153589656263648,0.0,Nenhuma
+Airbus A320,3,33434,Turbofan,GOL,15,368,5.240893607051362,0.0,Nenhuma
+Boeing 787,21,33776,Turbojato,American,18,2314,11.583083663078924,1.0,Elétrico
+Bombardier CRJ,9,36932,Turboprop,United,18,1944,1.5462479995216114,1.0,Sistema de Pouso
+Boeing 787,28,20373,Turboprop,Azul,20,3761,-5.320479208907052,1.0,Elétrico
+Embraer E190,14,13550,Turboprop,British,9,4869,-22.040771806555288,1.0,Pressurização
+Boeing 777,19,1180,Turboprop,LATAM,2,2872,1.0129752674796322,0.0,Nenhuma
+Embraer E190,7,19408,Turboprop,Azul,8,4558,-11.006269326791067,0.0,Nenhuma
+Boeing 737,16,19004,Turbojato,LATAM,20,1325,6.035614337859151,1.0,Instrumentos
+Boeing 737,16,22144,Turbojato,United,2,3133,17.391100318488036,1.0,Outros
+Embraer E190,28,37625,Turboprop,Emirates,11,450,13.831534827111902,0.0,Nenhuma
+Boeing 777,1,1863,Turbofan,British,7,773,-0.6883321155245667,0.0,Nenhuma
+Embraer E190,4,42791,Turbofan,Azul,6,2379,7.264456063796679,0.0,Nenhuma
+Boeing 777,4,35560,Turboprop,Azul,10,1185,-15.787228868335426,0.0,Nenhuma
+Boeing 777,7,2038,Turbojato,GOL,5,2820,-37.939577983096875,0.0,Nenhuma
+Airbus A350,8,36676,Turbofan,Delta,11,4896,13.126653604288848,0.0,Nenhuma
+Bombardier CRJ,17,42020,Turbofan,United,1,317,-18.53167247329661,0.0,Nenhuma
+Airbus A330,5,26175,Turbofan,American,2,619,16.861065355803333,1.0,Pressurização
+Boeing 777,7,18787,Turboprop,United,1,2606,23.495722465741544,0.0,Nenhuma
+Boeing 787,28,674,Turbofan,American,19,2023,37.8538584188214,1.0,Elétrico
+Boeing 777,20,27232,Turbofan,British,2,595,41.44043761576711,0.0,Nenhuma
+Boeing 777,29,35498,Turbofan,American,21,2872,-39.10528606367538,1.0,Estrutural
+Boeing 777,20,37555,Turbofan,Emirates,20,4510,44.18180779514418,1.0,Comunicações
+Airbus A350,4,12612,Turbojato,LATAM,23,4692,18.056557072003677,0.0,Nenhuma
+Bombardier CRJ,28,40374,Turboprop,American,21,320,14.699553631806083,1.0,Elétrico
+Airbus A350,6,10189,Turboprop,American,4,788,-38.70688690839479,0.0,Nenhuma
+Boeing 737,7,45314,Turbojato,GOL,12,1307,33.20484001037269,0.0,Nenhuma
+Airbus A350,18,20055,Turbojato,Azul,22,108,-27.633226983934758,1.0,Comunicações
+Boeing 787,5,34419,Turboprop,United,20,4231,31.17306308430848,1.0,Comunicações
+Boeing 787,20,8119,Turbofan,United,18,4908,-38.67718356800914,1.0,Outros
+Airbus A350,29,6533,Turbofan,British,1,439,14.90696231242871,0.0,Nenhuma
+Bombardier CRJ,3,41828,Turboprop,British,1,768,-3.041869629564637,1.0,Motor
+Embraer E190,7,5446,Turbofan,Emirates,14,4294,-22.934828029956513,1.0,Sistema de Pouso
+Airbus A330,27,25118,Turbojato,American,4,4728,-30.857281699513102,0.0,Nenhuma
+Bombardier CRJ,28,35175,Turbofan,Delta,5,170,-2.5891457935622526,1.0,Sistema Hidráulico
+Airbus A350,22,36758,Turbofan,United,11,2702,-29.519006547678895,1.0,Estrutural
+Boeing 777,14,19419,Turbofan,British,23,2353,1.347961993739041,0.0,Nenhuma
+Airbus A320,7,4673,Turboprop,American,13,4911,13.143449985492445,0.0,Nenhuma
+Airbus A330,5,44333,Turbojato,British,16,2961,30.327656456625448,0.0,Nenhuma
+Airbus A330,29,26900,Turbofan,Emirates,13,849,17.68520216054366,1.0,Sistema Hidráulico
+Boeing 787,22,5269,Turboprop,LATAM,22,3430,-34.45801982997721,0.0,Nenhuma
+Airbus A330,5,38064,Turbofan,LATAM,2,2156,-13.868234733433837,0.0,Nenhuma
+Airbus A350,23,46314,Turbojato,British,16,1159,-15.521818325737467,1.0,Sistema Hidráulico
+Boeing 777,2,14711,Turbofan,LATAM,6,1300,37.777755995042156,1.0,Pressurização
+Boeing 777,27,23755,Turbojato,British,14,2690,33.76147377338489,0.0,Nenhuma
+Boeing 737,21,28462,Turbofan,American,1,1699,-8.537426940214559,0.0,Nenhuma
+Boeing 777,22,19856,Turbojato,GOL,17,1395,-33.95180324998061,1.0,Sistema Hidráulico
+Bombardier CRJ,6,20806,Turbofan,Delta,11,3006,35.99912201340234,0.0,Nenhuma
+Boeing 777,15,5497,Turbojato,American,19,2496,35.49614600195592,1.0,Instrumentos
+Boeing 787,21,17876,Turbofan,GOL,3,3414,32.65342122261163,0.0,Nenhuma
+Boeing 777,10,41380,Turbofan,GOL,11,534,31.831939207517635,0.0,Nenhuma
+Boeing 737,23,38555,Turboprop,United,5,852,0.8215900923231487,0.0,Nenhuma
+Airbus A320,26,11078,Turboprop,American,17,1765,-24.918309558784152,0.0,Nenhuma
+Airbus A350,24,19124,Turbojato,American,22,1965,0.5864842893063553,0.0,Nenhuma
+Boeing 787,7,39694,Turbofan,British,7,3533,2.0408105069045135,0.0,Nenhuma
+Bombardier CRJ,5,44867,Turbojato,GOL,10,1807,1.6441990258131582,0.0,Nenhuma
+Airbus A320,1,889,Turboprop,GOL,11,1859,5.7956698197848695,0.0,Nenhuma
+Boeing 787,13,34267,Turbojato,GOL,3,3057,-18.099153045751816,1.0,Outros
+Embraer E190,21,46080,Turbojato,British,20,3275,-8.869499603642723,0.0,Nenhuma
+Airbus A330,26,48867,Turboprop,United,10,3545,-3.094139683105091,1.0,Elétrico
+Embraer E190,18,2355,Turbofan,American,10,2370,-28.854697191097515,0.0,Nenhuma
+Boeing 777,13,41393,Turbojato,GOL,14,1720,-1.294048562272458,1.0,Motor
+Airbus A320,21,14294,Turboprop,LATAM,12,4665,28.889917450915405,1.0,Estrutural
+Boeing 777,21,36031,Turbofan,American,15,1201,30.38506113229448,0.0,Nenhuma
+Airbus A330,18,5486,Turboprop,British,10,4797,-5.017079388412419,0.0,Nenhuma
+Boeing 787,5,32798,Turbojato,United,10,2273,4.098706527170052,1.0,Pressurização
+Airbus A330,13,1981,Turbofan,LATAM,19,2717,-37.13972176852019,0.0,Nenhuma
+Boeing 737,4,4231,Turbofan,British,1,260,17.326767299830735,0.0,Nenhuma
+Airbus A330,17,17335,Turboprop,Azul,10,2544,-5.608499949516641,0.0,Nenhuma
+Boeing 737,3,28298,Turboprop,American,2,4731,-2.1343969379156107,1.0,Outros
+Airbus A330,17,26613,Turboprop,Azul,17,4312,34.26218181028,0.0,Nenhuma
+Airbus A350,28,19977,Turbofan,British,7,2557,-0.7440730623482921,1.0,Sistema Hidráulico
+Boeing 737,11,17766,Turbofan,British,7,3013,-38.198659070632516,0.0,Nenhuma
+Airbus A320,21,21292,Turbojato,British,20,3478,-20.663274276129698,1.0,Sistema Hidráulico
+Boeing 777,20,20952,Turbofan,GOL,9,3425,0.4277522162020091,0.0,Nenhuma
+Bombardier CRJ,23,44026,Turbojato,United,22,4005,-3.926315116374461,1.0,Sistema Hidráulico
+Boeing 777,21,49579,Turboprop,GOL,2,3755,33.131461668840856,0.0,Nenhuma
+Embraer E190,26,41834,Turboprop,United,14,3455,6.0816882910241645,1.0,Estrutural
+Boeing 777,4,12389,Turbofan,Delta,17,4088,18.619038062785286,0.0,Nenhuma
+Boeing 787,2,24835,Turboprop,GOL,1,1102,-0.10751975130504121,0.0,Nenhuma
+Airbus A350,20,11754,Turboprop,Azul,9,763,-2.6292626049709824,1.0,Sistema de Pouso
+Airbus A330,16,21574,Turbofan,United,20,2938,-2.065633179680141,1.0,Instrumentos
+Embraer E190,28,11942,Turbojato,GOL,21,737,-5.071666576023695,0.0,Nenhuma
+Boeing 787,18,46789,Turbofan,American,19,379,5.779587797607292,0.0,Nenhuma
+Boeing 787,8,37827,Turbojato,British,4,1796,-18.712310850943688,0.0,Nenhuma
+Boeing 737,3,16699,Turbofan,United,8,1257,35.73969147655477,0.0,Nenhuma
+Boeing 777,9,7791,Turbofan,United,13,2192,-11.687728412020803,1.0,Outros
+Airbus A320,29,41428,Turboprop,GOL,4,834,-27.46047409492552,0.0,Nenhuma
+Bombardier CRJ,20,612,Turbofan,Delta,9,2746,-31.793209319191664,1.0,Sistema de Pouso
+Airbus A320,29,22015,Turbofan,GOL,9,3870,-38.85905221478915,1.0,Estrutural
+Embraer E190,6,20081,Turbojato,Emirates,22,3768,-4.057233321816774,0.0,Nenhuma
+Airbus A350,10,49192,Turboprop,Azul,18,2743,-24.0530659736389,1.0,Sistema de Combustível
+Airbus A320,21,27000,Turbojato,Azul,12,675,-38.159928280083925,0.0,Nenhuma
+Airbus A330,10,32526,Turbojato,United,10,4284,4.20166143460952,0.0,Nenhuma
+Airbus A320,13,17023,Turboprop,United,11,3758,17.798176635314725,0.0,Nenhuma
+Embraer E190,17,1924,Turboprop,GOL,7,811,-32.71116067255613,0.0,Nenhuma
+Bombardier CRJ,9,20052,Turboprop,Azul,9,4029,-0.8217343018289327,0.0,Nenhuma
+Airbus A320,17,11308,Turbofan,Azul,6,3579,23.208437681063465,1.0,Sistema de Pouso
+Airbus A330,24,39311,Turboprop,Delta,19,1605,43.79357978571613,0.0,Nenhuma
+Boeing 737,9,7489,Turboprop,American,16,3683,16.711179294617672,0.0,Nenhuma
+Airbus A350,9,24120,Turboprop,Delta,15,725,-19.18863818119075,0.0,Nenhuma
+Embraer E190,1,39529,Turbojato,Emirates,7,4237,20.907059381214964,1.0,Sistema de Pouso
+Boeing 737,2,1387,Turbojato,LATAM,16,86,10.824001279685547,0.0,Nenhuma
+Boeing 737,28,32302,Turbofan,British,5,3886,-21.997060470568442,1.0,Elétrico
+Boeing 737,16,19988,Turbojato,Delta,16,1837,32.344420197042155,0.0,Nenhuma
+Boeing 787,29,30513,Turbofan,Emirates,1,2777,-3.670623685653929,0.0,Nenhuma
+Airbus A350,1,49701,Turbojato,GOL,19,3930,41.768100652400705,0.0,Nenhuma
+Bombardier CRJ,10,16902,Turboprop,American,5,1944,21.446585633061126,0.0,Nenhuma
+Boeing 777,18,21705,Turbojato,GOL,7,186,14.787868143704877,0.0,Nenhuma
+Airbus A350,26,26549,Turbofan,British,19,3126,21.909991185507756,1.0,Elétrico
+Boeing 787,28,12753,Turbojato,Emirates,22,3933,0.6382465995488289,0.0,Nenhuma
+Boeing 777,8,19490,Turboprop,LATAM,5,711,2.9442506131422874,0.0,Nenhuma
+Airbus A350,21,8346,Turbofan,American,17,1860,32.35262776280324,1.0,Elétrico
+Boeing 737,28,25527,Turboprop,United,22,464,17.878925614697742,1.0,Sistema Hidráulico
+Embraer E190,11,39700,Turboprop,Azul,8,392,36.265682641289544,1.0,Pressurização
+Boeing 777,23,46720,Turbofan,Delta,1,2779,35.72027405381283,1.0,Sistema Hidráulico
+Airbus A330,2,46663,Turboprop,Emirates,2,3500,43.001652893761175,0.0,Nenhuma
+Airbus A330,8,4265,Turboprop,GOL,15,3715,19.518246001853406,1.0,Sistema de Pouso
+Airbus A320,27,16450,Turbojato,LATAM,20,3787,2.695646001248072,1.0,Estrutural
+Boeing 777,22,45770,Turboprop,Azul,18,3947,-25.863505482228,1.0,Sistema Hidráulico
+Embraer E190,8,10241,Turboprop,Delta,11,4291,19.95734757003047,0.0,Nenhuma
+Bombardier CRJ,17,23242,Turboprop,Azul,10,4468,-15.215894075405888,1.0,Sistema de Pouso
+Boeing 787,15,25203,Turboprop,Delta,4,2219,-15.949456716826845,1.0,Pressurização
+Boeing 737,17,39209,Turbofan,Emirates,5,1928,-19.745539001914214,1.0,Sistema de Pouso
+Airbus A320,28,38123,Turbojato,United,4,4020,34.385374874873264,1.0,Estrutural
+Airbus A330,23,23431,Turboprop,American,13,4746,33.776977967983456,1.0,Sistema Hidráulico
+Boeing 787,24,24080,Turboprop,Emirates,13,4620,13.632487813954945,0.0,Nenhuma
+Boeing 787,13,15666,Turbofan,Azul,18,2667,0.2033834165125441,0.0,Nenhuma
+Boeing 737,19,29740,Turboprop,Azul,2,1565,17.129729108397918,0.0,Nenhuma
+Bombardier CRJ,5,26491,Turbofan,Azul,16,624,11.614503275363212,0.0,Nenhuma
+Bombardier CRJ,12,39056,Turbojato,American,1,4492,-4.662588892512076,0.0,Nenhuma
+Boeing 777,1,33469,Turbojato,LATAM,19,2917,-7.731376263721081,0.0,Nenhuma
+Airbus A330,23,11061,Turboprop,Delta,9,3594,-7.462483807645235,0.0,Nenhuma
+Bombardier CRJ,5,17401,Turboprop,Emirates,3,4527,10.076339268263247,0.0,Nenhuma
+Embraer E190,8,41005,Turboprop,Emirates,7,121,15.051895270270201,0.0,Nenhuma
+Bombardier CRJ,13,30520,Turbofan,United,10,2618,-1.6019509511874332,1.0,Sistema de Pouso
+Boeing 787,8,26417,Turboprop,Azul,1,3487,42.33877326810865,0.0,Nenhuma
+Boeing 737,25,2488,Turboprop,British,10,3030,-32.87311396961911,1.0,Sistema Hidráulico
+Embraer E190,23,48709,Turbojato,Emirates,21,1167,-10.501002793928954,0.0,Nenhuma
+Boeing 777,11,45005,Turboprop,American,9,2436,-4.378651934337519,0.0,Nenhuma
+Airbus A330,1,14756,Turbojato,LATAM,15,3558,-38.56168580547983,0.0,Nenhuma
+Boeing 777,13,22692,Turboprop,Emirates,15,1409,-8.978639048200861,0.0,Nenhuma
+Boeing 787,19,28730,Turbojato,Delta,3,4809,-16.734657040308385,1.0,Sistema de Pouso
+Embraer E190,24,40430,Turboprop,American,5,1565,3.013082969335862,1.0,Elétrico
+Embraer E190,3,46333,Turbojato,United,9,89,-11.405103489422114,0.0,Nenhuma
+Embraer E190,24,23125,Turbofan,United,22,1432,21.725481470449203,0.0,Nenhuma
+Boeing 787,17,32588,Turbojato,Delta,9,2080,3.344262109650124,1.0,Sistema de Pouso
+Boeing 787,5,14614,Turbojato,Azul,23,2671,-28.97021015281753,1.0,Comunicações
+Boeing 777,20,41667,Turbojato,United,7,1950,23.755212552269512,1.0,Motor
+Airbus A320,21,38901,Turboprop,LATAM,23,2267,-31.565543832972487,1.0,Estrutural
+Boeing 777,8,6255,Turboprop,American,12,4846,31.31917928674538,0.0,Nenhuma
+Airbus A330,26,11325,Turboprop,Emirates,9,4656,39.17088649732865,0.0,Nenhuma
+Boeing 737,14,23193,Turbofan,LATAM,6,1333,-12.592150334287417,0.0,Nenhuma
+Embraer E190,4,4617,Turbofan,Azul,23,633,38.72212382734912,0.0,Nenhuma
+Airbus A320,11,25229,Turbojato,LATAM,2,508,27.405693525415757,0.0,Nenhuma
+Boeing 737,20,32682,Turbofan,LATAM,9,2315,38.407026935320445,1.0,Pressurização
+Airbus A320,15,29390,Turbojato,GOL,17,2716,16.63296163827205,0.0,Nenhuma
+Bombardier CRJ,19,29840,Turbojato,LATAM,1,865,-19.97025664917914,0.0,Nenhuma
+Bombardier CRJ,7,2018,Turbojato,Delta,19,2561,36.034475137432665,1.0,Comunicações
+Airbus A350,19,31449,Turbofan,American,6,296,-24.337468525486784,1.0,Pressurização
+Bombardier CRJ,28,23047,Turboprop,GOL,5,4875,-21.889853163509482,1.0,Sistema Hidráulico
+Boeing 777,19,16846,Turbofan,American,2,466,-16.959645838069083,1.0,Sistema de Pouso
+Bombardier CRJ,11,3100,Turbojato,American,9,4513,-14.139063523640303,0.0,Nenhuma
+Boeing 787,26,46505,Turbojato,Azul,14,3767,3.7307695811376007,1.0,Estrutural
+Embraer E190,5,29767,Turbofan,Azul,4,157,20.643875636893746,0.0,Nenhuma
+Boeing 777,5,36822,Turbojato,GOL,4,2681,38.72769482405812,0.0,Nenhuma
+Boeing 737,22,27490,Turbojato,United,21,888,-32.48280507648229,1.0,Sistema Hidráulico
+Airbus A350,8,16693,Turbofan,British,15,4563,41.121395789400054,0.0,Nenhuma
+Airbus A350,10,30609,Turbofan,Azul,8,4966,38.31245220322914,0.0,Nenhuma
+Airbus A350,6,19733,Turbofan,British,4,1471,-35.41006016461169,0.0,Nenhuma
+Boeing 737,15,48521,Turbojato,Azul,16,4828,-9.372703296217171,1.0,Sistema de Combustível
+Boeing 737,16,16694,Turbojato,Azul,21,3962,29.1171881754436,0.0,Nenhuma
+Boeing 737,28,35010,Turboprop,American,4,305,11.984006365749096,0.0,Nenhuma
+Boeing 737,17,1806,Turboprop,GOL,16,2877,26.22298518745049,1.0,Pressurização
+Airbus A350,8,4349,Turbofan,American,22,887,21.11783379714044,0.0,Nenhuma
+Airbus A350,8,12860,Turboprop,Emirates,12,3012,2.2254596158089015,0.0,Nenhuma
+Airbus A320,25,46036,Turbojato,Delta,16,2332,-36.49646609410554,0.0,Nenhuma
+Boeing 777,9,29731,Turboprop,American,19,602,9.662797175482588,0.0,Nenhuma
+Embraer E190,2,46300,Turbojato,British,8,230,-35.871834489959845,1.0,Motor
+Bombardier CRJ,15,37463,Turbofan,British,6,4302,11.31677099048612,1.0,Sistema de Pouso
+Bombardier CRJ,18,19189,Turbofan,Delta,10,1527,28.034923311962643,1.0,Outros
+Boeing 787,3,29584,Turbojato,LATAM,5,620,9.724298639663083,0.0,Nenhuma
+Airbus A350,17,40887,Turboprop,LATAM,18,1777,44.74685338774425,1.0,Motor
+Boeing 787,4,9780,Turbofan,Delta,10,641,-1.2513474846631922,0.0,Nenhuma
+Boeing 777,4,3142,Turbofan,Delta,10,4566,23.650334406338935,0.0,Nenhuma
+Boeing 777,14,42637,Turboprop,American,7,2310,16.713129798062134,0.0,Nenhuma
+Boeing 787,9,14796,Turboprop,Delta,18,2997,44.27169378243748,0.0,Nenhuma
+Airbus A350,9,15938,Turbojato,Emirates,1,397,20.623615431553937,0.0,Nenhuma
+Boeing 787,25,48942,Turboprop,GOL,7,215,-26.0573878259519,0.0,Nenhuma
+Bombardier CRJ,26,38025,Turboprop,LATAM,21,4493,41.21900504546548,1.0,Sistema Hidráulico
+Airbus A320,23,3494,Turboprop,LATAM,1,2946,16.761064247889713,1.0,Estrutural
+Bombardier CRJ,18,48494,Turbojato,Emirates,15,4543,-34.95625038145686,0.0,Nenhuma
+Airbus A330,10,34539,Turbojato,United,4,632,15.89330599169206,0.0,Nenhuma
+Airbus A350,21,2313,Turbofan,Emirates,20,3556,35.065149567355874,1.0,Estrutural
+Airbus A350,4,27991,Turbojato,Emirates,10,4453,9.048558269152132,0.0,Nenhuma
+Embraer E190,12,19345,Turbofan,Delta,23,3088,-9.908330767279047,1.0,Comunicações
+Boeing 737,27,41743,Turboprop,Azul,9,2895,29.777318896002356,1.0,Sistema Hidráulico
+Airbus A330,8,37664,Turbofan,Azul,2,2816,26.513520697495508,0.0,Nenhuma
+Boeing 777,2,42551,Turbofan,Emirates,14,4244,6.255483109660567,1.0,Motor
+Airbus A350,22,13818,Turboprop,Delta,16,1315,-26.87924955884847,1.0,Elétrico
+Boeing 787,13,17700,Turbofan,GOL,1,4303,-18.666148730529585,1.0,Sistema de Pouso
+Airbus A330,21,582,Turbojato,Azul,2,4699,22.771137635818988,0.0,Nenhuma
+Embraer E190,16,2420,Turbojato,United,7,4796,28.516984058568838,1.0,Pressurização
+Boeing 777,28,41085,Turbojato,British,10,3017,-16.26245136651587,0.0,Nenhuma
+Boeing 737,2,12183,Turbojato,Delta,22,2324,-8.721268439123136,1.0,Sistemas de Navegação
+Boeing 737,11,11836,Turbofan,Emirates,20,2520,-33.401289753767415,1.0,Comunicações
+Embraer E190,10,16096,Turbofan,GOL,1,2340,20.644265611152484,0.0,Nenhuma
+Embraer E190,15,2593,Turboprop,GOL,13,2627,-39.69590870899734,0.0,Nenhuma
+Boeing 787,17,13405,Turbofan,American,1,3710,-36.04397069637921,0.0,Nenhuma
+Airbus A350,8,24851,Turbofan,GOL,5,1118,-39.63075423835236,0.0,Nenhuma
+Boeing 737,18,31481,Turbofan,Azul,16,2786,14.852164583697423,1.0,Sistema de Pouso
+Boeing 777,23,8867,Turboprop,Emirates,15,4879,-4.5220941454535435,1.0,Sistema Hidráulico
+Airbus A330,9,5785,Turbojato,British,17,2000,-14.708525285816929,0.0,Nenhuma
+Boeing 777,25,44164,Turbofan,Azul,23,141,37.57958588035439,1.0,Sistema Hidráulico
+Airbus A320,8,38205,Turboprop,Delta,16,3143,-23.611762452488435,0.0,Nenhuma
+Airbus A320,27,17253,Turboprop,British,13,2269,-6.903719117580955,1.0,Estrutural
+Embraer E190,14,18985,Turboprop,Delta,11,1437,39.9265030788589,0.0,Nenhuma
+Boeing 787,28,13477,Turbojato,GOL,17,4324,-3.6959421588513948,0.0,Nenhuma
+Airbus A320,26,20374,Turbofan,United,17,2335,7.148963279999911,0.0,Nenhuma
+Boeing 737,25,8174,Turboprop,LATAM,2,3256,-33.171366341593554,1.0,Sistema Hidráulico
+Boeing 777,18,29538,Turbojato,British,13,2974,27.1641428859443,1.0,Outros
+Boeing 777,22,29815,Turboprop,Emirates,14,329,-4.0655039474997565,0.0,Nenhuma
+Embraer E190,20,4176,Turboprop,American,11,1668,28.043785590871096,0.0,Nenhuma
+Airbus A350,20,2926,Turboprop,LATAM,10,2837,-18.42720038274067,0.0,Nenhuma
+Airbus A350,21,24973,Turboprop,GOL,3,420,-4.089306202280149,0.0,Nenhuma
+Airbus A330,12,3462,Turboprop,GOL,17,3233,26.856659591025874,1.0,Sistema de Pouso
+Embraer E190,19,30443,Turbojato,Emirates,15,3884,42.77961019870938,1.0,Pressurização
+Bombardier CRJ,14,1359,Turbofan,LATAM,9,1753,-34.93183042708215,0.0,Nenhuma
+Airbus A330,17,45316,Turbofan,American,10,2318,29.058775080606864,0.0,Nenhuma
+Bombardier CRJ,24,4638,Turbofan,British,8,353,-14.44142925169563,1.0,Estrutural
+Airbus A350,21,35692,Turbofan,British,21,3824,6.813178875741137,0.0,Nenhuma
+Embraer E190,3,26140,Turbojato,LATAM,13,1398,-15.342157479186426,0.0,Nenhuma
+Bombardier CRJ,26,10909,Turbojato,Delta,18,2472,12.142865168279165,1.0,Elétrico
+Embraer E190,23,4517,Turbojato,Azul,5,3678,-9.926759395262078,0.0,Nenhuma
+Embraer E190,7,10951,Turboprop,United,6,2478,-11.642734266897072,0.0,Nenhuma
+Airbus A350,17,28827,Turboprop,Delta,17,3083,-36.77524340044548,1.0,Outros
+Airbus A330,12,10778,Turboprop,British,11,718,-27.50836549817602,1.0,Sistema de Pouso
+Airbus A330,9,25444,Turbofan,Azul,20,549,37.9516469035657,1.0,Comunicações
+Embraer E190,15,44264,Turboprop,United,16,1464,44.85358145422593,0.0,Nenhuma
+Airbus A320,18,1634,Turbofan,United,9,579,26.344248948916544,0.0,Nenhuma
+Boeing 787,21,30631,Turboprop,United,2,3671,-15.620926894253621,1.0,Sistema Hidráulico
+Airbus A350,13,38387,Turbofan,GOL,5,3506,-5.792163232294634,0.0,Nenhuma
+Boeing 787,21,38962,Turboprop,Emirates,1,804,22.857793667017027,1.0,Sistema Hidráulico
+Boeing 787,8,23020,Turboprop,United,4,2397,42.32365233507184,0.0,Nenhuma
+Airbus A330,14,22369,Turbojato,American,4,4960,-1.2849504880037514,0.0,Nenhuma
+Airbus A330,8,37432,Turboprop,LATAM,22,776,30.50940529951184,0.0,Nenhuma
+Airbus A320,14,5539,Turboprop,British,3,4876,42.88085842089093,1.0,Pressurização
+Boeing 787,7,21781,Turbojato,American,9,4973,34.24521953976037,0.0,Nenhuma
+Boeing 787,23,47899,Turbofan,LATAM,22,2699,-20.69227152443721,1.0,Sistema Hidráulico
+Embraer E190,12,10942,Turbojato,Delta,23,2096,-39.31729157057205,0.0,Nenhuma
+Airbus A330,11,8752,Turbojato,Emirates,12,2865,1.8269449580152823,0.0,Nenhuma
+Boeing 787,22,28086,Turbofan,Delta,10,924,5.1656706940976775,0.0,Nenhuma
+Boeing 777,22,18068,Turboprop,LATAM,2,3329,-22.89371901315058,1.0,Sistema Hidráulico
+Airbus A320,11,21310,Turbofan,American,11,3034,-15.802676684520499,0.0,Nenhuma
+Bombardier CRJ,25,2051,Turboprop,LATAM,10,2228,25.038018672126483,0.0,Nenhuma
+Boeing 777,22,13125,Turboprop,United,22,3857,-0.020483009383632123,0.0,Nenhuma
+Boeing 777,28,34897,Turbofan,GOL,6,657,-13.024902893978187,0.0,Nenhuma
+Bombardier CRJ,29,26749,Turbojato,British,18,684,12.923212325763153,0.0,Nenhuma
+Airbus A350,13,1861,Turbofan,Delta,2,4629,15.484579257970651,0.0,Nenhuma
+Airbus A350,18,26649,Turboprop,British,2,2777,25.398641031468188,0.0,Nenhuma
+Airbus A320,2,4870,Turbofan,GOL,10,1124,-26.679709860151874,0.0,Nenhuma
+Boeing 777,29,5783,Turbofan,United,16,1964,23.028966447794176,0.0,Nenhuma
+Boeing 787,21,8110,Turboprop,United,12,638,10.951413329385574,1.0,Sistema Hidráulico
+Airbus A330,15,43826,Turbojato,Delta,1,3281,-35.10639144926225,1.0,Sistema de Combustível
+Airbus A320,20,15424,Turbofan,Delta,21,2354,26.082878401539944,0.0,Nenhuma
+Embraer E190,27,48107,Turboprop,United,8,3888,-7.43817608667927,0.0,Nenhuma
+Bombardier CRJ,18,45217,Turboprop,Azul,16,2023,-11.917620581980806,1.0,APU
+Boeing 777,15,11126,Turbofan,British,18,2105,-1.9136121155610795,0.0,Nenhuma
+Airbus A320,19,35261,Turbojato,Emirates,13,3530,-10.575118428979028,1.0,Outros
+Boeing 737,23,1369,Turbofan,GOL,15,2129,-11.24572466215773,1.0,Sistema Hidráulico
+Boeing 737,24,32052,Turbojato,British,21,3102,28.686601754553166,1.0,Elétrico
+Airbus A350,12,1514,Turbojato,GOL,12,4532,-29.417053378916158,0.0,Nenhuma
+Bombardier CRJ,13,10603,Turbojato,Azul,8,1301,42.50100576788398,0.0,Nenhuma
+Airbus A330,22,17486,Turbojato,Emirates,10,3845,7.169189771819177,0.0,Nenhuma
+Boeing 787,11,45281,Turbofan,American,14,3872,-24.4514601341884,1.0,Sistema de Combustível
+Airbus A330,5,30971,Turboprop,GOL,5,4352,-28.84668395080665,0.0,Nenhuma
+Airbus A330,29,33958,Turboprop,British,18,3439,10.278310231473519,1.0,Estrutural
+Airbus A330,1,25569,Turboprop,LATAM,19,1830,13.80495272698888,0.0,Nenhuma
+Bombardier CRJ,24,17373,Turboprop,Emirates,15,2654,-35.492809462466084,0.0,Nenhuma
+Airbus A330,3,23748,Turboprop,United,6,3738,-19.344837299053207,0.0,Nenhuma
+Embraer E190,22,24124,Turboprop,United,11,4938,27.614263303824714,0.0,Nenhuma
+Bombardier CRJ,19,44016,Turbofan,Azul,21,1774,-35.78190664180033,0.0,Nenhuma
+Embraer E190,23,29561,Turbojato,GOL,11,2834,32.682536432013066,0.0,Nenhuma
+Bombardier CRJ,29,24670,Turboprop,American,20,3769,15.943810504738352,0.0,Nenhuma
+Airbus A350,7,8524,Turbofan,GOL,20,1727,-3.0740229541275923,0.0,Nenhuma
+Airbus A320,12,17178,Turboprop,United,21,498,-10.55320783747215,0.0,Nenhuma
+Boeing 737,15,38756,Turboprop,Delta,18,4737,-38.36383807284401,0.0,Nenhuma
+Airbus A330,25,20911,Turbojato,LATAM,18,131,30.143270388906657,1.0,Sistema Hidráulico
+Airbus A350,5,44303,Turbojato,Emirates,10,1456,-27.868642412674262,0.0,Nenhuma
+Airbus A320,15,19796,Turbojato,Azul,2,1530,-13.688930691722511,0.0,Nenhuma
+Boeing 737,8,26793,Turboprop,Delta,9,1129,8.374093330838328,0.0,Nenhuma
+Boeing 777,10,27672,Turboprop,British,14,3648,-19.09062899394339,0.0,Nenhuma
+Boeing 787,26,21628,Turboprop,American,19,4564,2.2569394189371152,1.0,Estrutural
+Embraer E190,16,18757,Turbojato,Delta,10,4233,28.794140442789697,0.0,Nenhuma
+Boeing 777,8,13355,Turbofan,British,23,3730,-0.004275542826640333,1.0,Sistemas de Navegação
+Bombardier CRJ,1,20142,Turboprop,Delta,4,2753,40.663074250165664,0.0,Nenhuma
+Boeing 737,12,36085,Turboprop,American,6,4360,32.03755273198904,0.0,Nenhuma
+Boeing 777,5,20525,Turboprop,Emirates,14,3806,-11.691664994111495,0.0,Nenhuma
+Boeing 787,3,4958,Turbofan,Delta,4,1808,-6.00321941036529,0.0,Nenhuma
+Airbus A350,1,5807,Turboprop,Azul,15,2649,-4.017228203085189,0.0,Nenhuma
+Boeing 737,4,42201,Turbofan,United,16,2600,13.225253498583747,0.0,Nenhuma
+Boeing 777,8,18925,Turboprop,GOL,7,3903,-15.622363018974116,0.0,Nenhuma
+Embraer E190,3,43927,Turbofan,Delta,17,2796,42.38617679991323,0.0,Nenhuma
+Embraer E190,10,28773,Turboprop,Azul,19,2342,11.738158751297576,0.0,Nenhuma
+Airbus A320,2,39006,Turbojato,GOL,19,1551,-6.050859007003652,0.0,Nenhuma
+Boeing 777,11,6168,Turbojato,Emirates,17,4454,14.825834316783222,1.0,Pressurização
+Airbus A330,25,26434,Turbojato,British,6,280,-6.390574104974846,0.0,Nenhuma
+Boeing 777,10,47695,Turbojato,GOL,11,4300,29.512632883250603,0.0,Nenhuma
+Airbus A350,21,8197,Turboprop,British,16,1248,8.26648164689631,1.0,Elétrico
+Boeing 737,14,24917,Turbojato,Delta,8,164,-36.4325072104843,0.0,Nenhuma
+Boeing 737,7,16946,Turbofan,Azul,11,1463,-24.975666269005835,0.0,Nenhuma
+Airbus A350,27,41097,Turbojato,United,7,4456,33.524487707510445,1.0,Estrutural
+Boeing 777,27,11251,Turbojato,Delta,22,1042,7.846485240327141,1.0,Elétrico
+Airbus A350,2,46718,Turbojato,British,19,2397,40.77919550368193,0.0,Nenhuma
+Boeing 787,9,7852,Turboprop,American,10,1091,-33.844103406841796,0.0,Nenhuma
+Bombardier CRJ,16,14016,Turbojato,GOL,9,61,-14.902846442692216,1.0,Pressurização
+Airbus A350,13,23799,Turbofan,Delta,4,3726,-23.54881327463633,0.0,Nenhuma
+Embraer E190,9,32457,Turbojato,British,23,4875,7.076424839442581,1.0,Comunicações
+Airbus A350,20,29427,Turbojato,Emirates,15,3115,-7.4626093582077075,0.0,Nenhuma
+Boeing 737,4,41594,Turbojato,GOL,13,2086,-26.631749603506577,1.0,Sistema de Combustível
+Embraer E190,22,36912,Turbofan,Emirates,2,3096,14.633912686561487,1.0,Estrutural
+Boeing 737,10,29993,Turbojato,British,2,2400,5.585361092760849,0.0,Nenhuma
+Airbus A320,26,27211,Turbofan,Azul,16,590,-16.64741863981442,1.0,Estrutural
+Airbus A330,26,8503,Turbofan,LATAM,9,2910,0.7805654115021099,0.0,Nenhuma
+Boeing 737,22,32207,Turbojato,Emirates,13,126,23.387756778501107,0.0,Nenhuma
+Embraer E190,12,3778,Turbofan,Delta,3,3117,-22.551907663194026,0.0,Nenhuma
+Airbus A320,17,7796,Turboprop,United,9,73,-15.10301153035303,0.0,Nenhuma
+Boeing 737,14,25898,Turbojato,Delta,13,725,-10.580566097000212,1.0,Outros
+Boeing 787,14,36342,Turbojato,GOL,21,2444,23.471747162087688,0.0,Nenhuma
+Airbus A350,25,13761,Turbofan,Azul,22,4317,31.98842096182709,0.0,Nenhuma
+Airbus A330,2,11673,Turbofan,British,2,3448,-8.006977802463076,0.0,Nenhuma
+Boeing 737,21,30949,Turbojato,American,8,2809,-14.78722674411695,0.0,Nenhuma
+Airbus A320,25,41580,Turboprop,United,9,538,35.602974459892565,1.0,Sistema Hidráulico
+Boeing 787,20,2137,Turbofan,Azul,16,1535,44.946019236377694,0.0,Nenhuma
+Boeing 777,11,32281,Turbofan,Emirates,2,3709,16.98005937125292,1.0,Outros
+Airbus A320,16,14152,Turboprop,Emirates,6,3285,44.148352274080366,0.0,Nenhuma
+Airbus A350,19,5603,Turboprop,Delta,22,2469,16.09713361316235,1.0,Sistemas de Navegação
+Airbus A320,23,26000,Turbojato,American,8,3545,22.344123120665117,0.0,Nenhuma
+Boeing 787,6,35300,Turboprop,Azul,5,806,-6.964239868801343,0.0,Nenhuma
+Airbus A320,24,36029,Turbojato,LATAM,9,2574,-3.1977585050804507,0.0,Nenhuma
+Boeing 787,19,48463,Turboprop,United,1,4300,-27.748468560901415,0.0,Nenhuma
+Boeing 737,5,18952,Turbofan,GOL,9,306,29.933751255035475,0.0,Nenhuma
+Bombardier CRJ,26,49893,Turbojato,Azul,10,1829,39.140017625412014,1.0,Elétrico
+Boeing 787,4,31674,Turbojato,Azul,23,4819,12.992241363999526,1.0,Comunicações
+Boeing 787,15,35936,Turbojato,LATAM,4,2165,-10.78997878214113,0.0,Nenhuma
+Airbus A330,29,47906,Turboprop,Delta,3,3398,-26.908612343178866,1.0,Sistema Hidráulico
+Boeing 787,4,16454,Turbofan,British,10,4818,-17.46172047504823,0.0,Nenhuma
+Boeing 787,20,17686,Turbojato,British,15,1522,-18.29011422759332,0.0,Nenhuma
+Boeing 777,10,12856,Turbojato,United,11,308,12.149870153903713,0.0,Nenhuma
+Bombardier CRJ,24,33463,Turbojato,United,14,4125,40.328184555906375,1.0,Estrutural
+Boeing 737,22,2687,Turbojato,GOL,6,356,-35.89688960857158,1.0,Sistema Hidráulico
+Airbus A350,3,12207,Turbofan,Azul,12,1168,-39.91310453447192,0.0,Nenhuma
+Airbus A330,26,35598,Turboprop,American,13,3067,11.015465266717676,1.0,Estrutural
+Boeing 777,5,27435,Turbofan,Azul,17,4391,-15.854860723224203,0.0,Nenhuma
+Embraer E190,6,21725,Turbojato,British,16,2830,34.84660909881134,0.0,Nenhuma
+Bombardier CRJ,21,4106,Turbofan,GOL,3,1708,-12.183723828005554,0.0,Nenhuma
+Boeing 737,22,33328,Turbojato,Azul,2,236,-15.372303955044408,0.0,Nenhuma
+Boeing 737,8,26989,Turboprop,LATAM,11,1847,-17.09159719644473,0.0,Nenhuma
+Embraer E190,7,14887,Turboprop,British,9,974,-27.68750968219925,0.0,Nenhuma
+Airbus A350,21,4427,Turboprop,Azul,3,834,9.430090313554402,1.0,Estrutural
+Boeing 787,10,6796,Turbojato,Azul,18,3494,-25.701843801592148,1.0,Outros
+Boeing 777,6,30944,Turbofan,British,20,3246,-3.9063514178252774,1.0,Instrumentos
+Airbus A320,14,46890,Turboprop,American,15,1410,-0.8173755582698448,0.0,Nenhuma
+Airbus A330,4,47393,Turbojato,British,14,390,-38.25817601537217,1.0,Sistema de Combustível
+Airbus A320,28,3091,Turbojato,LATAM,2,612,-38.57138121520289,0.0,Nenhuma
+Embraer E190,25,45395,Turbofan,LATAM,17,4796,4.2180785443304885,1.0,Sistema Hidráulico
+Boeing 737,13,49016,Turboprop,Azul,22,3049,19.16295223947624,1.0,Motor
+Airbus A350,20,26647,Turbojato,United,8,1243,40.08211099383439,1.0,Pressurização
+Boeing 737,17,39389,Turbofan,American,10,3160,-24.774860846658818,1.0,Outros
+Airbus A330,23,1700,Turboprop,Azul,18,118,-31.22300119793298,1.0,Sistema Hidráulico
+Boeing 737,7,16221,Turbofan,British,19,2478,-35.57252791119217,0.0,Nenhuma
+Boeing 737,4,19738,Turbofan,Azul,8,3648,-2.9364654523992257,0.0,Nenhuma
+Airbus A330,29,11587,Turbojato,GOL,8,2422,12.967526223556334,0.0,Nenhuma
+Boeing 777,14,31316,Turbojato,GOL,3,4606,31.447035323857463,0.0,Nenhuma
+Boeing 777,3,23908,Turbojato,United,3,893,18.024814994916163,0.0,Nenhuma
+Airbus A330,24,40240,Turbofan,American,12,623,-22.289332928637126,1.0,Estrutural
+Airbus A350,5,636,Turbojato,Delta,22,4264,-0.7495188563162856,1.0,Instrumentos
+Embraer E190,16,17913,Turbofan,Emirates,17,2646,37.3794394362357,0.0,Nenhuma
+Bombardier CRJ,26,48614,Turbofan,GOL,4,4791,-12.227009689423447,1.0,Elétrico
+Boeing 737,23,19478,Turbojato,Delta,17,1528,2.3920810328141755,1.0,Elétrico
+Airbus A350,20,1161,Turboprop,LATAM,14,2123,41.47805344471422,0.0,Nenhuma
+Boeing 737,4,35740,Turboprop,GOL,19,1563,22.4501804737643,1.0,Comunicações
+Bombardier CRJ,24,27753,Turboprop,GOL,9,1018,23.55793277954382,0.0,Nenhuma
+Embraer E190,24,27384,Turbofan,American,21,2246,-18.551609624875653,1.0,Elétrico
+Boeing 777,2,33354,Turbofan,United,12,1561,-4.750659944064104,0.0,Nenhuma
+Airbus A350,18,11204,Turbofan,Delta,5,704,-33.000916136778656,1.0,Sistema de Pouso
+Boeing 787,19,39487,Turbojato,British,11,3042,11.554698699295365,0.0,Nenhuma
+Boeing 787,28,25027,Turbofan,GOL,20,4700,-31.182936013887996,1.0,Sistema Hidráulico
+Bombardier CRJ,28,16822,Turbojato,GOL,3,4570,31.052314487506152,1.0,Sistema Hidráulico
+Boeing 787,19,48017,Turbojato,American,21,342,29.23707189669973,1.0,Motor
+Boeing 777,17,7468,Turboprop,American,15,2651,5.356433595396311,0.0,Nenhuma
+Bombardier CRJ,14,28018,Turboprop,United,14,4576,-28.000887178252476,0.0,Nenhuma
+Boeing 777,19,46864,Turboprop,Delta,11,4462,-37.82578642841071,1.0,APU
+Embraer E190,22,28386,Turbojato,LATAM,20,4543,27.720236741118654,0.0,Nenhuma
+Boeing 737,24,2200,Turbojato,British,8,1638,11.01194107314128,0.0,Nenhuma
+Embraer E190,13,28746,Turbojato,United,4,645,20.429019123570086,0.0,Nenhuma
+Embraer E190,12,35968,Turbofan,Emirates,12,2643,-14.176394312408753,0.0,Nenhuma
+Boeing 777,26,23699,Turbojato,LATAM,8,2173,3.30603271673273,0.0,Nenhuma
+Bombardier CRJ,6,45089,Turboprop,Azul,6,1993,23.509804495870284,0.0,Nenhuma
+Bombardier CRJ,21,32615,Turboprop,GOL,15,965,-0.6821187933270352,1.0,Sistema Hidráulico
+Boeing 787,4,6020,Turbojato,Delta,12,3919,11.117658935342128,0.0,Nenhuma
+Airbus A320,19,44778,Turbojato,United,16,2844,27.12690225367679,0.0,Nenhuma
+Boeing 737,16,36955,Turboprop,GOL,16,3128,-21.7062451523578,1.0,Sistema de Pouso
+Boeing 777,13,21429,Turbojato,Delta,21,1025,-34.396044404614,0.0,Nenhuma
+Boeing 787,4,42105,Turboprop,Delta,20,1125,5.204998418918436,0.0,Nenhuma
+Airbus A350,23,15455,Turbofan,Delta,20,3039,-34.719309488791865,0.0,Nenhuma
+Airbus A320,17,44549,Turboprop,GOL,4,3517,25.15737002117403,0.0,Nenhuma
+Airbus A320,23,14417,Turbofan,United,11,1501,21.13297304887203,0.0,Nenhuma
+Boeing 777,1,5257,Turbojato,British,13,3873,34.94557707455024,0.0,Nenhuma
+Airbus A330,18,13545,Turbojato,American,9,3982,14.362778332886649,0.0,Nenhuma
+Boeing 737,20,42180,Turbofan,GOL,4,2078,-34.28820648604823,1.0,Motor
+Airbus A320,17,5233,Turbojato,Emirates,12,412,-18.48206933338252,0.0,Nenhuma
+Boeing 777,27,31454,Turbofan,Delta,9,2479,28.67420678783114,1.0,Elétrico
+Boeing 777,28,31635,Turbojato,United,13,3682,-25.79374452834504,0.0,Nenhuma
+Boeing 787,27,7581,Turboprop,British,16,2368,19.370839764265426,1.0,Elétrico
+Airbus A350,15,41958,Turbojato,Azul,6,3135,26.322043128240622,0.0,Nenhuma
+Airbus A330,11,24001,Turboprop,Emirates,10,2395,-11.940497182304505,0.0,Nenhuma
+Boeing 737,25,21613,Turboprop,LATAM,13,3648,-12.604714760752778,0.0,Nenhuma
+Bombardier CRJ,28,34941,Turbofan,Emirates,7,4379,7.413227902777486,1.0,Estrutural
+Embraer E190,22,47586,Turbojato,Delta,19,1781,33.209338284154924,1.0,Sistema Hidráulico
+Airbus A350,13,25190,Turbofan,Azul,19,76,-20.967972837354154,0.0,Nenhuma
+Airbus A350,1,44439,Turbojato,American,17,142,40.006946663604225,0.0,Nenhuma
+Boeing 787,17,29845,Turboprop,British,13,2714,10.925088209709202,1.0,Sistema de Pouso
+Bombardier CRJ,6,46813,Turboprop,British,13,358,44.33075006494347,1.0,Sistema de Combustível
+Airbus A320,4,45071,Turbojato,Delta,21,101,-32.38283346039758,1.0,Sistema de Combustível
+Airbus A320,20,27329,Turbojato,Emirates,2,368,-29.24221839692548,0.0,Nenhuma
+Boeing 787,16,35562,Turbofan,Emirates,10,2042,30.264553315646026,0.0,Nenhuma
+Boeing 777,15,4130,Turbojato,British,22,4326,33.50425112632719,1.0,Comunicações
+Airbus A320,27,48361,Turbojato,Azul,13,3941,-2.136011488470615,1.0,Sistema Hidráulico
+Airbus A330,15,32370,Turbojato,Delta,9,4792,20.69604997209847,0.0,Nenhuma
+Boeing 737,6,49798,Turbofan,GOL,1,4006,33.742369432870774,0.0,Nenhuma
+Airbus A350,15,47721,Turbojato,United,14,2742,-36.334138001399566,1.0,APU
+Airbus A350,14,45442,Turboprop,Azul,16,3068,8.785785954426984,0.0,Nenhuma
+Airbus A330,28,3953,Turbofan,United,20,2074,32.54585665475162,1.0,Sistema Hidráulico
+Bombardier CRJ,11,37775,Turbofan,GOL,15,4481,-6.156829710294126,0.0,Nenhuma
+Airbus A320,7,43870,Turboprop,GOL,1,1575,-14.297393480443716,0.0,Nenhuma
+Airbus A350,9,38896,Turboprop,United,17,1328,27.63506823306119,0.0,Nenhuma
+Embraer E190,26,8828,Turboprop,Azul,13,563,-11.458140402258923,1.0,Elétrico
+Bombardier CRJ,16,16034,Turbojato,United,15,4387,-39.73018465431723,1.0,Sistema de Pouso
+Boeing 737,5,20244,Turboprop,United,16,1783,41.56366994847059,1.0,Pressurização
+Boeing 737,25,19889,Turbojato,LATAM,16,3420,10.330475089836568,0.0,Nenhuma
+Airbus A350,20,36820,Turbofan,Azul,2,3971,29.659023090356044,0.0,Nenhuma
+Boeing 787,29,49670,Turbofan,Emirates,17,2550,30.150632799130733,1.0,Elétrico
+Bombardier CRJ,10,35510,Turboprop,Emirates,11,3514,-34.35511426831771,0.0,Nenhuma
+Airbus A350,18,15165,Turbojato,LATAM,8,2309,-25.47688305215049,0.0,Nenhuma
+Boeing 787,3,38365,Turboprop,Delta,20,4813,-13.554742135429972,0.0,Nenhuma
+Airbus A350,13,9140,Turboprop,British,3,4739,-12.740560771487559,0.0,Nenhuma
+Embraer E190,11,35216,Turbojato,Emirates,12,2709,15.996820002877598,0.0,Nenhuma
+Bombardier CRJ,17,26021,Turboprop,United,20,305,12.966298263978203,0.0,Nenhuma
+Boeing 777,22,30549,Turbofan,Delta,16,1552,2.040131130834169,1.0,Sistema Hidráulico
+Boeing 737,13,6118,Turboprop,Emirates,14,4706,-22.042582753754726,0.0,Nenhuma
+Airbus A350,6,37504,Turbojato,Azul,16,2160,-7.531405076324212,1.0,Pressurização
+Embraer E190,17,2420,Turbojato,United,21,456,6.205487319539408,0.0,Nenhuma
+Boeing 787,27,44437,Turbofan,British,17,2899,-0.22124388116493776,1.0,Sistema Hidráulico
+Boeing 787,13,4688,Turbojato,Delta,11,3226,-29.180134686918336,0.0,Nenhuma
+Boeing 737,19,12707,Turbojato,Emirates,17,1910,15.208391947663522,0.0,Nenhuma
+Airbus A330,21,738,Turbofan,Emirates,19,4404,-33.79059897109386,1.0,Elétrico
+Airbus A350,19,33472,Turboprop,American,22,772,-7.853451938108179,0.0,Nenhuma
+Bombardier CRJ,10,11299,Turbofan,Emirates,1,1332,20.352494552394468,0.0,Nenhuma
+Airbus A320,3,6052,Turboprop,GOL,12,663,-38.297999565824945,0.0,Nenhuma
+Boeing 787,14,29416,Turbofan,United,15,3381,8.448539618851868,0.0,Nenhuma
+Bombardier CRJ,26,5427,Turboprop,British,18,3166,-11.56571719781973,0.0,Nenhuma
+Bombardier CRJ,19,28464,Turbofan,GOL,23,2028,-39.24929330906757,1.0,Comunicações
+Boeing 777,5,11664,Turboprop,LATAM,14,862,-23.81742195981739,0.0,Nenhuma
+Bombardier CRJ,29,37658,Turbofan,Delta,1,1836,39.98042642800563,0.0,Nenhuma
+Bombardier CRJ,5,19571,Turboprop,Emirates,13,380,4.2976569679326815,0.0,Nenhuma
+Boeing 777,20,48909,Turbofan,LATAM,15,2262,44.7643123934762,0.0,Nenhuma
+Boeing 787,17,6660,Turbojato,British,7,1266,4.609423781003002,0.0,Nenhuma
+Bombardier CRJ,21,16310,Turboprop,United,15,4532,6.234595044672801,1.0,Elétrico
+Airbus A330,10,5626,Turbofan,GOL,20,3387,-6.693343900707546,0.0,Nenhuma
+Airbus A330,5,30509,Turboprop,GOL,10,2425,-13.646564407829786,0.0,Nenhuma
+Embraer E190,4,34084,Turboprop,Delta,14,1290,-18.618627983699692,1.0,Pressurização
+Boeing 777,6,46682,Turbofan,United,6,369,-10.80924762889272,0.0,Nenhuma
+Embraer E190,26,25896,Turboprop,Emirates,14,4544,-0.9126581234632667,1.0,Sistema Hidráulico
+Boeing 777,4,692,Turbofan,American,22,1964,-23.680684230382845,1.0,Sistemas de Navegação
+Airbus A350,7,36913,Turbojato,American,12,4250,-20.885617196515852,0.0,Nenhuma
+Airbus A350,7,13316,Turboprop,Delta,11,4841,-16.918694663182674,0.0,Nenhuma
+Bombardier CRJ,18,39582,Turbojato,United,20,379,-1.8129091858786737,0.0,Nenhuma
+Airbus A320,3,32630,Turboprop,Delta,22,709,15.48913617921066,1.0,Sistemas de Navegação
+Airbus A350,1,40642,Turboprop,United,19,3738,32.772422774334416,1.0,Motor
+Airbus A320,24,36968,Turboprop,British,2,3168,-15.593793839092818,0.0,Nenhuma
+Airbus A350,25,31198,Turbofan,British,22,4966,-24.383091070977823,1.0,Estrutural
+Boeing 737,4,11155,Turbojato,LATAM,20,2022,-7.797965487702825,0.0,Nenhuma
+Airbus A350,6,48397,Turboprop,Emirates,1,1843,36.022561491607746,1.0,Motor
+Embraer E190,9,30575,Turbofan,Delta,8,3268,-39.16183809134314,0.0,Nenhuma
+Boeing 787,22,9859,Turboprop,Emirates,14,4607,17.618832364908357,0.0,Nenhuma
+Bombardier CRJ,14,37161,Turbofan,United,9,2583,0.5586039449844264,0.0,Nenhuma
+Embraer E190,28,40079,Turboprop,American,2,2507,-26.311071728342196,0.0,Nenhuma
+Boeing 787,12,42556,Turbojato,Emirates,23,3150,-12.713170266670332,1.0,Motor
+Airbus A330,28,33772,Turbojato,United,5,4416,-20.87924627045212,1.0,Elétrico
+Embraer E190,25,43081,Turboprop,British,23,2783,34.6157342706604,1.0,Estrutural
+Airbus A330,20,15171,Turbofan,United,8,4530,0.9592376353241718,1.0,Pressurização
+Airbus A320,24,27548,Turboprop,Delta,16,4205,7.863013619161883,1.0,Elétrico
+Airbus A320,25,11238,Turbofan,LATAM,22,269,10.463447643646752,0.0,Nenhuma
+Boeing 737,4,26463,Turboprop,LATAM,16,2868,14.367455591200269,0.0,Nenhuma
+Airbus A350,21,44454,Turbofan,LATAM,13,1956,2.122233681954043,1.0,Elétrico
+Embraer E190,24,7273,Turbojato,LATAM,20,2661,-38.48074987891316,0.0,Nenhuma
+Airbus A330,12,37084,Turboprop,British,15,2643,-11.548571612254587,0.0,Nenhuma
+Boeing 787,10,30394,Turbojato,Azul,1,145,-24.37077453871575,0.0,Nenhuma
+Airbus A320,22,1217,Turbojato,Emirates,22,1038,17.81214164749254,1.0,Estrutural
+Airbus A350,28,12176,Turboprop,Delta,3,1162,-35.18010463354604,1.0,Estrutural
+Airbus A320,7,4934,Turboprop,GOL,6,2328,7.923288244489761,0.0,Nenhuma
+Boeing 787,3,38325,Turbofan,Delta,22,295,-22.09630360668442,1.0,Sistemas de Navegação
+Airbus A350,23,29600,Turbofan,Azul,14,2208,40.6518962697002,1.0,Elétrico
+Airbus A350,28,5494,Turbojato,LATAM,4,4379,-11.47901991414448,1.0,Sistema Hidráulico
+Airbus A330,14,4734,Turbofan,Azul,18,3399,-12.356198733156091,0.0,Nenhuma
+Airbus A330,24,4264,Turbofan,American,15,2775,38.48769677921152,1.0,Estrutural
+Embraer E190,10,44449,Turboprop,American,9,4127,-4.525426774147981,1.0,APU
+Embraer E190,16,37905,Turbofan,Emirates,18,4948,41.84329840578809,1.0,Outros
+Boeing 777,16,35372,Turbojato,British,3,2716,-37.9455200686522,1.0,Sistema de Pouso
+Bombardier CRJ,22,42715,Turbofan,Delta,10,3249,-13.960711107817563,1.0,Elétrico
+Boeing 777,10,23685,Turbojato,Delta,17,2804,16.626401622646647,0.0,Nenhuma
+Boeing 737,25,43942,Turboprop,GOL,7,1467,35.72284198484927,0.0,Nenhuma
+Airbus A320,13,41653,Turbojato,British,15,704,-18.205524594295866,0.0,Nenhuma
+Embraer E190,6,12499,Turbofan,GOL,1,2492,39.0905953169118,0.0,Nenhuma
+Airbus A330,12,36987,Turboprop,American,11,160,10.500324652430997,0.0,Nenhuma
+Boeing 787,9,3081,Turbofan,LATAM,17,139,28.085700671822863,1.0,Sistema de Pouso
+Airbus A330,13,3263,Turboprop,Azul,5,812,-6.237379133913734,0.0,Nenhuma
+Airbus A320,4,27874,Turboprop,GOL,7,3222,-21.964667481815766,1.0,Sistema de Pouso
+Boeing 777,24,39259,Turbofan,United,19,2229,37.45501031305392,1.0,Sistema Hidráulico
+Airbus A330,11,11031,Turbofan,GOL,15,2554,39.31654881452859,0.0,Nenhuma
+Bombardier CRJ,20,25807,Turboprop,LATAM,3,1514,2.2938872531015164,1.0,Outros
+Boeing 737,18,31335,Turboprop,LATAM,15,147,-39.447923640063195,1.0,Outros
+Airbus A320,26,11564,Turbofan,Delta,5,342,-30.668448938015622,0.0,Nenhuma
+Boeing 777,11,11812,Turbojato,Azul,23,1889,8.707376619696348,0.0,Nenhuma
+Bombardier CRJ,25,38048,Turbofan,LATAM,12,1784,-37.97898030433967,0.0,Nenhuma
+Boeing 787,21,37445,Turboprop,British,20,2669,-6.262486461130898,1.0,Elétrico
+Boeing 777,4,48437,Turbofan,GOL,5,4797,-14.21355462637893,0.0,Nenhuma
+Airbus A350,18,6976,Turbojato,GOL,3,2246,20.7196034091874,0.0,Nenhuma
+Bombardier CRJ,1,25065,Turbofan,American,9,3516,-35.2758127994255,0.0,Nenhuma
+Bombardier CRJ,27,2882,Turboprop,LATAM,9,1956,1.5421578630694341,0.0,Nenhuma
+Boeing 737,7,22963,Turbofan,United,7,1771,9.224712939426453,0.0,Nenhuma
+Airbus A320,6,45776,Turboprop,Delta,2,3741,12.469741464472506,0.0,Nenhuma
+Boeing 787,15,33902,Turboprop,Azul,23,1866,-5.561597878560029,1.0,Sistemas de Navegação
+Boeing 737,18,26845,Turbofan,United,23,302,-14.128738408488168,0.0,Nenhuma
+Boeing 777,24,45264,Turboprop,Delta,21,4277,18.011907867657648,1.0,Elétrico
+Boeing 737,11,27446,Turboprop,GOL,16,3569,32.04336908871207,1.0,Pressurização
+Bombardier CRJ,20,14662,Turbojato,United,9,1957,18.957499211544693,0.0,Nenhuma
+Airbus A320,24,49654,Turbojato,Delta,13,1960,39.22870106386384,1.0,Estrutural
+Embraer E190,15,47273,Turbojato,GOL,19,2571,20.967399655423804,1.0,Sistema de Combustível
+Boeing 737,16,8897,Turbojato,GOL,20,3899,24.992592391157558,0.0,Nenhuma
+Airbus A350,7,22835,Turboprop,GOL,17,1108,-25.728228288822447,0.0,Nenhuma
+Boeing 737,21,45595,Turbofan,GOL,6,3588,-4.339130215229503,1.0,Elétrico
+Boeing 777,10,14894,Turboprop,British,4,2372,1.2297031312570397,0.0,Nenhuma
+Boeing 777,26,27697,Turboprop,GOL,1,236,-18.215081204958352,0.0,Nenhuma
+Boeing 787,12,22510,Turboprop,American,18,998,4.92588813028447,0.0,Nenhuma
+Boeing 777,24,24623,Turbofan,United,19,2340,-15.282684741142962,0.0,Nenhuma
+Airbus A330,14,22887,Turbojato,Delta,9,4409,18.43767788837536,0.0,Nenhuma
+Airbus A320,25,3390,Turboprop,American,13,4667,-0.025479480230053753,1.0,Sistema Hidráulico
+Airbus A320,5,28269,Turboprop,British,8,4928,-1.0014088871319728,0.0,Nenhuma
+Embraer E190,26,44126,Turbojato,Emirates,23,4680,43.60961513778899,1.0,Sistema Hidráulico
+Embraer E190,21,8526,Turboprop,Emirates,13,259,-6.642187873881511,0.0,Nenhuma
+Airbus A320,18,3806,Turbofan,American,15,2143,-9.204888229886695,0.0,Nenhuma
+Airbus A350,5,34165,Turboprop,LATAM,11,3588,-12.918628440974377,0.0,Nenhuma
+Embraer E190,3,9777,Turboprop,LATAM,12,1613,36.05368378294284,0.0,Nenhuma
+Boeing 787,23,42739,Turbojato,LATAM,14,75,2.2215252183451497,1.0,Elétrico
+Boeing 777,26,48164,Turboprop,Azul,4,224,11.001230585854017,0.0,Nenhuma
+Airbus A320,5,48508,Turboprop,LATAM,1,1384,-24.630429284796424,0.0,Nenhuma
+Bombardier CRJ,24,15183,Turbofan,Delta,4,371,5.980100600418787,0.0,Nenhuma
+Embraer E190,17,1170,Turbojato,American,19,4200,-16.654903606178493,1.0,Instrumentos
+Airbus A320,19,24175,Turbojato,Delta,9,4097,22.104138307344584,1.0,Pressurização
+Airbus A330,19,18389,Turbofan,United,10,3277,30.764909647352482,0.0,Nenhuma
+Boeing 737,25,45035,Turboprop,LATAM,4,1922,20.758908831158593,1.0,Sistema Hidráulico
+Boeing 777,21,13506,Turbojato,British,20,2117,22.07075413297187,1.0,Elétrico
+Airbus A320,12,49036,Turbojato,Azul,9,382,3.560349850158943,1.0,Motor
+Boeing 737,25,27031,Turboprop,United,13,3041,20.5300347884015,0.0,Nenhuma
+Embraer E190,29,22139,Turboprop,British,12,960,-4.071610481806374,1.0,Estrutural
+Boeing 737,9,17133,Turbojato,Azul,11,4546,15.376578050017109,0.0,Nenhuma
+Boeing 777,1,35160,Turboprop,Emirates,12,999,-17.981667139756254,0.0,Nenhuma
+Airbus A320,18,3939,Turbojato,United,18,2125,-34.07065395347914,0.0,Nenhuma
+Airbus A330,21,32672,Turboprop,Emirates,12,2564,-4.854772549632678,0.0,Nenhuma
+Airbus A350,4,36122,Turboprop,American,16,3381,-0.7488567586583557,0.0,Nenhuma
+Embraer E190,10,12077,Turbofan,Delta,5,3079,-18.205391553961352,0.0,Nenhuma
+Airbus A320,25,12263,Turboprop,GOL,20,150,21.8553090646152,0.0,Nenhuma
+Boeing 777,7,20676,Turbofan,Delta,12,4696,-33.748209287016266,0.0,Nenhuma
+Embraer E190,22,44886,Turboprop,LATAM,21,2450,-21.06639242776897,1.0,Sistema Hidráulico
+Boeing 787,23,24755,Turbojato,Emirates,11,3421,23.628001068558277,1.0,Elétrico
+Boeing 737,1,41503,Turbojato,British,9,2393,-2.8444367320989485,0.0,Nenhuma
+Airbus A350,17,20496,Turboprop,GOL,18,402,19.94910804334156,0.0,Nenhuma
+Boeing 777,24,35886,Turboprop,Azul,3,3005,8.23629961160568,1.0,Sistema Hidráulico
+Boeing 787,29,21562,Turbojato,Emirates,20,1068,40.8105837497758,1.0,Sistema Hidráulico
+Bombardier CRJ,29,36431,Turboprop,American,17,1229,10.812645781440807,1.0,Sistema Hidráulico
+Airbus A320,2,36210,Turbofan,American,14,3586,-38.73613718063083,1.0,Sistema de Pouso
+Airbus A330,28,35193,Turbofan,Emirates,1,3700,-10.005425207131609,0.0,Nenhuma
+Embraer E190,26,36240,Turbofan,Emirates,17,2552,-27.839842012599846,0.0,Nenhuma
+Boeing 737,11,12205,Turbofan,Emirates,8,3869,38.59386259580478,0.0,Nenhuma
+Embraer E190,9,43908,Turbofan,Azul,5,1029,-31.158941385768173,1.0,Sistema de Combustível
+Airbus A350,7,28547,Turboprop,LATAM,5,4884,-7.044933633857568,0.0,Nenhuma
+Airbus A320,22,11466,Turboprop,Azul,9,1026,-20.781568541731165,0.0,Nenhuma
+Embraer E190,17,17874,Turbofan,United,3,1421,31.97136918372233,0.0,Nenhuma
+Boeing 737,17,11638,Turboprop,British,19,2330,-13.771847704942058,1.0,Sistemas de Navegação
+Airbus A320,2,16435,Turboprop,Emirates,23,4626,44.31094606712483,1.0,Instrumentos
+Embraer E190,6,46413,Turbofan,British,9,157,-36.71758852295868,0.0,Nenhuma
+Airbus A330,14,989,Turboprop,LATAM,22,1022,-29.0964743406819,1.0,Sistemas de Navegação
+Boeing 777,6,45016,Turboprop,GOL,18,1676,-20.905704003525724,0.0,Nenhuma
+Airbus A320,2,22760,Turboprop,Azul,16,753,28.94401341701355,1.0,Outros
+Boeing 777,1,26569,Turbofan,LATAM,1,924,34.673962770441335,0.0,Nenhuma
+Bombardier CRJ,10,19775,Turboprop,British,2,3859,-33.9266326481991,1.0,Sistema de Pouso
+Airbus A320,21,36784,Turbojato,GOL,14,2461,-37.240887950206506,0.0,Nenhuma
+Airbus A330,5,39678,Turbojato,Azul,14,2157,23.28733285388924,0.0,Nenhuma
+Boeing 777,2,33321,Turbofan,American,1,3603,-28.665079425942857,0.0,Nenhuma
+Boeing 787,22,17499,Turbojato,Azul,16,1323,-28.69512009865567,0.0,Nenhuma
+Boeing 737,16,39212,Turbofan,Delta,15,609,-38.098844567973515,0.0,Nenhuma
+Boeing 787,25,40672,Turbojato,Azul,15,166,-35.76633040540914,1.0,Elétrico
+Embraer E190,2,34222,Turbojato,Delta,12,3096,-17.587586019383423,0.0,Nenhuma
+Airbus A330,10,11125,Turbojato,GOL,16,93,-34.47453340008146,0.0,Nenhuma
+Boeing 787,2,2129,Turbofan,Azul,14,558,-8.645277208961577,0.0,Nenhuma
+Airbus A320,16,11473,Turbofan,GOL,15,3489,30.78587765432468,1.0,Pressurização
+Embraer E190,16,7359,Turboprop,GOL,23,3978,-12.262778127664625,0.0,Nenhuma
+Embraer E190,19,42109,Turbofan,British,15,4994,21.86590381924659,1.0,APU
+Boeing 787,29,43807,Turbojato,LATAM,19,966,-32.017652989362446,0.0,Nenhuma
+Bombardier CRJ,7,45950,Turbojato,GOL,8,2995,16.046890930656893,1.0,Sistema de Combustível
+Boeing 787,22,36546,Turbofan,GOL,2,848,-13.076489423118023,1.0,Elétrico
+Bombardier CRJ,12,22339,Turbofan,British,2,1810,23.72899468924824,0.0,Nenhuma
+Airbus A330,24,27716,Turbofan,British,10,2383,-28.418578805207538,0.0,Nenhuma
+Boeing 737,15,19445,Turboprop,Azul,3,3325,36.32008710998096,0.0,Nenhuma
+Boeing 787,8,7039,Turbojato,British,23,868,-19.38093775367539,0.0,Nenhuma
+Airbus A350,6,34125,Turboprop,Azul,17,2218,-9.983287571100004,0.0,Nenhuma
+Bombardier CRJ,28,5386,Turboprop,American,8,3785,40.765360419533536,1.0,Elétrico
+Boeing 787,27,46213,Turbojato,British,23,3115,9.17100057712301,1.0,Sistema Hidráulico
+Boeing 777,10,7985,Turbojato,LATAM,4,3309,-8.909420888143135,1.0,Pressurização
+Airbus A320,3,31955,Turbofan,GOL,14,956,40.716182497858696,0.0,Nenhuma
+Airbus A350,19,46948,Turbofan,LATAM,21,4158,-12.028419564347281,1.0,Motor
+Airbus A350,17,17267,Turboprop,Delta,10,652,-31.93598942260972,1.0,Outros
+Bombardier CRJ,7,47665,Turbofan,Emirates,1,4345,44.73215546805069,1.0,Sistema de Combustível
+Boeing 777,21,28953,Turbofan,British,4,2683,-17.233181752492325,1.0,Sistema Hidráulico
+Boeing 777,20,11244,Turbojato,GOL,1,1841,32.35691713946663,0.0,Nenhuma
+Embraer E190,26,37602,Turbojato,LATAM,17,3577,-25.92903244003758,0.0,Nenhuma
+Bombardier CRJ,4,12726,Turbofan,British,17,4593,22.165087601077133,0.0,Nenhuma
+Boeing 737,14,28369,Turbojato,British,7,1861,4.578198530141421,0.0,Nenhuma
+Airbus A320,20,23088,Turbofan,Emirates,23,3961,43.37705745466101,0.0,Nenhuma
+Airbus A330,22,13940,Turbojato,American,20,890,6.990580267853957,1.0,Elétrico
+Airbus A350,15,32209,Turbojato,American,15,3192,-37.8737120892774,1.0,Pressurização
+Airbus A330,24,48288,Turbojato,GOL,13,4735,11.329629118047471,1.0,Estrutural
+Boeing 787,8,22995,Turbojato,Delta,2,2140,-27.648101211386788,0.0,Nenhuma
+Boeing 787,21,37519,Turbofan,American,19,4665,27.875977798977402,1.0,Elétrico
+Airbus A330,15,45448,Turboprop,Emirates,13,1086,32.80829670164141,0.0,Nenhuma
+Boeing 787,22,49408,Turbojato,American,11,774,0.977949097550713,1.0,Sistema Hidráulico
+Boeing 737,20,1422,Turbofan,Delta,22,1037,26.57382384944539,0.0,Nenhuma
+Boeing 777,28,28026,Turbofan,LATAM,15,852,-27.665587484063565,0.0,Nenhuma
+Boeing 787,14,8457,Turbojato,American,10,2632,1.826645855529918,0.0,Nenhuma
+Embraer E190,27,49064,Turboprop,Emirates,9,3887,-6.514737501300303,0.0,Nenhuma
+Boeing 787,29,34498,Turbojato,Azul,9,576,11.961977899511915,0.0,Nenhuma
+Airbus A320,9,43895,Turbofan,Emirates,20,1715,-36.219438951731405,1.0,Sistema de Combustível
+Boeing 737,8,24531,Turboprop,United,1,1188,23.930441251133324,0.0,Nenhuma
+Airbus A320,26,10506,Turbofan,United,17,509,-33.27401039465189,1.0,Sistema Hidráulico
+Airbus A320,28,38201,Turbojato,American,12,2602,15.800078990064016,0.0,Nenhuma
+Embraer E190,26,47563,Turboprop,LATAM,10,4470,-38.43113582910474,1.0,Estrutural
+Boeing 737,17,26439,Turbofan,British,5,4724,30.710485419322012,0.0,Nenhuma
+Boeing 737,2,49645,Turbofan,LATAM,18,2858,-25.15053143097859,0.0,Nenhuma
+Bombardier CRJ,25,20824,Turbofan,Emirates,15,2948,3.8172854580441893,1.0,Elétrico
+Boeing 737,24,23367,Turbojato,GOL,6,3293,-17.773103183152354,0.0,Nenhuma
+Boeing 737,3,703,Turboprop,Azul,7,4118,21.425012175190822,0.0,Nenhuma
+Boeing 737,8,17044,Turbojato,LATAM,17,2381,-12.685156483873694,0.0,Nenhuma
+Embraer E190,12,16399,Turbojato,Delta,6,4620,21.591781455006966,1.0,Pressurização
+Boeing 787,1,29563,Turbojato,Emirates,8,3735,-15.785947418984495,1.0,Pressurização
+Bombardier CRJ,10,25844,Turboprop,Azul,12,681,23.9602127295396,0.0,Nenhuma
+Airbus A320,20,4248,Turbojato,United,21,4848,-37.39853281136314,1.0,Sistemas de Navegação
+Boeing 737,3,39986,Turbojato,Emirates,14,2506,-15.91853649322288,0.0,Nenhuma
+Airbus A350,6,1593,Turbojato,Azul,12,1031,2.3838480474237116,0.0,Nenhuma
+Boeing 787,7,15728,Turbojato,Delta,23,4704,-36.16993553682333,1.0,Sistemas de Navegação
+Boeing 787,20,21384,Turbofan,American,10,4367,-24.187104783441313,1.0,Pressurização
+Airbus A320,23,25683,Turbojato,Delta,22,1606,39.43564343950227,1.0,Sistema Hidráulico
+Embraer E190,25,16534,Turbofan,Delta,20,2255,43.03091254031608,0.0,Nenhuma
+Airbus A330,27,6210,Turbojato,American,15,4493,22.878745528191274,0.0,Nenhuma
+Airbus A330,18,43000,Turboprop,American,7,4005,-18.562995697562407,0.0,Nenhuma
+Boeing 787,11,19759,Turbofan,American,9,971,-17.856017137942636,0.0,Nenhuma
+Boeing 777,19,36459,Turbofan,American,10,454,14.892180412581197,0.0,Nenhuma
+Boeing 777,5,33957,Turbofan,American,10,4822,-30.00403258911035,0.0,Nenhuma
+Airbus A320,19,20643,Turbofan,Delta,16,4734,40.606297336581164,1.0,Outros
+Airbus A330,11,2603,Turboprop,GOL,7,1670,-20.890903541634312,0.0,Nenhuma
+Boeing 787,24,865,Turbojato,GOL,5,3002,44.969028161162726,1.0,Estrutural
+Embraer E190,12,47278,Turbofan,Emirates,23,3168,2.137372600709135,0.0,Nenhuma
+Airbus A330,10,45035,Turboprop,LATAM,3,1644,25.57154906439959,0.0,Nenhuma
+Boeing 787,8,16603,Turbofan,GOL,18,615,-39.81435196702763,0.0,Nenhuma
+Boeing 787,24,33010,Turbojato,United,11,4849,35.543444403889566,1.0,Elétrico
+Boeing 737,28,24976,Turbofan,GOL,15,2918,-17.049826193650663,1.0,Sistema Hidráulico
+Embraer E190,28,13242,Turboprop,Delta,21,907,16.774623286585552,0.0,Nenhuma
+Boeing 737,9,12891,Turbojato,American,20,1334,28.540198867455118,0.0,Nenhuma
+Airbus A320,4,37440,Turboprop,Emirates,5,634,-26.047442052484826,0.0,Nenhuma
+Boeing 737,5,29401,Turbojato,American,12,4377,-2.3866940870155418,0.0,Nenhuma
+Airbus A350,21,32501,Turbojato,British,4,1295,1.9760549554134883,0.0,Nenhuma
+Boeing 737,8,16123,Turbojato,British,15,101,-13.469845446167614,0.0,Nenhuma
