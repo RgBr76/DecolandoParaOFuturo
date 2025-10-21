@@ -1,0 +1,17 @@
+
+### **4. 🗂️ Organizar os Arquivos**
+
+**Mova os arquivos para as pastas:**
+```bash
+# Criar estrutura
+mkdir -p src data models docs images
+
+# Mover arquivos Python
+mv *.py src/
+mv aviacao_falhas.csv data/
+
+# Mover modelos (se existirem)
+mv *.pkl models/ 2>/dev/null || true
+
+# Criar __init__.py para imports
+touch src/__init__.py
